@@ -44,20 +44,24 @@ export default function Page() {
     );
   }
 
-  const estaFavorito = favoritos.includes(hino.numero);
+  const estaFavorito = hino ? favoritos.includes(String(hino.numero)) : false;
 
   function salvarFavoritos(novosFavoritos: string[]) {
     setFavoritos(novosFavoritos);
     localStorage.setItem("hinosFavoritos", JSON.stringify(novosFavoritos));
   }
 
-  function alternarFavorito() {
-    if (estaFavorito) {
-      salvarFavoritos(favoritos.filter((item) => item !== hino.numero));
-    } else {
-      salvarFavoritos([...favoritos, hino.numero]);
-    }
+function alternarFavorito() {
+  if (!hino) return;
+
+  const numeroHino = String(hino.numero);
+
+  if (estaFavorito) {
+    salvarFavoritos(favoritos.filter((item) => item !== numeroHino));
+  } else {
+    salvarFavoritos([...favoritos, numeroHino]);
   }
+}
 
   function diminuirFonte() {
     setTamanhoFonte((atual) => Math.max(16, atual - 2));

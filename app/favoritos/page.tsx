@@ -16,7 +16,7 @@ export default function FavoritosPage() {
   }, []);
 
   const hinosFavoritos = useMemo(() => {
-    return hinos.filter((hino) => favoritos.includes(hino.numero));
+    return hinos.filter((hino) => favoritos.includes(Number(hino.numero)));
   }, [favoritos]);
 
   return (
