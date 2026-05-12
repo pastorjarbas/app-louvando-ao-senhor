@@ -9,11 +9,11 @@ export default function HomePage() {
   const [busca, setBusca] = useState("");
 
   const hinosFiltrados = useMemo(() => {
-    const termo = busca.toLowerCase();
+    const termo = busca.toLowerCase().trim();
 
     return hinos.filter((hino) => {
       return (
-        hino.numero.toString().includes(termo) ||
+        hino.numero.toLowerCase().includes(termo) ||
         hino.titulo.toLowerCase().includes(termo) ||
         hino.letra.toLowerCase().includes(termo) ||
         hino.tags.some((tag) => tag.toLowerCase().includes(termo))
@@ -25,16 +25,16 @@ export default function HomePage() {
     <main className="min-h-screen bg-gray-100 pb-24">
       <header className="bg-blue-900 px-4 py-6 text-white shadow-md">
         <div className="mx-auto max-w-3xl">
-         <div className="mb-4 overflow-hidden rounded-2xl">
-           <Image
-             src="/banner-hinario.webp"
-             alt="Banner do hinario"
-             width={1600}
-             height={500}
-             className="h-auto w-full object-cover"
-             priority
-          />
-        </div>
+          <div className="mb-4 overflow-hidden rounded-2xl">
+            <Image
+              src="/banner-hinario.webp"
+              alt="Banner do hinário"
+              width={1600}
+              height={500}
+              className="h-auto w-full object-cover"
+              priority
+            />
+          </div>
 
           <h1 className="text-center text-3xl font-bold">
             Louvando ao Senhor
@@ -53,7 +53,7 @@ export default function HomePage() {
               type="text"
               value={busca}
               onChange={(e) => setBusca(e.target.value)}
-              placeholder="Buscar por número, título ou palavra..."
+              placeholder="Buscar por número, título, tag ou palavra..."
               className="w-full rounded-xl border border-gray-300 px-4 py-3 text-lg outline-none focus:border-blue-500"
             />
           </div>
@@ -63,7 +63,7 @@ export default function HomePage() {
               hinosFiltrados.map((hino) => (
                 <Link
                   key={hino.numero}
-                  href={`/hinos/${hino.numero}`}
+                  href={`/hinos/${encodeURIComponent(hino.numero)}`}
                   className="block rounded-xl border border-gray-200 p-4 transition hover:bg-gray-50"
                 >
                   <p className="text-sm text-gray-500">
@@ -97,28 +97,34 @@ export default function HomePage() {
 
       <footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 bg-white shadow-lg">
         <div className="mx-auto flex max-w-3xl justify-around py-3">
-          <Link
-            href="/"
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
+          <Link href="/" className="flex flex-col items-center text-sm text-gray-700">
             <span>🏠</span>
             <span>Início</span>
           </Link>
 
-          <button className="flex flex-col items-center text-sm text-gray-700">
+          <Link
+            href="/"
+            className="flex flex-col items-center text-sm text-gray-700"
+          >
             <span>🔎</span>
             <span>Buscar</span>
-          </button>
+          </Link>
 
-          <button className="flex flex-col items-center text-sm text-gray-700">
+          <Link
+            href="/"
+            className="flex flex-col items-center text-sm text-gray-700"
+          >
             <span>📖</span>
             <span>Hinos</span>
-          </button>
+          </Link>
 
-          <button className="flex flex-col items-center text-sm text-gray-700">
+          <Link
+            href="/favoritos"
+            className="flex flex-col items-center text-sm text-gray-700"
+          >
             <span>⭐</span>
             <span>Favoritos</span>
-          </button>
+          </Link>
         </div>
       </footer>
     </main>

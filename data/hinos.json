@@ -1,23 +1,2464 @@
 [
   {
-    "numero": 1,
-    "titulo": "Castelo Forte",
+    "numero": "1",
+    "titulo": "Lugar para Cristo",
     "tags": [
-      "Reforma",
-      "Confissão",
-      "Fé",
-      "Consolo"
+      "Quaresma",
+      "Natal",
+      "Geral"
     ],
-    "letra": "Castelo forte é nosso Deus,\nespada e bom escudo.\n\nCom seu poder defende os seus\nem todo transe agudo."
+    "letra": "**1.**\nTu deixaste Jesus o teu reino de luz,\ne baixaste a este mundo tão vil;\num presépio em Belém, tu Jesus, Sumo Bem,\nescolheste por berço infantil.\n**Vem, Jesus, habitar comigo,\nem minha alma há lugar; ó vem já!\nVem, Jesus habitar comigo,\nem minha alma há lugar; ó vem já!**\n\n**2.**\nAlegraram-se os céus, com os anjos de Deus,\nsim, por teres nascido Jesus,\nvindo aos filhos de Adão conceder salvação\npela morte, em resgate, na cruz.\n**Vem, Jesus, habitar comigo,\nem minha alma há lugar; ó vem já!\nVem, Jesus habitar comigo,\nem minha alma há lugar; ó vem já!**\n\n**3.**\nTu vieste, Senhor, reverlarnos amor,\ne te aprouve do mal nos salvar;\nmas provaste do fel, sofrimento cruel,\nmorte, enfim, te fizeram provar.\n**Vem, Jesus, habitar comigo,\nem minha alma há lugar; ó vem já!\nVem, Jesus habitar comigo,\nem minha alma há lugar; ó vem já!**\n\n**4.**\nOutra vez tu virás, e por mim chamarás,\nrodeado dos anjos de Deus;\nque alegria pra mim, se disseres assim:\num lugar te darei eu nos céus.\n**Vem, Jesus, habitar comigo,\nem minha alma há lugar; ó vem já!\nVem, Jesus habitar comigo,\nem minha alma há lugar; ó vem já!\nminha alma há lugar, ó vem já!**"
   },
   {
-    "numero": 2,
-    "titulo": "Santo, Santo, Santo",
+    "numero": "2",
+    "titulo": "Seu nome é Maravilhoso",
     "tags": [
-      "Trindade",
-      "Louvor",
-      "Adoração"
+      "Consolo",
+      "Geral"
     ],
-    "letra": "Santo, santo, santo,\nDeus onipotente!\n\nCedo de manhã cantaremos\nteu louvor."
+    "letra": "**1.**\nSeu nome é Maravilhoso.\nSeu nome é Maravilhoso.\nSeu nome é Maravilhoso,\nPai da Eternidade,\nPríncipe da Paz.\n\n\n**2.**\nSeu nome é Conselheiro.\nSeu nome é Conselheiro.\nSeu nome é Conselheiro.\nPai da Eternidade,\nPríncipe da Paz.\n\n\n**3.**\nSeu nome é Deus Forte.\nSeu nome é Deus Forte.\nSeu nome é Deus Forte.\nPai da Eternidade,\nPríncipe da Paz.\n\n\n**4.**\nSeu nome é Maravilhoso.\nSeu nome é Conselheiro.\nSeu nome é Deus Forte,\nPai da Eternidade,\nPríncipe da Paz."
+  },
+  {
+    "numero": "3",
+    "titulo": "Cristo em Belém",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nAlta noite estão pastores\nde Belém, no derredor;\ne os cercou de resplendores\nluz celeste do Senhor.\n**Novas tenho dar-vos venho,\ndisse um anjo com dulçor;\neis nascido o Bem querido\nJesus Cristo, o Salvador.**\n\n\n**2.**\nGlória a Deus e paz bendita,\neis o canto angelical.\npara toda a gente aflita,\ntão glorioso e triunfal.\n**Novas tenho dar-vos venho,\ndisse um anjo com dulçor;\neis nascido o Bem querido\nJesus Cristo, o Salvador.**\n\n\n**3.**\nVer Jesus na manjedoura,\nonde veio repousar,\nquerem eles sem demora,\npara a nova confirmar.\n**Novas tenho dar-vos venho,\ndisse um anjo com dulçor;\neis nascido o Bem querido\nJesus Cristo, o Salvador.**\n\n\n**4.**\nO Senhor de quanto existe\nquis pastores procurar,\npara deste berço triste\nsuas novas proclamar.\n**Novas tenho dar-vos venho,\ndisse um anjo com dulçor;\neis nascido o Bem querido\nJesus Cristo, o Salvador.**"
+  },
+  {
+    "numero": "4",
+    "titulo": "Em Belém, há muito tempo",
+    "tags": [
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nBelém, há muito tempo alguém nasceu\ne no Gólgota, por ti também morreu.\nTudo isso ele fez para mostrar\nque te ama e, aos céus, te levará.\n**Lá, lá, lá, lá, lá, lá, lá, lá.\nDeus é amor!\nLá, lá, lá, lá, lá, lá, lá, lá,\nDeus é amor.**\n\n\n**2.**\nPelo mundo quando estás a caminhar,\nos problemas não te devem preocupar.\nSituações difíceis sempre existirão.\nDeus te orienta, segurando a tua mão.\n**Lá, lá, lá, lá, lá, lá, lá, lá.\nDeus é amor!\nLá, lá, lá, lá, lá, lá, lá, lá,\nDeus é amor.**\n\n\n**3.**\nNa igreja, no trabalho e no lar.\nOnde quer que tua voz possa falar,\nnecessita sempre Deus o teu viver,\ne e assim o mundo não irá morrer.\n**Lá, lá, lá, lá, lá, lá, lá, lá.\nDeus é amor!\nLá, lá, lá, lá, lá, lá, lá, lá,\nDeus é amor.**"
+  },
+  {
+    "numero": "5",
+    "titulo": "Deus tem amado",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nDeus tem amado o mundo inteiro,\nDeus tem amado também a mim.\nTorno a dizer: Deus tem amado,\nDeus tem amado também a mim.\n\n**2.**\n Achei-me preso em vil pecado,\nachei-me preso sem salvação.\nTorno a dizer: Deus tem amado,\nDeus tem amado também a mim.\n\n**3.**\n Jesus querido me foi mandado,\nJesus querido salvou-me a mim.\nTorno a dizer: Deus tem amado,\nDeus tem amado também a mim.\n\n**4.**\n Jesus tornou-se por mim culpado,\nJesus tornou-se meu Salvador.\nTorno a dizer: Deus tem amado,\nDeus tem amado também a mim.\n\n**5.**\n A ti louvores, amor eterno,\na ti louvores eu cantarei.\nTorno a dizer: Deus tem amado,\nDeus tem amado também a mim.\n"
+  },
+  {
+    "numero": "6",
+    "titulo": "Noite feliz!",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nNoite feliz! Noite feliz!\nO Senhor, Deus de amor,\npobrezinho nasceu em Belém,\neis na lapa Jesus, nosso bem!\nDorme em paz, ó Jesus!\nDorme em paz, ó Jesus!\n\n**2.**\n Noite feliz! Noite Feliz!\nEis que no ar vêm cantar,\naos pastores os anjos dos céus,\nanuncioando a chegada de Deus.\nDe Jesus Salvador!\nDe Jesus Salvador!\n\n**3.**\n Noite feliz! Noite feliz!\nOh! Jesus, Deus da luz,\nquão afável é teu coração,\nque quiseste nascer nosso irmão.\nPara a todos salvar!\nPara a todos salvar!"
+  },
+  {
+    "numero": "7",
+    "titulo": "Ide, consolai meu povo!",
+    "tags": [
+      "Consolo",
+      "Missão",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nIde, consolai meu povo!\nÉ o clamor do eterno Deus,\naos que estão em densas trevas,\nurge a voz dos altoscéus.\nA Jerusalém pregai,\nsobre a paz de Deus, no Pai,\ne dizei que perdoados\nforam todos os pecados.\n\n**2.**\n Escutai a voz que clama\nno deserto e na amplidão,\nanunciando aos penitentes,\na graciosa salvação.\nDo Senhor a voz ouvi,\ne um caminho a ele abri;\nvales, montes, reverentes,\nrecebei-o mui contentes.\n\n**3.**\n Mesmo cheios de pecado,\nem sua graça confiai;\nrevestidos de humildade,\nem seu reino assim entrai.\nPois a glória do Senhor,\nrevelada é por amor,\ne há de vêla o mundo inteiro —\neis a voz do mensageiro."
+  },
+  {
+    "numero": "8",
+    "titulo": "Ó Tempo santo de Natal",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Advento",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nÓ tempo santo de Natal,\ntu tens mensagens lindas!\nO mundo não tem luz nem paz,\nmas isto meu Jesus me traz.\n**Ó tempo santo de Natal,\ntu tens mensagens lindas!**\n\n**2.**\nÓ tempo santo de Natal,\nalegras toda a gente!\nJesus a cada coração,\ntraz vida, paz, consolação.\n**Ó tempo santo de Natal,\nalegras toda a gente.**\n\n**3.**\nÓ tempo santo de Natal,\neternamente lindo!\nReina alegria em terra e céu,\no amor do Pai Jesus nos deu.\n**Ó tempo santo de Natal,\neternamente lindo!**"
+  },
+  {
+    "numero": "9",
+    "titulo": "Oh! Vinde, meninos!",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Advento",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Vinde, meninos, não falte ninguém!\nCorrei ao presépio da gruta em Belém,\ne vede o presente sublime que Deus,\nna noite feliz nos envia dos céus.\n\n**2.**\n Oh! Vede deitado do mundo áurea luz,\ncriança divina, que é Cristo Jesus,\nem faixas envolto, eis o Filho de Deus,\nmais meigo e formoso que os anjos dos céus.\n\n**3.**\n Maria e José enlevados estão,\npastores humildes, em grata oração,\ne os anjos alegres entoam louvor,\ncom voz jubilosa a Jesus Salvador.\n\n**4.**\n De joelhos, meninos, de joelhos orai,\nas mãos para prece sincera elevai,\nuni vossas vozes com santo fervor,\nao coro dos anjos, louvando ao Senhor!"
+  },
+  {
+    "numero": "10",
+    "titulo": "Quero ir com os pastores",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuero ir com os pastores,\ndar ao Salvador louvores,\nao meu santo e bom Jesus,\nque em Belém viu hoje a luz.\n\n**2.**\n Vou cantar com anjos santos,\nem louvor a Deus meus cantos,\npois aos homens ele traz,\nvida, salvação e paz.\n\n**3.**\n Com os magos do oriente,\nquero dar a ti, contente,\ndo mais caro que eu tiver,\nminha vida deve ser.\n\n**4.**\n Com Maria, pois, eu quero,\nbem guardar milagre vero,\nDeus o mundo tanto amou,\nque seu Filho lhe enviou.\n\n**5.**\n Ó Jesus, que és meu desejo\nteu Natal assim festejo,\nentra no meu coração,\nfaze nele habitação."
+  },
+  {
+    "numero": "11",
+    "titulo": "Volta sempre ao mundo",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nVolta sempre ao mundo,\no Menino Deus, —\nseu amor profundo,\nquer nos ter nos céus.\n\n**2.**\n Sempre abençoando,\nentra em cada lar.\nvai conosco andando,\npara nos guiar.\n\n**3.**\nEle está comigo,\nno meu coração,\né meu bom amigo,\nminha proteção."
+  },
+  {
+    "numero": "12",
+    "titulo": "Ó bom Jesus, menino Deus",
+    "tags": [
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nÓ bom Jesus, Menino Deus,\ndescendo lá dos altos céus,\nnascendo em nosso humilde val,\nna santa noite de Natal.\n\n**2.**\n Ó Salvador, meu bom Jesus,\ntu és a resplandente luz,\nque veio ao mundo nos salvar,\ne o céu aos crentes todos dar.\n\n**3.**\nJesus, menino divinal,\npor hoje ser o teu Natal,\nem toda a terra, em cada lar,\nhá regozijo e bemestar."
+  },
+  {
+    "numero": "13",
+    "titulo": "Já vem perto o Natal",
+    "tags": [
+      "Oração",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nJá vem perto o Natal,\ncanta o verde pinhal.\nHá sons festivos no ar,\nvibram acordes no lar.\n\n**2.**\nCessem prantos e dor,\nvence as mágoas, o amor.\nDo meigo infante Jesus,\ntrevas transformam-se em luz.\n\n**3.**\nFolga, ó meu coração,\nouve a doce canção.\nDa multidão celestial,\neis que está perto o Natal."
+  },
+  {
+    "numero": "14",
+    "titulo": "Felicíssimo, contentíssimo",
+    "tags": [
+      "Louvor",
+      "Advento",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "**1.**\nFelicíssimo, contentíssimo,\ntempo santo de Natal!\nAmor profundo, salvou o mundo.\n**Alegrai-vos, alegrai-vos, ó cristãos!**\n\n**2.**\nFelicíssimo, contentíssimo,\ntempo santo de Natal!\nO Rei da glória, trouxe a vitória!\n**Alegrai-vos, alegrai-vos, ó cristãos!**\n\n**3.**\nFelicíssimo, contentíssimo,\ntempo santo de Natal!\nCoros divinos, cantam seus hinos.\n**Alegrai-vos, alegrai-vos, ó cristãos!\nO Rei da glória, trouxe a vitória!\nAlegraivos, alegraivos, ó cristãos!"
+  },
+  {
+    "numero": "15",
+    "titulo": "Vamos todos exultar",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nVamos todos exultar,\npois o Pai bondoso\no seu Filho nos quis dar,\nFilho tão glorioso.\n\n**2.**\nVeio a nós, no triste val,\nsimples, em pobreza;\nno seu reino celestial\nnos dará grandeza\n\n**3.**\nPara nos enriquecer,\nele se fez pobre.\nQuão profundo deve ser\nseu amor tão nobre!\n\n**4.**\nMira com bondoso olhar,\nó Jesus, teus crentes.\nRicas bênçãos vem nos dar,\ngraças em torrentes."
+  },
+  {
+    "numero": "16",
+    "titulo": "Céu azul",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "Céu azul, noite de esperança.\nNo horizonte uma estrela vem\nanunciar a divinal criança:\né Jesus, num sublime lugar!\n**Anjos cantam em seu louvor\nhinos santos, de paz e amor.\nE na terra a alegria é geral,\nanunciando o primeiro Natal:\nNatal! Natal!**"
+  },
+  {
+    "numero": "17",
+    "titulo": "Porque ele vive",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Páscoa",
+      "Geral"
+    ],
+    "letra": "**1.**\nDeus enviou seu Filho amado,\npra me salvar e perdoar.\nNa cruz morreu por meus pecados,\nmas ressurgiu, e vivo com o Pai está.\n**Porque ele vive, posso crer no amanhã.\nPorque ele vive, temor não há.\nMas eu bem sei, eu sei, que a minha vida,\nestá nas mãos de meu Jesus,\nque vivo está.**\n\n**2.**\nE quando enfim, chegar a hora,\nem que a morte enfrentarei.\nSem medo, então, terei vitória,\nverei na glória o meu Jesus\nque vivo está.\n**Porque ele vive, posso crer no amanhã.\nPorque ele vive, temor não há.\nMas eu bem sei, eu sei, que a minha vida,\nestá nas mãos de meu Jesus,\nque vivo está.**"
+  },
+  {
+    "numero": "18",
+    "titulo": "Ao pé da Cruz",
+    "tags": [
+      "Fé",
+      "Quaresma",
+      "Geral"
+      
+    ],
+    "letra": "**1.**\nQuero estar ao pé da cruz,\nde onde rica fonte,\ncorre franca, salutar,\ndo Calvário, monte.\n**Sim na cruz. Sim na cruz.\nSempre me glorio.\nE enfim vou descansar,\nsalvo além do rio.**\n\n**2.**\n Atremer ao pé da cruz,\ngraça eterna achou-me.\nMatutina estrela ali,\nraios seus mandou-me.\n**Sim na cruz. Sim na cruz.\nSempre me glorio.\nE enfim vou descansar,\nsalvo além do rio.**\n\n**3.**\nSempre a cruz, Jesus, meu Deus,\nqueiras recordar-me.\nDela à sombra, Salvador,\nqueiras abrigar-me.\n**Sim na cruz. Sim na cruz.\nSempre me glorio.\nE enfim vou descansar,\nsalvo além do rio.**\n\n**4.**\nJunto à cruz, ardendo em fé,\nsem temor vigio.\nPois à terra santa irei,\nsalvo, além do rio.\n**Sim na cruz. Sim na cruz.\nSempre me glorio.\nE enfim vou descansar,\nsalvo além do rio.**"
+  },
+  {
+    "numero": "19",
+    "titulo": "Rude Cruz",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nRude cruz se erigiu, dela o dia fulgiu,\ncomo emblema de vergonha e dor.\nEu contemplo essa cruz,\nporque nela Jesus, deu a vida por mim pecador.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**\n\n**2.**\nNessa cruz padeceu, e por mim já morreu,\nmeu Jesus para dar-me perdão.\nE essa cruz para mim tem encanto sem fim,\nporque dela achei salvação.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**\n\n**3.**\nEu aqui com Jesus a vergonha da cruz,\nquero sempre levar e sofrer.\nEle vem me buscar e com ele no lar,\numa parte da glória hei de ter.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**"
+  },
+  {
+    "numero": "19A",
+    "titulo": "Rude Cruz",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nRude cruz se erigiu, dela o dia fulgiu,\ncomo emblema de vergonha e dor.\nEu contemplo essa cruz,\nporque nela Jesus, deu a vida por mim pecador.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**\n\n**2.**\nNessa cruz padeceu, e por mim já morreu,\nmeu Jesus para dar-me perdão.\nE essa cruz para mim tem encanto sem fim,\nporque dela achei salvação.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**\n\n**3.**\nEu aqui com Jesus a vergonha da cruz,\nquero sempre levar e sofrer.\nEle vem me buscar e com ele no lar,\numa parte da glória hei de ter.\n**Sim eu amo a mensagem da cruz,\nté morrer eu a vou proclamar.\nLevarei eu também minha cruz,\nté por uma coroa trocar.**"
+  },
+  {
+    "numero": "20",
+    "titulo": "Substituição",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nMorri na cruz por ti, morri pra te livrar.\nMeu sangue, sim verti, e posso tesalvar.\n**Morri, morri na cruz por ti:\nsim, tudo fiz por ti!\nMorri, morri na cruz por ti:\nsim, tudo fiz por ti!**\n\n**2.**\nAqui vivi por ti, sofrendo angústia e dor.\nSim, tudo fiz aqui pra ser teu Salvador.\n**Morri, morri na cruz por ti:\nsim, tudo fiz por ti!\nMorri, morri na cruz por ti:\nsim, tudo fiz por ti!**\n\n**3.**\nSofri na cruz por ti, a fim de salvar.\nA vida consegui, que tu vais desfrutar.\n**Morri, morri na cruz por ti:\nsim, tudo fiz por ti!\nMorri, morri na cruz por ti:\nsim, tudo fiz por ti!**\n\n**4.**\n Eu trouxe salvação, dos altos céus favor.\nÉ livre meu perdão, sincero meu amor.\n**Morri, morri na cruz por ti:\nsim, tudo fiz por ti!\nMorri, morri na cruz por ti:\nsim, tudo fiz por ti!**\n\n**5.**\nOh! Vem seguir meus passos. Oh! Vem, sim, vem. Oh! Vem.\nServir-me vem, sim, vem, pois sou teu Salvador!\n**Morri, morri na cruz por ti:\nsim, tudo fiz por ti!\nMorri, morri na cruz por ti:\nsim, tudo fiz por ti!**\n"
+  },
+  {
+    "numero": "21",
+    "titulo": "Há momentos",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nHá momentos que as palavras não resolvem,\nmas o gesto de Jesus demonstra amor por nós.\nHá momentos que as palavras não resolvem,\nmas o gesto de Jesus demonstra amor por nós.\n**Foi no Calvário que ele sem falar,\nmostrou ao mundo inteiro o que é amar.\nFoi no Calvário que ele sem falar,\nmostrou ao mundo inteiro o que é amar.**\n\n**2.**\nAqui no mundo as desilusões são tantas,\nmas existe uma esperança é que ele vai voltar.\nAqui no mundo as desilusões são tantas,\nmas existe uma esperança é que ele vai voltar.\n**Foi no Calvário que ele sem falar,\nmostrou ao mundo inteiro o que é amar.\nFoi no Calvário que ele sem falar,\nmostrou ao mundo inteiro o que é amar.**"
+  },
+  {
+    "numero": "22",
+    "titulo": "Bendito Cordeiro",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSeja bendito o Cordeiro, que na cruz por nós padeceu!\nSeja bendito o seu sangue, que por nós pecadores verteu!\nEis, nesse sangue lavados com roupas que tão alvas são,\nos pecadores remidos, que perante seu Deus hoje estão!\n**Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nmais alvo que a neve serei!**\n\n**2.**\nQuão espinhosa a coroa, que Jesus por nós suportou!\nOh! Quão profundas as chagas, que nos provam o quanto ele amou!\nEis, nessas chagas, pureza, para o mais torpe pecador!\nPois que, mais alvos que a neve, o teu sangue nos torna, Senhor!\n**Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nmais alvo que a neve serei!**\n\n**3.**\n Se nós a ti confessarmos, e seguirmos na tua luz,\ntu não somente perdoas, purificas também, ó Jesus;\nsim, e de todo o pecado! Que maravilha desse amor!\nPois, que mais alvos que a neve, o teu sangue nos torna, Senhor!\n**Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nmais alvo que a neve serei!**"
+  },
+  {
+    "numero": "23",
+    "titulo": "Linda Páscoa do Senhor",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Páscoa",
+      "Geral"
+    ],
+    "letra": "**1.**\nLinda Páscoa do Senhor!\nVem do céu um resplendor:\né Jesus que ressurgiu\ne da morte nos remiu.\n**Aleluia! Ressurgiu!\nMeu Jesus me redimiu!\nCanto glória ao meu Senhor,\nque é meu Rei, meu Salvador!**\n\n**2.**\nVem festeja em gratidão\nesta Páscoa, vem cristão!\nPois que Cristo a todos traz\nvida eterna em glória e paz.\n**Aleluia! Ressurgiu!\nMeu Jesus me redimiu!\nCanto glória ao meu Senhor,\nque é meu Rei, meu Salvador!**\n\n**3.**\nAleluia! Proclamai\nque Jesus, a quem o Pai\ndo sepulcro fez sair,\nveio o mundo redimir.\n**Aleluia! Ressurgiu!\nMeu Jesus me redimiu!\nCanto glória ao meu Senhor,\nque é meu Rei, meu Salvador!**\n\n**4.**\nNão esperes, pecador,\nvem a Cristo, o Salvador!\nEle à vida te conduz,\njunto ao Pai, na eterna luz.\n**Aleluia! Ressurgiu!\nMeu Jesus me redimiu!\nCanto glória ao meu Senhor,\nque é meu Rei, meu Salvador!**"
+  },
+  {
+    "numero": "24",
+    "titulo": "Maravilha",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nChegado à cruz do meu Salvador,\nprostrado aos pés do meu Redentor.\nEle atendeu logo o meu clamor:\nglória ao Salvador!\n**Glória ao Salvador! Glória ao Salvador!\nAgora sei que ele me salvou.\nGlória ao Salvador!**\n\n**2.**\nQue maravilha, Jesus me amou!\nTudo de graça me perdoou!\nQuebrou meus laços e me livrou!\nGlória ao Salvador!\n**Glória ao Salvador! Glória ao Salvador!\nAgora sei que ele me salvou.\nGlória ao Salvador!**\n\n**3.**\nJunto à cruz ainda há lugar.\nVem, ó aflito, sem demorar.\nCristo está pronto pra te salvar.\nGlória ao Salvador!\n**Glória ao Salvador! Glória ao Salvador!\nAgora sei que ele me salvou.\nGlória ao Salvador!**"
+  },
+  {
+    "numero": "25",
+    "titulo": "Já rolou",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nJá rolou, já rolou, já rolou.\nDo sepulcro a grande pedra já rolou.\nJá rolou, já rolou, já rolou.\nDo sepulcro a grande pedra já rolou.\nMeu Senhor ressurgiu, para o céu já subiu.\nJá rolou, já rolou, já rolou.\nDo sepulcro a grande pedra já rolou.\n\n**2.**\nJá se foi, já se foi, já se foi,\ntodo o peso da minha alma já se foi.\nJá se foi, já se foi, já se foi,\ntodo o peso da minha alma já se foi.\nMeu Jesus o levou, sobre a cruz expiou.\nJá se foi, já se foi, já se foi,\ntodo o peso da minha alma já se foi."
+  },
+  {
+    "numero": "26",
+    "titulo": "Ninguém nos amou",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nNinguém nos amou\ncomo o Filho de Deus,\nque a glória deixou\nnas venturas dos céus,\nfazendo-se igual\nao homem mortal.\n\n**2.**\n Ninguém nos amou\ncomo o Cristo Jesus,\nque, humilde, aceitou\na vil morte na cruz,\na fim de nos dar\nno céu novo lar.\n\n**3.**\nNinguém nos amou\ncomo o Cristo Senhor,\nque as almas guiou\ncoumo seu bom Pastor;\nna Bíblia nos deu\nconsolo do céu.\n\n**4.**\nSe Cristo, o Senhor,\ncomo nunca ninguém,\nnos deu tanto amor,\nvamos todos também\ncom fé o adorar\ne o amar sem cessar."
+  },
+  {
+    "numero": "27",
+    "titulo": "Há vitória para mim",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Há vitória para mim.\nHá vitória para mim.\nPelo sangue do cordeiro,\nhá vitória para mim.\nVencer! Vencer!\nVencer! Vencer!\nPelo sangue do Cordeiro\neu irei vencer!"
+  },
+  {
+    "numero": "28",
+    "titulo": "Eu canto sempre alegre",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nEu canto sempre alegre e vou dizer porque:\nmeu fardo ele levou. Se alguém me perguntar\ncomo foi, eu lhe direi: meu fardo ele levou.\n**Seu sangue derramou e meu coração lavou.\nOs meus pecados todos carregou.\nNo mar do esquecimento pra sempre os quis deixar.\nMeu fardo ele levou.**\n\n**2.**\nPra Cristo vivo agora e bem feliz estou:\nmeu fardo ele levou. Divina melodia\nminha alma entoará: meu fardo ele levou.\n**Seu sangue derramou e meu coração lavou.\nOs meus pecados todos carregou.\nNo mar do esquecimento pra sempre os quis deixar.\nMeu fardo ele levou.**"
+  },
+  {
+    "numero": "29",
+    "titulo": "Glória, glória ao Grande Rei",
+    "tags": [
+      "Louvor",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nGlória, glória ao grande Rei\nhomens e anjos, todos dêem!\nCristo obedeceu à lei,\ntudo fez por nosso bem.\nTriunfante, ressurgiu;\nvencedor, ao céu subiu.\n\n**2.**\nLá dos céus reinando está\nsobre todos os Senhor;\naos contritos ele dá\nsalvação por seu amor.\nVinde agora e recebei\nredenção aos pés do Rei.\n\n**3.**\nEnche os nossos corações\ncom o teu real poder;\nde pecado e tentações\nvem, Jesus, nos defender,\npois nós somos tua grei.\nGlória, glória a ti, ó Rei!"
+  },
+  {
+    "numero": "30",
+    "titulo": "Corre uma fonte divinal",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nCorre uma fonte divinal\nde sangue do Senhor;\nali terá perdão real\no pobre pecador.\n\n**2.**\n Eu nessa fonte banharei\nmeu sujo coração;\nde Cristo então receberei\ncompleta redenção\n\n**3.**\nLavado assim, me ajuntarei\na toda a multidão\ndos santos fiéis que, junto ao Rei,\nao pé do trono estão.\n\n**4.**\nTeu grande e divinal amor\ndesejo aqui cantar;\nnos céus, porém, Senhor, melhor\nespero te louvar."
+  },
+  {
+    "numero": "31",
+    "titulo": "Divino companheiro no caminho",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nDivino companheiro no caminho\ntua presença sinto logo ao transitar.\nE tu dissipaste toda sombra,\njá tenho luz, a luz bendita do amor.\n**Fica Senhor, já se faz tarde.\nTens meu coração para pousar.\nFaz em mim morada permanente.\nFica Senhor. Fica Senhor, meu Salvador.**\n\n**2.**\nA sombra da noite se aproxima\ne nela o tentador vai chegar.\nNão, não me deixes só no caminho,\najuda-me, ajuda-me até chegar.\n**Fica Senhor, já se faz tarde.\nTens meu coração para pousar.\nFaz em mim morada permanente.\nFica Senhor. Fica Senhor, meu Salvador.**\n"
+  },
+  {
+    "numero": "32",
+    "titulo": "Se Aquela Cruz Falasse",
+    "tags": [
+      "Consolo",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe aquela cruz falasse como Cristo morreu\ndaria a todos nós maior lição de amor.\nDe sangue foi manchada, os pregos suportou,\nergueu sobre o Calvário, Jesus Salvador.\n**Ela viu morrer o Homem-Deus.\nNela sempre achei consolação.\nEla viu morrer o Homem-Deus.\nNela sempre achei consolação.**\n\n**2.**\nA cruz foi escolhida para o mal combater.\nJesus foi condenado, mas nenhum crime fez.\nDe joelhos ante ela posso recordar\ndo amor que Deus em Cristo por mim demonstrou.\n**Ela viu morrer o Homem-Deus.\nNela sempre achei consolação.\nEla viu morrer o Homem-Deus.\nNela sempre achei consolação.**\n"
+
+  },
+  {
+    "numero": "33",
+    "titulo": "Santo Espírito, enche a minha vida",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nSanto Espírito enche a minha vida,\npois em Cristo eu quero brilhar.\nSanto Espírito, enche a minha vida,\nusa-me as almas a salvar.\n**Aleluia, aleluia, aleluia dou ao Cristo Rei.\nAleluia, aleluia, aleluia dou ao Rei.**\n\n**2.**\nSanto Espírito, enche a minha vida,\nquando aos outros de Cristo eu falar.\nSanto Espírito, enche a minha vida,\npara eu com fé testemunhar.\n**Aleluia, aleluia, aleluia dou ao Cristo Rei.\nAleluia, aleluia, aleluia dou ao Rei.**"
+  },
+  {
+    "numero": "34",
+    "titulo": "Oh! Vem, Espírito de amor",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Vem, Espírito de amor,\nmeu guia celestial,\npromessa de meu Salvador\ne vivo manancial.\n\n**2.**\nAviva a nossa débil fé\ne vem nos consolar;\nbenigno, guia o nosso pé\ne firme o faze andar.\n\n**3.**\nConforta o nosso coração;\ne nele vem morar.\nPedimos tua doação:\na fé, que vai salvar.\n\n**4.**\nDa glória vem aqui trazer\na vida, graça e luz;\naplica a todo o meu viver\na redenção da cruz.\n\n**5.**\nOh! Possa a minha fé, Senhor,\nbons frutos produzir.\nBondade, mansidão e amor\nem mim faz reluzir.\n\n**6.🔼**\nAo Pai rendamos o louvor,\nao Salvador também,\ne glória ao bom Consolador,\neternamente. Amém."
+  },
+  {
+    "numero": "35",
+    "titulo": "Espírito Divino",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nEspírito divino,\nque vens do Salvandor,\npedimos teu ensino\nna ciência do Senhor.\nFazermos a vontade\nde Deus vem ajudar,\nperdão e santidade\nem Cristo revelar.\n\n**2.**\nNascidos já malditos\ne sem podemos crer,\nao peso dos delitos\nrestava-nos morrer.\nSem ti os inimigos\niriam nos tragar,\nem lutas e perigos\nnos querem enredar\n\n**3.**\nEspírito divino,\nconosco vem estar,\nguiando o peregrino\na fim de se salvar.\nEle anda receoso\nno val da perdição,\nansiando por repouso\nna celestial mansão."
+  },
+  {
+    "numero": "36",
+    "titulo": "Vem, Espírito Divino",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nVem, Espírito divino,\nnobre Ensinador.\nVem, revela em teu ensino\nnosso Redentor.\n**Grande Mestre,\nbom Consolador,\nteu poder em nós se mostre\nregenerador.**\n\n**2.**\nVem, dissipa em nós a treva\nque o pecado traz,\ne da perdição nos leva\nà mansão da paz.\n**Grande Mestre,\nbom Consolador,\nteu poder em nós se mostre\nregenerador.**\n\n**3.**\nVem, reveste os teu amados\nde justiça e luz,\nreconduze os transviados\nao Pastor Jesus.\n**Grande Mestre,\nbom Consolador,\nteu poder em nós se mostre\nregenerador.**\n\n**4.**\nTu operas entre os povos\nvera conversão,\ndá-lhes pensamentos novos,\nnovo coração.\n**Grande Mestre,\nbom Consolador,\nteu poder em nós se mostre\nregenerador.**"
+  },
+  {
+    "numero": "37",
+    "titulo": "A última Hora",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nAo findar o labor desta vida,\nquando a morte ao teu lado chegar,\nque destino há de ter a tua alma,\nqual será no futuro o teu lar?\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**2.**\n Sempre buscas tesouros na terra,\nalegria e prazeres também;\nvalorizas o tempo presente,\nmas descuidas da vida no além.\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**3.**\nPor acaso valor nunca deste,\nà mensagem de Cristo Jesus?\nMas só ele, o Cordeiro divino,\ntem poder de salvar, pela cruz!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**4.**\nO pecado manchou tua alma,\ne não entra o impuro nos céus.\nMas no sangue de Cristo lavado,\nviverás, para sempre, com Deus!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**5.**\nSe desejas a vida na glória,\nnão demores — vem logo a Jesus!\nE terás, sim, na última hora,\num caminho brilhante de luz!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**"
+  },
+  {
+    "numero": "37A",
+    "titulo": "A Última Hora",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nAo findar o labor desta vida,\nquando a morte ao teu lado chegar,\nque destino há de ter a tua alma,\nqual será no futuro o teu lar?\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**2.**\n Sempre buscas tesouros na terra,\nalegria e prazeres também;\nvalorizas o tempo presente,\nmas descuidas da vida no além.\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**3.**\nPor acaso valor nunca deste,\nà mensagem de Cristo Jesus?\nMas só ele, o Cordeiro divino,\ntem poder de salvar, pela cruz!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**4.**\nO pecado manchou tua alma,\ne não entra o impuro nos céus.\nMas no sangue de Cristo lavado,\nviverás, para sempre, com Deus!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**\n\n**5.**\nSe desejas a vida na glória,\nnão demores — vem logo a Jesus!\nE terás, sim, na última hora,\num caminho brilhante de luz!\n**Meu amigo hoje Cristo te chama.\nNão o deixes em vão esperar!\nAmanhã pode ser muito tarde,\nhoje Cristo te quer libertar!**"
+  },
+  {
+    "numero": "38",
+    "titulo": "Nova criatura sou",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Só o poder de Deus\npode mudar teu ser.\na prova que eu te dou,\né que mudou o meu.\nNão vês que sou feliz,\nservindo ao Senhor?\nnova criatura sou, nova sou."
+  },
+  {
+    "numero": "39",
+    "titulo": "Vai buscar",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nOuço o clamor do Bom Pastor,\npelodeserto assolador,\nseus cordeirinhos a chamar,\nmui desejoso de os salvar.\n**Vai buscar! Vai buscar!\nVai buscar meus cordeirinhos, vai.\nVai buscar! Vai buscar!\nTraze-os para o meu aprisco.**\n\n**2.**\nQuem não deseja trabalhar,\nos cordeirinhos seus buscar,\ne encaminhá-los a Jesus,\nfonte de vida, amor e luz?\n**Vai buscar! Vai buscar!\nVai buscar meus cordeirinhos, vai.\nVai buscar! Vai buscar!\nTraze-os para o meu aprisco.**\n\n**3.**\nPelos desertos a sofrer,\nouve os seus gritos ao morrer,\ne o Mestre clama: vai buscar!\nPara que os possa então salvar.\n**Vai buscar! Vai buscar!\nVai buscar meus cordeirinhos, vai.\nVai buscar! Vai buscar!\nTraze-os para o meu aprisco.**\n\n"
+  },
+  {
+    "numero": "40",
+    "titulo": "Ergue-se o estandarte",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Quaresma",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nErgue-se o estandarte, tremulando à luz:\na coroa brilha, circundando à cruz!\nNa cruzada invicta, quem quer hoje entrar\ne o evangelho aos povos com fervor pregar?\n**Erguese o estandarte\ntremulando á luz:\na coroa brilha, circundando a cruz.**\n\n**2.**\nLuta contra as trevas! Luta contra o mal!\nVamos à peleja santa, divinal,\ndar combate ao erro, à superstição,\nproclamando aos homens Cristo, a redenção!\n**Erguese o estandarte tremulando á luz:\na coroa brilha, circundando a cruz.**\n\n**3.**\nVinde ao bom combate, sem esmorecer;\nde valor eterno glória haveis de ter.\nA quem quer seguí-lo, eis que diz Jesus:\nnegue-se a si mesmo,\ntome a sua cruz.\n**Erguese o estandarte tremulando á luz:\na coroa brilha, circundando a cruz.**\n\n**4.**\nSalvador, confio em teu grande amor.\nEntro na batalha com vibrante ardor.\nDá que em teu serviço saiba a cruz tomar,\ne teu santo nome hoje e sempre honrar.\n**Erguese o estandarte tremulando á luz:\na coroa brilha, circundando a cruz.**"
+  },
+  {
+    "numero": "41",
+    "titulo": "Vem agora",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nVem a Cristo, vem agora.\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**\n\n**2.**\nCrendo nele, ficas salvo,\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**\n\n**3.**\nDeus não quer que tu te percas.\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**\n\n**4.**\n Cristo pode, sim, salvar-te.\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**\n\n**5.**\nO Senhor não te rejeita.\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**\n\n**6.**\nEle almeja perdoar-te.\nVem, ó vem pecador!\n**Vem, vem confiadamente,\na Jesus, o Senhor.**"
+  },
+  {
+    "numero": "42",
+    "titulo": "Nome precioso",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nLeva tu contigo o nome\nde Jesus, o Salvador;\nEste nome dá consolo,\nseja no lugar que for.\n**Nome bom, doce à fé,\nesperança do porvir.\nNome bom, doce a fé,\nesperança do porvir.**\n\n**2.**\nEste nome leva sempre\npara bem te defender.\nEle é arma ao teu alcance,\nquando o mal te aparecer.\n**Nome bom, doce à fé,\nesperança do porvir.\nNome bom, doce a fé,\nesperança do porvir.**\n\n**3.**\nOh! Que nome tão precioso!\ngozo traz ao coração.\nSendo por Jesus aceito,\nTu terás o seu perdão.\n**Nome bom, doce à fé,\nesperança do porvir.\nNome bom, doce a fé,\nesperança do porvir.**\n\n**4.**\nNome santo e venerável,\né Jesus, o amado teu.\nRei dos Reis, Senhor eterno,\ntu o aclamarás no céu.\n**Nome bom, doce à fé,\nesperança do porvir.\nNome bom, doce a fé,\nesperança do porvir.**"
+  },
+  {
+    "numero": "43",
+    "titulo": "Oh! Quão cego eu andei",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Quão cego eu andei e perdido vaguei,\nlonge, longe do meu Salvador.\nMas da glória desceu e seu sangue verteu\npra salvar um tão pobre pecador.\n**Foi na cruz, foi na cruz onde um dia eu vi\nmeu pecado castigado em Jesus.\nFoi ali, pela fé, que meus olhos abri,\ne eu agora me alegro em sua luz.**\n\n**2.**\nEu ouvia falar dessa graça sem par,\nque do céu trouxe nosso Jesus.\nMas eu rude me fiz, converter-me não quis,\nao Senhor que por mim morreu na cruz.\n**Foi na cruz, foi na cruz onde um dia eu vi\nmeu pecado castigado em Jesus.\nFoi ali, pela fé, que meus olhos abri,\ne eu agora me alegro em sua luz.**\n\n**3.**\nMas um dia senti meus pecados e vi\nsobre mim o castigo da lei.\nMas Jesus me buscou, no evangelho eu cri,\ne refúgio seguro encontrei.\n**Foi na cruz, foi na cruz onde um dia eu vi\nmeu pecado castigado em Jesus.\nFoi ali, pela fé, que meus olhos abri,\ne eu agora me alegro em sua luz.**\n\n**4.**\nOh! Que grande prazer inundou o meu ser.\nconhecendo esse tão grande amor.\nQue levou meu Jesus a sofrer lá na cruz,\npra salvar um tão pobre pecador.\n**Foi na cruz, foi na cruz onde um dia eu vi\nmeu pecado castigado em Jesus.\nFoi ali, pela fé, que meus olhos abri,\ne eu agora me alegro em sua luz.**"
+  },
+  {
+    "numero": "44",
+    "titulo": "Segue-me",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nEscuta a voz de meu Jesus:\nSegueme, vem,segueme.\nGuiarte-ei à eterna luz,\nsegue-me, vem, segue-me.\nPor ti eu toda a lei cumpri,\npor ti o amargo fel bebi,\npor ti a morte já sofri,\nsegue-me, vem, segue-me.\n\n**2.**\n Liberto dos pecados teus,\nsegue-me, vem segue-me.\nGuiar-te-ei aos altos céus,\nsegue-me, vem, segue-me.\nOh! Quantas vezes te chamei,\ne tu quebraste a minha lei,\nmas fiador teu eu fiquei,\nsegue-me, vem, segue-me.\n\n**3.**\nEm mim tu podes descansar,\nsegue-me, vem, segue-me.\nVem teus cuidados me entregar,\nsegue-me, vem, segue-me.\nEu sou teu Deus, teu Salvador,\neu te amo muito, ó pecador.\nOh! Deixa todo o teu temor,\nsegue-me, vem, segue-me.\n\n**4.**\nSim, meu Jesus, te seguirei,\nseguirei, sim, seguirei.\nPor ti eu tudo deixarei,\ndeixarei, sim, deixarei.\nMui débil sou e sem valor,\nsem ti não posso andar, Senhor,\nmas, enche-me do teu vigor,\nseguirei, sim, seguirei."
+  },
+  {
+    "numero": "45",
+    "titulo": "Conversação cristã",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSabeis falar de tudo que neste mundo há,\nmas nem sequer palavra de Deus que tudo dá!\n**Irmãos! Irmãos, falemos de nosso Salvador;\noremos, ou cantemos e demoslhe louvor!**\n\n**2.**\nFalamos do mau tempo, do frio e do calor.\nOh! Bem melhor seria falar do Salvador.\n**Irmãos! Irmãos, falemos de nosso Salvador;\noremos, ou cantemos e demoslhe louvor!**\n\n**3.**\nFalemos da bondade do grande Salvador,\nde sua excelsa graça, de seu imenso amor.\n**Irmãos! Irmãos, falemos de nosso Salvador;\noremos, ou cantemos e demoslhe louvor!**\n\n**4.**\nDa cruz também falemos, onde ele nos quis dar\nseu sangue tão precioso, e assim nos resgatar.\n**Irmãos! Irmãos, falemos de nosso Salvador;\noremos, ou cantemos e demoslhe louvor!**"
+  },
+  {
+    "numero": "46",
+    "titulo": "Manso e bondoso",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nManso e bondoso, eis Jesus nos chamando.\nChama por ti e por mim.\nEis, bate à porta, paciente esperando,\nbate por ti e por mim.\n**Oh! Vem! Sim, vem!\nNão te demores, vem já!\nEis, bate a porta paciente esperando,\nchama: Oh! Pecador, vem!**\n\n**2.**\nPor que esperamos? Jesus nos convida.\nChama por ti e por mim.\nNão desprezemos a graça da vida,\ndada por ti e por mim.\n**Oh! Vem! Sim, vem!\nNão te demores, vem já!\nEis, bate a porta paciente esperando,\nchama: Oh! Pecador, vem!**\n\n**3.**\nQue imenso amor tem Jesus nos mostrado,\nsempre por ti e por mim.\nsempre por ti e por mim.\nPois libertou-nos do triste pecado,\nmártir por ti e por mim.\n**Oh! Vem! Sim, vem!\nNão te demores, vem já!\nEis, bate a porta paciente esperando,\nchama: Oh! Pecador, vem!**"
+  },
+  {
+    "numero": "47",
+    "titulo": "Cristo para todos",
+    "tags": [
+      "Missão",
+      "Geral"
+    ],
+    "letra": "**Deus nos traz uma mensagem.\nÉ mensagem de amor,\ndiz que Cristo nos perdoa,\ndiz que Cristo é Salvandor.**\n\n**1.**\nIsto é dito às crianças, dito aos jovens e anciãos.\nPara os homens e mulheres, para todas as nações.\nCristo para todos! Cristo para todos!\n\n**Deus nos traz uma mensagem.\nÉ mensagem de amor,\ndiz que Cristo nos perdoa,\ndiz que Cristo é Salvandor.**\n\n**2.**\nIsto é dito ao que trabalha, empregado e patrão.\nIsto é dito ao governante, e a todo cidadão.\nCristo para todos! Cristo para todos!\n\n**Deus nos traz uma mensagem.\nÉ mensagem de amor,\ndiz que Cristo nos perdoa,\ndiz que Cristo é Salvandor.**\n\n**3.**\nIsto é dito ao solitário, e ao que vive em comunhão.\nIsto é dito aos pecadores, que precisam do perdão.\nCristo para todos! Cristo para todos!\n\n**Deus nos traz uma mensagem.\nÉ mensagem de amor,\ndiz que Cristo nos perdoa,\ndiz que Cristo é Salvandor.**"
+  },
+  {
+    "numero": "48",
+    "titulo": "Quero muitas almas a Cristo levar",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuero muitas almas a Cristo levar\npara aquele lindo, lindo lar.\nQuero vê-las todas a entrar\npara aquele lindo, lindo lar.\n**Eu vou, cantar, naquele lar eu vou!\nEu vou, morar, naquele lindo lar.**\n\n**2.**\nQuero cada dia em Cristo olhar\npara aquele lindo, lindo lar.\nQuero glorioso caminhar\npara aquele lindo, lindo lar.\n**Eu vou, cantar, naquele lar eu vou!\nEu vou, morar, naquele lindo lar.**"
+  },
+  {
+    "numero": "49",
+    "titulo": "Ide por todo o mundo",
+    "tags": [
+      "Missão",
+      "Geral"
+    ],
+    "letra": "**Ide por todo o mundo e pregai o Evangelho a toda a criatura.\nIde por todo o mundo e pregai o Evangelho a toda a criatura.**\n\n**1.**\nDeus enviou seu Filho para nos salvar,\ndo pecado libertar.\nTemos a certeza que ele nos livrou,\nsobre a morte triunfou.\n\n**Ide por todo o mundo e pregai o Evangelho a toda a criatura.\nIde por todo o mundo e pregai o Evangelho a toda a criatura.**\n\n**2.**\nTu que agora sabes deste seu perdão,\nsentes pelo teu irmão?\nVai então e ensina: Cristo é a salvação\nque tira da escuridão.\n\n**Ide por todo o mundo e pregai o Evangelho a toda a criatura.\nIde por todo o mundo e pregai o Evangelho a toda a criatura.**\n\n"
+  },
+  {
+    "numero": "50",
+    "titulo": "Quem vive na glória",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuem vive na glória, feliz com Jesus?\nQuem poderá com Cristo andar na santa luz?\n**Quem poderá com Cristo andar na santa luz?**\n\n**2.**\nUm homem perdido sem Cristo, o Senhor,\n**jamais verá o celeste, o divinal fulgor. \nJamais verá o celeste, o divinal fulgor.**\n\n**3.**\nExiste um caminho que vai para o céu\n**e as almas redimidas conduz bem junto a Deus.\nE as almas redimidas conduz bem junto a Deus.**\n\n**4.**\nNa cruz do Calvário Jesus conseguiu\n**vencer o mal e a morte e a estrada à glória abriu.\nVencer o mal e a morte e a estrada à glória abriu.**\n\n**5.**\nOh! Vem meu(minha) amigo(a) Jesus te quer bem.\n**Serás eternamente feliz no lar do além.\nSerás eternamente feliz no lar do além.**\n"
+  },
+  {
+    "numero": "51",
+    "titulo": "O Senhor Da Ceifa Chama",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nO Senhor da ceifa está chamando: Quem quer ir por mim a procu-\nrar almas que no mundo vão chorando,\nsem da salvação participar? Fala, Deus! Fala,\nDeus! Tocame com brasas do altar. Fala,\nDeus! Fala, Deus! Sim, alegre, atendo ao teu mandar.\n\n**2.**\n Muitos são os que vão expirando **3.**\n Breve os trabalhos serão findos,\nbênçãos vão os servos desfrutar.\nsem ter esperanças de ver Deus. E Jesus os saudará: Bemvindos!\nEsta glória espero alcançar.\nVai, depressa lhes anunciando\nque Jesus os leva para os céus.\nFala, Deus! Fala, Deus!\nTocame com brasas do altar.\nFala, Deus! Fala, Deus!\nSim, alegre, atendo ao teu mandar."
+  },
+  {
+    "numero": "52",
+    "titulo": "Mãos Ao Trabalho",
+    "tags": [
+      "Missão",
+      "Geral"
+    ],
+    "letra": "**1.**\nMãos ao trabalho, jovens, na vinha do Senhor, enquanto ainda tendes\nvossa vida em flor. Vamos,enquanto é dia, com força traba-\nlhar. Eia! Que em vindo a noite, não há mais lidar.\n\n**2.**\n Mãos ao trabalho, servas, **3.**\n Mãos ao trabalho, servos, obreiros de Jesus!\nIde que é tempo agora de servir na luz.\nsem nunca esmorecer; Ide o vigor da vida a Cristo devotar.\nEia! Que, em vindo a noite, não há mais lidar.\ntendo Jesus ao lado,\nfácil é vencer. **4.**\n Mãos ao trabalho, todos! Breve nos chega o fim,\nquando tocar no juízo o anjo o seu clarim.\nVamos, irmãs, servindo, Vamos, irmãos, à obra, por Cristo trabalhar!\nEia! Que, em vindo a noite, vamos descansar.\na Deus nos consagrar.\nEia! Que, em vindo a noite,\nnão há mais lidar."
+  },
+  {
+    "numero": "53",
+    "titulo": "Em Cada Lugar",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe já estás salvo por Cristo, o Senhor, dizeo em cada lu -\ngar! E se ele, perdido, te achou pecador, dizeo em cada lu-\ngar! Irmão, Irmão! Dizeo em cada lugar! Se\ntu os perdidos quiseres salvar, dizeo em cada lugar!\n\n**2.**\n Se Cristo expiou tua culpa na cruz, **3.**\n Se queres servir a Jesus, por amor,\ndizeo em cada lugar!\ndizeo em cada lugar! Se tens boas novas do teu Salvador,\ndizeo em cada lugar!\nSe sabes que te ama e que ao céu te conduz,\ndizeo em cada lugar!\n\n**4.**\n Se tu és herdeiro com Cristo nos céus,\nIrmão, irmão! dizeo em cada lugar!\nAté à presença chegares de Deus,\nDizeo em cada lugar! dizeo em cada lugar!\nSe tu os perdidos quiseres salvar,\ndizeo em cada lugar!"
+  },
+  {
+    "numero": "54",
+    "titulo": "Cristo Disse",
+    "tags": [
+      "Consolo",
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "# 4 ‰ j E m. j A m j\n1. Cristo disse: Vós sois a luz do mundo. Cristo disse: Vós sois o sal da\n# j ‰ j j\nterra. A tua palavra é lâmpada, e luz para os meus caminhos. A\ntua palavra é lâmpada, e luz para os meus caminhos. Vou fa -\nlar de Cristo ao mundo. Proclamar seu nome na amplidão. Pois eu\nsei, sim, eu sei: Quem segura a minha mão é Jesus, o Redentor!\n\n**2.**\n Precisamos da paz, do amor de Cristo. Vou falar de Cristo ao mundo.\nPrecisamos do pão que é eterno. Proclamar seu nome na amplidão.\nLuzeiros de Cristo somos, Pois eu sei, sim, eu sei:\ne arautos da salvação. Quem segura a minha mão\nLuzeiros de Cristo somos, é Jesus, o Redentor!\ne arautos da salvação."
+  },
+  {
+    "numero": "55",
+    "titulo": "Não Importa, Meu Amigo, Quem Tu És",
+    "tags": [
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nNão importa, meu amigo, quem tu és, se à\nsombra do calvário tu estás, se o teu coração é igual ao\nmeu, dáme a mão pois meu irmão tu és. Dáme a\nmão, dáme a mão, dáme a mão pois meu irmão tu\nés. Dáme a mão, dáme a mão, dáme a\nmão pois meu irmão tu és.\nFonte: não encontrada"
+  },
+  {
+    "numero": "56",
+    "titulo": "Uma Centelha Só",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nUma centelha só um grande fogo faz,\nqueimando ao re-\ndor e a todos calor traz. O amor de Deus assim é.\nj j j\nSe você quiser sentir um grande amor, amor sem fim. Vo-\ncê vai transmitir. quero transmitir.\n\n**2.**\n A primavera é **3.**\n Quero que você\nA conheça a felicidade\na mais linda e verde estação. igual a que encontrei,\nque é a realidade.\nAs aves a cantar Do alto da montanha\nA ao mundo vou falar\ne a flor que surge do botão. que encontrei\nJesus Senhor.\nO amor de Deus assim é. Eu quero transmitir.\nSe você quiser sentir\nUm grande amor,\namor sem fim.\nVocê vai transmitir."
+  },
+  {
+    "numero": "57",
+    "titulo": "Os Pequeninos Jesus Muito Amou",
+    "tags": [
+      "Santa Ceia",
+      "Quaresma",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nOs pequeninos Jesus muito amou e para a luz ele os conduz.\nseu lugar lá na cruz se entregou. Que grande amigo é Jesus!\n\"Os pequeninos deixai vir a mim\", disse Jesus, pois amounos sem fim.\nSalvos por ele, seguimos na luz. Que grande amigo é Jesus!\n\n**2.**\n Seja na Índia, na China ou Japão. **3.**\n Ricos e pobres a todos amou.\nA A todos sim; que amor sem fim!\nSeja onde for Cristo é Senhor. Fracos e fortes, sim todos comprou.\nE a todos diz: \"Vinde a mim\".\nNo Polo Norte ou no extremo Sudão.\nVela Jesus com amor.\n\"Os pequeninos deixai vir a mim\",\ndisse Jesus, pois amounos sem fim.\nSalvos por ele seguimos na luz.\nQue grande amigo é Jesus!\nReferência bíblica: Marcos 10.14-16"
+  },
+  {
+    "numero": "58",
+    "titulo": "Somos A Igreja De Cristo",
+    "tags": [
+      "Missão",
+      "Geral"
+    ],
+    "letra": "**1.**\nSomos a igreja de Cristo, não devemos esquecer.\nTemos todos a missão: Testemunhar da salvação.\nCristo é a cabeça da igreja, vamos a todos anunciar\n# # A j Œ ..\nde mãos dadas, unidos no amor que Cristo nos ensinou. ...nou.\n\n**2.**\n Cristo morreu por nós,\ndeunos o perdão.\nVamos agradecer,\ncantando esta canção.\n: : Cristo é a cabeça da igreja,\nvamos a todos anunciar\nde mãos dadas, unidos no amor\nque Cristo nos ensinou. : :\nReferência bíblica: Ef **4.**\n15-16"
+  },
+  {
+    "numero": "59",
+    "titulo": "Desperta, Pecador",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nDesperta, pecador, é tempo de acordar, a voz do Salva-\ndor está sempre a chamar. Desperta, tu que dormes, sai desta escuri-\ndão! Aceita o evangelho, em Deus há salvação.\n\n**2.**\n Só em Jesus Cristo se encontra salvação,\nassim Deus tem previsto te dar a redenção,\npois Deus assim o quis em Cristo revelar\no seu amor profundo e os homens perdoar.\n\n**3.**\n Medita, pecador, na graça de Jesus;\nmedita em seu amor, medita pela cruz\nSe as tuas muitas ofensas na cruz te perdoou,\naceita a graça imensa do grande Redentor.\n\n**4.**\n Se desprezares o convite de Jesus.\no teu fim será triste, medita pecador.\nSe as tuas muitas ofensas na cruz de perdoou.\naceita a graça imensa do grande Redentor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "60",
+    "titulo": "Parabéns A Você",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nParabéns a você, nesta data querida, muitas felici -\ndades, muitos anos de vida.\n\n**2.**\n Que Jesus o acompanhe **3.**\n Parabéns, parabéns,\no seu dia chegou,\ne lhe faça sorrir, que o bom Deus o ajude\ncomo sempre ajudou!\nque lhe leve um dia\nao eterno porvir."
+  },
+  {
+    "numero": "61",
+    "titulo": "Alegrai-Vos Sempre",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Alegraivos sempre no Senhor alegraivos no Senhor. Ale-\ngraivos sempre no Senhor. Alegraivos no Senhor. Ale-\ngrai Alegrai, Alegraivos no Senhor. Ale-\ngrai. Alegrai. Alegraivos no Senhor.\nFonte: não encontrada\nReferência bíblica: Fp **4.**\n4"
+  },
+  {
+    "numero": "62",
+    "titulo": "Meu Coração Contente Está",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "Meu coração contente está. Meu cora -\nção contente está. Porque Jesus já me sal-\nvou. Meu cora- ...vou. Oh! Quão feliz, feliz, feliz, se sente a\nalma com Jesus, com a paz que nenhum outro pode\ndar. Oh! Quão fe... paz que nenhum outro pode dar.\nFonte: não encontrada\nReferência bíblica: João 1**4.**\n27"
+  },
+  {
+    "numero": "63",
+    "titulo": "Louva, Louva Teu Senhor",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "Fine\nLouva, louva teu Senhor pelas bênçãos que te dá.\n1. Pelo sol, pelo luar, pela estrela, pelo mar,\npela chuva, pela flor, pelo teu irmão.\nLouva, louva teu Senhor\npelas bênçãos que te dá.\n\n**2.**\n Por Jesus morrer na cruz, **3.**\n Como poderás calar,\nA vendo o seu amor sem par,\npela vida amor e luz. sua ajuda sem cessar?\nA Vamos, pois, louvar!\nNesta vida nos conduz;\nele é salvação"
+  },
+  {
+    "numero": "64",
+    "titulo": "Deus Está Aqui, Quão Glorioso É",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "Deus está aqui, quão glorioso é. Ele prometeu onde\nhá dois ou três. Fica Senhor, fica Senhor, fica Se-\nnhor aqui. Ó Cristo vem, fazer de mim um altar,\npara adorarte com devoção, para beber da\nágua da vida, e saciar Senhor meu coração.\nFica Senhor, fica Senhor, fica Senhor aqui.\nFonte: não encontrada\nReferência bíblica: Mt 1**8.**\n20"
+  },
+  {
+    "numero": "65",
+    "titulo": "Ó Terras Todas, Celebrai",
+    "tags": [
+      "Louvor",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nÓ terras todas, celebrai! Com júbilo ao Senhor cantai! A -\n# # m m A A\npresentaivos com louvor, servindo em alegria e amor.\n\n**2.**\n Lembraivos: O Senhor é Deus! **3.**\n Seu povo somos, sua grei,\nA e por seu Verbo, sua Lei,\nSeu nome adoram terra e céus. nos pastoreia, sem cessar;\nA jamais nos há de abandonar.\nNão és teu próprio criador,\nA **4.**\n Por suas portas, vinde, entrai;\npois tudo deves ao Senhor. ações de graças lhe ofertai!\nEntrai com salmos de louvor\nnos átrios santos do Senhor.\n\n**5.**\n De geração em geração\nperdura sua compaixão.\nSeu santo nome bendizei;\na vida, gratos, lhe rendei.\nReferência bíblica: Sl 100"
+  },
+  {
+    "numero": "66",
+    "titulo": "Plena Paz",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "J. O. Jr / A. N.\n1. Plena paz e santo gozo tenho em ti, ó meu Jesus! Pois eu\ncri em tua morte sobre a cruz. No Senhor eu confiando neste\nmundo viverei, entoando aleluias ao meu Rei! Oh! Gló-\nria a Jesus! Pois é digno de louvor. É meu\nRei meu Salvador e meu Senhor. Como os anjos que o louvam eu tam-\nbém o louvarei, entoando aleluias ao meu Rei!\n\n**2.**\n O amor de Jesus Cristo Oh! Glória a Jesus! Pois é digno de louvor.\né mui grande para mim, É meu Rei meu Salvador e meu Senhor.\npois sua graça me encheu Como os anjos que o louvam eu também o louvarei,\nde amor sem fim. entoando aleluias ao meu Rei!\nMeu Jesus foi para a glória, **3.**\n Este mundo não deseja tão bondoso Salvador,\nnão sabendo agradecer seu grande amor.\nmas um dia o verei, Eu, porém, estou gozando do favor de sua lei,\nentoando aleluias ao meu Rei!\n\n**4.**\n Quando o povo redimido com Jesus se encontrar,\ndando glória, ao seu nome, sem cessar.\nNesse tempo só os salvos hão de ser a mesma grei,\nentoando aleluias ao meu Rei!"
+  },
+  {
+    "numero": "67",
+    "titulo": "Pai, Eu Te Adoro",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nPai, eu te adoro, minha vida te entrego,\ncomo eu te amo. **2.**\n Jesus, eu te adoro, minha vida te en-\ntrego, como eu te amo. **3.**\n Espírito, eu te adoro,\nminha vida te entrego, como eu te amo."
+  },
+  {
+    "numero": "68",
+    "titulo": "Louvai-O!  Louvai-O!",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nLouvaio! Louvaio! Todas as crianças. Deus é a -\nmor! Deus é amor! Louvaio! Louvaio! Todas as cri -\nanças. Deus é amor! Deus é amor!\n\n**2.**\n Amaio! Amaio! Todas as crianças. **3.**\n Servio! Servio! Todas as crianças.\nDeus é amor! Deus é amor!\nDeus é amor! Deus é amor! Servio! Servio! Todas as crianças.\nDeus é amor! Deus é amor!\nAmaio! Amaio! Todas as crianças.\nDeus é amor! Deus é amor! **4.**\n Louvaio! Louvaio! Todas as crianças.\nDeus é amor! Deus é amor!\nLouvaio! Louvaio! Todas as crianças.\nDeus é amor! Deus é amor!"
+  },
+  {
+    "numero": "69",
+    "titulo": "Graças Dou",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nGraças dou por esta vida, pelo bem que revelou. Graças\ndou por meu futuro e por tudo que passou, pelas\nbênçãos derramadas, pela dor e, na aflição, pelas\ngraças reveladas; graças dou por teu perdão.\n\n**2.**\n Graças pelo azul celeste **3.**\n Pela cruz e o sofrimento\nA e a feliz ressurreição,\ne por nuvens que há também, pelo amor que é sem medida,\npela paz no coração,\npelas rosas no caminho pela lágrima vertida\nE A e o consolo que é sem par,\ne os espinhos que elas têm, pelo dom da eterna vida -\nA sempre graças hei de dar.\npela escuridão da noite,\npela estrela que brilhou,\npela prece respondida\ne a esperança que falhou."
+  },
+  {
+    "numero": "70",
+    "titulo": "A Bênção Chegou",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "A bênção chegou, Jesus está aqui com seu poder\nj . j . J\npra proteger. O anjo de Deus aqui bse acampou. Aqui nesta igreja a\nbênção chegou. Aqui nesta igreja a bênção chegou.\nFonte: Não encontrada"
+  },
+  {
+    "numero": "71",
+    "titulo": "Alegrei-Me Quando Me Disseram",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Alegreime quando me disseram: Vamos, vamos à casa do Se-\nnhor. Alegreime quando me disseram: Vamos vamos à casa do Se-\nnhor. No dia do Senhor, no dia do Senhor, le-\nvado pela mão do nosso Salvador. No dia do Senhor, no\ndia do Senhor, estudar o Livro do Senhor.\nFonte: não encontrada\nReferência bíblica: Salmo 12**2.**\n1"
+  },
+  {
+    "numero": "72",
+    "titulo": "O Culto Hoje Vai Ser Maravilhoso",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "O culto hoje vai ser maravilhoso porque Je-\nsus vai derramar o seu poder. O culto hoje vai ser maravi-\n(estudo)\nlhoso porque Jesus vai derramar o seu poder. Der -\nrama Senhor, derrama Senhor! Derrama sobre nós o teu poder. Der-\nrama Senhor, derrama Senhor! Derrama sobre nós o teu poder.\nFonte: não encontrada"
+  },
+  {
+    "numero": "73",
+    "titulo": "Servir",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "# 4G j . j j\n1. Servir, servir, servir com alegria,\nsempre, todo o dia. Servir, servir ao nosso Salvador\n\n**2.**\n Amar, amar, amar com alegria **3.**\n Louvar, louvar, louvar com alegria.\nsempre todo o dia.\nsempre todo o dia. Louvar, louvar, ao nosso Salvador.\nAmar, amar, ao nosso Salvador."
+  },
+  {
+    "numero": "74",
+    "titulo": "Cantai Alegremente",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Cantai alegremente, cantai a Deus louvor! Tra -\nzeilhe vosso canto de júbilo e de amor. É\nDeus quem faz a terra seus frutos produzir, e às\nestações ordena nos anos prosseguir.\n\n**2.**\n É Deus que envia as chuvas **3.**\n Trazei aos seus altares\nA E A dos frutos que ele deu.\ne os montes faz florir, Vós, almas redimidas,\npor quem Jesus morreu,\nos campos exultantes prostraivos diante dele\nA E A humildes com louvor;\nde trigo se cobrir. e, sempre em vossas vidas,\nE dai graças ao Senhor!\nDeus tudo multiplica\nem sua compaixão,\ne de farturas o ano\ncoroa sua mão.\nReferência bíblica: Sl 100"
+  },
+  {
+    "numero": "75",
+    "titulo": "Além Do Céu Azul",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Além do céu azul, na presença do Senhor, todos\nse levantarão, dando glórias e louvor. Vem, vem, vem! Vem\njá andar na luz! Vem, vem, vem! Vem dar glória a Jesus!\nFonte: Não encontrada"
+  },
+  {
+    "numero": "76",
+    "titulo": "Estou Alegre, Alegre, Mui Alegre",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nEstou alegre, alegre, mui alegre. Estou a -\nlegre, alegre eu estou. Estou alegre, alegre, mui a -\nlegre. Estou alegre porque Cristo me salvou. Por isso eu\ncanto, eu canto aleluia. Por isso eu canto, eu canto glória a\nDeus. Por isso eu canto, eu canto aleluia. Por isso eu\ncanto, porque Cristo me salvou.\n\n**2.**\n Não sou do mundo, do mundo eu não sou. **3.**\n Vou para o céu e para o céu eu vou.\nE Vou para o céu e para o céu eu vou.\nNão sou do mundo, do mundo eu não sou. Vou para o céu e para o céu eu vou.\nA Vou para o céu porque Cristo me salvou.\nNão sou do mundo, do mundo eu não sou.\nNão sou do mundo porque Cristo me salvou.\nPor isso eu canto, eu canto aleluia.\nPor isso eu canto, eu canto glória a Deus.\nPor isso eu canto, eu canto aleluia.\nPor isso eu canto, porque Cristo me salvou.\nFonte: não encontrada"
+  },
+  {
+    "numero": "77",
+    "titulo": "Nesta Hora Feliz",
+    "tags": [
+      "Consolo",
+      "Natal",
+      "Geral"
+    ],
+    "letra": "Nesta hora feliz, neste santo lugar, Deus mar-\ncou um encontro feliz. Seu amor é real, sua\npaz gozarei, Deus marcou um encontro feliz.\n\n**2.**\n Neste dia feliz, neste santo lugar, **3.**\n Nesta noite feliz, neste santo lugar,\nA Deus marcou um encontro feliz.\nDeus marcou um encontro feliz. Seu amor é real, sua paz gozarei,\nDeus marcou um encontro feliz.\nSeu amor é real, sua paz gozarei,\nDeus marcou um encontro feliz.\nFonte: Não encontrada"
+  },
+  {
+    "numero": "78",
+    "titulo": "Grande, Muito Grande",
+    "tags": [
+      "Páscoa",
+      "Geral"
+    ],
+    "letra": "# 4 . j j . j\nGrande, muito grande, é o amor de nosso Deus. Grande, muito\n# jD j . j\ngrande, é o amor de nosso Deus. 1. Olha a natureza, olha o\nj . j . j w\ncéu e olha o mar; olha os verdes campos, olha o sol e o luar.\nGrande muito grande, **2.**\n Cristo veio ao mundo\né o amor de nosso Deus. pra morrer por ti e por mim.\nGrande muito grande, Mas ressuscitou,\né o amor de nosso Deus. sobre a morte triunfou.\n\n**3.**\n Eu não vou calar,\npara o mundo vou falar:\nCristo me salvou,\nsua luz em mim raiou."
+  },
+  {
+    "numero": "79",
+    "titulo": "Posso De Manhã",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nPosso, de manhã, com alegria, despertar e confiante continuar traba-\nlhando. Posso acreditar no amanhã, pois sei que em meu ca-\nminho sempre terá luz. E a certeza disso,\nŒ . j Œ\nquem me dá é Deus, quando disse: Eu, Senhor, teu Deus, sou o\nDeus de amor. Por meu Filho eu te salvei. E na terra da bema-\nventurança um lugar te reservei.\n\n**2.**\n Posso ao meu irmão estender a minha mão Eu, Senhor, teu Deus,\ne com ele conviver cristamente. sou o Deus de amor.\nEu posso amar e aos outros perdoar Por meu Filho eu te salvei.\ne ao meu Salvador louvar, porque E na terra da bemaventurança\nDeus me amou primeiro em Cristo Jesus, um lugar te reservei.\npois disse: **3.**\n Devo então falar e a todos anunciar\nesta luz que existe em meu caminho,\nsendo assim luzeiro\na brilhar perante os homens,\nluzeiro desta luz de amor.\nEsta luz é o Filho, Cristo Salvador.\nE o Pai disse:"
+  },
+  {
+    "numero": "80",
+    "titulo": "Como Eu Amo O Teu Templo",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nComo eu amo o teu templo como é bom vir a-\nqui. Com alegria a ti eu canto, ó meu Deus e Salva-\ndor. Quão felizes os que andam nos caminhos do Senhor. Quão fe-\nlizes os que crêem e confiam em ti.\n2, Deus escuta quando oramos\nouve sempre o protetor.\nNo Senhor nós temos força,\nalegria e muito amor.\nQuão felizes os que andam\nnos caminhos do Senhor.\nQuão felizes os que crêem\ne confiam em ti."
+  },
+  {
+    "numero": "81",
+    "titulo": "Chuvas De Bênçãos",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nChuvas de bênçãos teremos, é a promessa de\nDeus. Tempos benditos veremos chuvas de bênçãos dos\ncéus. Chuvas de bênçãos, chuvas de bênçãos dos céus;\ndia após dia renovas chuvas de bênçãos, ó Deus.\n\n**2.**\n Chuvas de bênçãos teremos - **3.**\n Chuvas de bênçãos teremos,\nE A mandanos sempre, ó Senhor.\nvida de paz e perdão. Dános em Cristo o bom fruto\nA da tua promessa de amor.\nOs pecadores indignos\nE **4.**\n Chuvas de bênçãos teremos,\ngraça dos céus obterão. chuvas mandadas dos céus;\nA bênçãos a todos os crentes,\nChuvas de bênçãos, bênçãos do nosso bom Deus.\nchuvas de bênçãos dos céus;\ndia após dia renovas\nchuvas de bênçãos, ó Deus."
+  },
+  {
+    "numero": "82",
+    "titulo": "Jesus Ia Caminhando",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nJesus ia caminhando, descendo a\nJerusalém, com ele iam seus discípu -\ndavam louvor, dizendo: Bendito é o Rei que\nlos, e os fariseus também. Os dis...\nvem em nome do Senhor.\nCanta meu povo, alegra meu povo, a festa não vai acabar.\nQuando findar na terra, no céu vai continuar.\n\n**2.**\n Os fariseus murmuravam, Canta meu povo, alegra meu povo,\nfalavam com ansiedade: a festa não vai acabar.\n\"Mande que o povo cale, Quando findar na terra,\ne não perturbe a cidade\". no céu vai continuar.\nJesus olhando pra eles, **3.**\n Nós que sabemos disto,\nfoi Jesus quem falou,\nfalava com satisfação: antes que as pedras clamem,\nA nós clamamos ao Senhor.\n\"Se eles se calarem, Jesus vem da sua glória,\nA pra nos trazer salvação,\nlogo as pedras clamarão\". não há ninguém que tira\nFonte: não encontrada\no gozo do meu coração.\nReferência bíblica: Lucas 1**9.**\n28-40"
+  },
+  {
+    "numero": "83",
+    "titulo": "Ao Único Que É Digno",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "c j j Œ ‰ j\nAo único que é digno de receber a\n‰ j j . Ó. ‰\nhonra e a glória, a força e o poder. Ao\nj . j . ‰ j\nRei eterno, imortal, invisível, mas real; a ele minis-\ntramos o louvor. Ao... vor. Coroamos a ti, ó Rei Jesus.\n# # Œ Bwm m. ‰ j\nCoroamos a ti, ó Rei Jesus. Adoramos o teu no-\nme, nos rendemos aos teus pés. Consagramos todo o nos-\nm/A A\nso ser a ti. Consagramos todo o nosso ser a ti."
+  },
+  {
+    "numero": "84",
+    "titulo": "Fico Feliz",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "j j ‰ j J . ‰ j\nj ‰ Œ GÓ .. ‰ ‰ j\nFico feliz em\nvir em tua casa, erguer minha voz e cantar (aleluia). Fico feliz em\n& j .. Œ ‰ j\nvir em tua casa, erguer minhas mãos e adorar. : : rar. Ben-\n& .. J ‰ j J\ndito é o nome do Senhor. Bendito é o nome do Senhor.\n‰ J ‰ J . ‰ j ..\nBendito é o nome do Senhor pra sempre. Ben...\npre. pra sempre. Pra sempre.\nReferência bíblica: Sl 12**2.**\n1"
+  },
+  {
+    "numero": "85",
+    "titulo": "A Ti, Senhor",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "**1.**\nA ti, Senhor. Elevo a minh’alma.\n(A ti, Senhor) (Elevo a minh’alma)\nŒ j j .\nA ti, Senhor. Elevo a minh’alma. Oh! Deus\n(A ti, Senhor) (Elevo a minh’alma)\nŒ . . .. Œ j j\nmeu! ti confio! : :Guardame, Senhor!\n(Oh! Deus meu!) (Em ti confio!)\nj j ‰ j j ..\nPois em ti, Senhor, me refugio! : :\n\n**2.**\n Fazme, Senhor. (Fazme, Senhor)\nAndar em teus caminhos. (Andar em teus caminhos)\nFazme, Senhor. (Fazme, Senhor)\nAndar em teus caminhos. (Andar em teus caminhos)\nOh! Deus meu! (Oh! Deus meu!)\nti confio! (Em ti confio!)\n: : Guardame, Senhor!\nPois em ti, Senhor, me refugio! : :\nReferência bíblica: Sl 25"
+  },
+  {
+    "numero": "86",
+    "titulo": "Quero Cantar Uma Linda Canção",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "Quero cantar uma linda canção de um homem que me transformou.\nQuero cantar uma linda canção de alguém que minha vida mu-\ndou. É Jesus, o Senhor, é Jesus, o Se-\nnhor. Ele é Deus, Ele é Rei, é Amor e Ver-\ndade. Só nele encontrei essa paz que bus-\nquei. Só nele encontrei a felicidade."
+  },
+  {
+    "numero": "87",
+    "titulo": "Visitante, Seja Bem-Vindo!",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Visitante, seja bemvindo! Tua presença é um pra-\nzer! Com Jesus estamos dizendo: Esta igreja ama você!\nDeus te ama e eu te amo assim devemos viver.\nDeus te ama e eu te amo, vivamos sempre assim!\nFonte: não encontrada"
+  },
+  {
+    "numero": "88",
+    "titulo": "Vou Louvar, Vou Cantar",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nVou louvar, vou cantar, vou louvar, vou cantar, glória a\nDeus! Quando a porta se abrir, quero estar com meu Jesus. Vou lou-\nvar, vou cantar, glória a Deus!\n\n**2.**\n Vou orar, vou pregar, **3.**\n Vou viver, vou amar,\nVou viver, vou amar, glória a Deus!\nVou orar, vou pregar, glória a Deus! Quando a porta se abrir,\nE quero estar com meu Jesus.\nQuando a porta se abrir, Vou viver, vou amar, glória a Deus!\nquero estar com meu Jesus.\nVou orar, vou pregar, glória a Deus!\nFonte: não encontrada"
+  },
+  {
+    "numero": "89",
+    "titulo": "Louvor",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nLouvamoste, ó Deus, pelo dom de Jesus, que por nós peca -\ndores foi morto na cruz. Aleluia, toda a glória te rendemos sem\nfim. Aleluia, tua graça imploramos. Amém!\n\n**2.**\n Louvamoste, ó Deus, **3.**\n Louvamoste, ó Deus,\npelo Espírito, luz\ne ao teu Filho de amor, que nos tira das trevas\ne a Cristo conduz.\nque foi morto, mas vive\nsupremo Senhor. **4.**\n Ó vem nos encher\nde celeste fervor\nAleluia, toda a glória e fazernos fruir\nteu afável amor!\nte rendemos sem fim.\nAleluia, tua graça\nimploramos. Amém!"
+  },
+  {
+    "numero": "90",
+    "titulo": "É Isto Que Me Faz Cantar",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nÉ isto que me faz cantar. É\nisto que me faz cantar. Dos meus pecados livre estou e\npara o céu eu vou. É isto que me faz cantar.\n\n**2.**\n Ao mundo vou anunciar.\nAo mundo vou anunciar.\nQue Cristo salva o pobre pecador\ncom seu amor.\nÉ isto que me faz cantar."
+  },
+  {
+    "numero": "91",
+    "titulo": "Eu Tenho Gozo Em Minh'Alma",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Eu tenho gozo em minh’alma, gozo em minh’alma, gozo em minh’al-\nma e em todo o ser. Aleluia, glória a Deus! É como um rio de água vi-\nva, rio de água viva, rio de água viva borbulhando em meu\nser. 1. Vamos cantando e sentindo o seu amor. Vamos cantando e sen-\ntindo o seu amor. Dai glória a Deus. Dai glória a ele.\n1.(Glória a Deus)b\nVamos cantando e sentindo o seu amor. ..mor.\nEu tenho gozo em minh’alma, gozo em minh’alma, gozo em minh’alma e em todo o ser.\nAleluia, glória a Deus! É como um rio de água viva, rio de água viva,\nrio de água viva borbulhando em meu ser.\n\n**2.**\n ::Não te envergonhes de louvar o teu Senhor. **3.**\n : :Levante os braços\ne louve o teu Senhor.\nNão te envergonhes de louvar o teu Senhor. Dai glória a Deus. (Glória a Deus)\nDai glória a ele.\nDai glória a Deus. (Glória a Deus) Levante os braços\ne louve o teu Senhor.::\nDai glória a ele.\nNão te envergonhes de louvar o teu Senhor.::\nFonte: não encontrada"
+  },
+  {
+    "numero": "92",
+    "titulo": "Alegria Do Senhor A Nossa Força É",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nAlegria do Senhor a nossa força é. Alegria do Senhor a nossa\nforça é. Alegria do Senhor a nossa força é. Alegria sem medida ele dá. Se\ntu tens alegria poderás cantar. Se tu tens alegria poderás sorrir. Se\ntu tens alegria poderás dizer: Alegria sem medida ele dá.\n\n**2.**\n Lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá\nLá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá, lá\nAlegria sem medida ele dá.\nFonte: não encontrada\nReferência bíblica: Neemias **8.**\n10"
+  },
+  {
+    "numero": "93",
+    "titulo": "Senhor Meu Deus",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSenhor meu Deus, quando eu, maravilhado, os grandes\nfeitos vejo da tua mão, estrelas, mundos e trovões ro-\nlando, a proclamar teu nome na amplidão. Então mi-\nnha alma canta a ti, Senhor: Grandioso és tu, grandioso és tu! Então mi-\nnha alma canta a ti, Senhor: Grandioso és tu, grandioso és tu!\n\n**2.**\n Ao caminhar por bosques e florestas, **3.**\n Ao revelares que na cruz maldita,\nA E A por teu amor, Jesus ali morreu\nouvindo à brisa pássaros cantar, e me livrou do jugo do pecado,\ne a morte e as hostes infernais venceu.\nou vendo além montanhas altaneiras,\no teu poder e glórias proclamar. **4.**\n Quando afinal, em resplendor e glória,\nA Jesus abrir as portas da mansão,\nEntão minh'alma canta a ti Senhor: eu quero estar de joelhos entre os santos,\nE A na mais humilde e vera adoração.\nGrandioso és tu, grandioso és tu! E eu cantarei eternamente ali:\nA Grandioso és tu, grandioso és tu!\nEntão minh'alma canta a ti Senhor: E eu cantarei eternamente ali:\nE A Grandioso és tu, grandioso és tu!\nGrandioso és tu, grandioso és tu!"
+  },
+  {
+    "numero": "94",
+    "titulo": "Exultação",
+    "tags": [
+      "Louvor",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nA Deus demos glória com grande fervor; seu Filho ben-\ndito por nós todos deu; a graça concede ao mais vil pecador, a-\nbrindolhe a porta de entrada no céu. Exultai! Exultai! Vinde\ntodos louvar, a Jesus, Salvador, a Jesus, Redentor. A Deus demos\nglória, porquanto do céu, seu Filho bendito, por nós todos deu.\n\n**2.**\n Oh! Graça real, foi assim que Jesus, **3.**\n A crer nos convida tal rasgo de amor,\nA nos merecimentos do Filho de Deus;\nmorrendo, seu sangue por nós derramou! e quem, pois, confia no seu Salvador,\nvai vêlo sentado na glória dos céus.\nHerança nos céus, com os santos em luz,\ncomprounos Jesus, pois o preço pagou.\nExultai! Exultai! Vinde todos louvar,\na Jesus, Salvador, a Jesus, Redentor.\nA Deus demos glória, porquanto do céu,\nseu Filho bendito, por nós todos deu."
+  },
+  {
+    "numero": "95",
+    "titulo": "Olhando A Manhã Com Gratidão",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nOlhando a manhã com gratidão, cantando um salmo alegre em ora- .\nção. Um novo dia em nosso viver; com Cristo nós iremos renas-\ncer. Lá, lá, lá, lá, lá, lá, lá, lá. Cristo é! Cristo é a nossa\nvida; Cristo é nosso viver. Lá, lá, lá, lá, lá, lá.\n\n**2.**\n Cristo nós então ressuscitamos, **3.**\n A verdadeira vida é Jesus,\ne quando ele, então, aparecer,\npassando desta morte para a vida. em glória estaremos no Senhor,\nque é a nossa força, a nossa luz.\nBusquemos as coisas que estão no céu,\nnos esperando, lá, está Jesus.\nLá, lá, lá, lá, lá, lá, lá, lá. Cristo é!\nCristo é a nossa vida;\nCristo é nosso viver.\nLá, lá, lá, lá, lá, lá."
+  },
+  {
+    "numero": "96",
+    "titulo": "A Deus Eu Canto, Canto",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nA Deus eu canto, canto. A Deus eu canto, canto. Sim a\nDeus eu canto, canto com amor para o Salvador. Agora\nsou feliz, pois o Senhor me quis. Por isso a-\ngora eu canto, canto, canto, canto ao Senhor.\n\n**2.**\n A Deus eu louvo, louvo. **3.**\n A Deus eu oro, oro.\nA Deus eu oro, oro.\nA Deus eu louvo, louvo. Sim, a Deus eu oro.\nOro com amor para o Salvador\nSim, a Deus eu louvo.\nLouvo com amor para o Salvador\n\n**4.**\n A Deus eu canto, canto.\nAgora sou feliz, pois o Senhor me quis. A Deus eu louvo, louvo.\nSim, a Deus eu louvo.\nPor isso agora eu canto, canto, canto, Louvo com amor para o Salvador.\ncanto ao Senhor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "97",
+    "titulo": "Eu Louvarei",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Eu louvarei, eu louvarei, eu louvarei ao meu Se-\nnhor. Eu louva... nhor. João viu todos os remidos,\njD 7j\neles louvavam ao Senhor. Uns oravam, outros cantavam, e\ntodos louvavam ao Senhor. Eu louvarei, eu louva-\nrei, eu louvarei ao meu Senhor.\nFonte: não encontrada\nReferência bíblica: Ap **7.**\n9-17"
+  },
+  {
+    "numero": "98",
+    "titulo": "Vai Tudo Muito Bem Na Casa De Meu Pai",
+    "tags": [
+      "Consolo",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nVai tudo muito bem na casa de meu Pai, na\ncasa de meu Pai, na casa de meu Pai. Vai tudo muito bem na\ncasa de meu Pai, onde tudo é paz e amor.\n\n**2.**\n Jesus me levará à casa de meu Pai, **3.**\n Eu te verei ali na casa de meu Pai,\nna casa de meu Pai, na casa de meu Pai.\ná casa de meu Pai, à casa de meu Pai. Eu te verei ali na casa de meu Pai,\nonde tudo é paz e amor.\nJesus me levará à casa de meu Pai,\nonde tudo é paz e amor. **4.**\n Comigo vinde já à casa de meu Pai,\nà casa de meu Pai, à casa de meu Pai.\nComigo vinde já à casa de meu Pai,\nonde tudo é paz e amor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "99",
+    "titulo": "Não Há Deus Tão Grande",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Não há Deus tão grande como o meu, nenhum\nsó, nenhum só. Não há... só. Não há\nDeus que faça as mesmas obras, como as que fazes\nTu. Não há... Tu. . Jesus disse: Se tu creres, tu ve-\nrás a glória de Deus. Jesus... rás a glória de Deus. Ve-\nrás a glória de Deus. Verás a glória de Deus. Jesus\ndisse: Se tu creres, tu verás a glória de Deus.\nFonte: não encontrada\nReferência bíblica: Jo 11.40"
+  },
+  {
+    "numero": "100",
+    "titulo": "Há Um Caminho Cheio De Luz",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "Há um caminho cheio de luz e nenhum outro há e\neste é só Jesus. Uma verdade jorra da cruz:\nVida temos em Jesus.\nFonte: não encontrada\nReferência bíblica: João 1**4.**\n6"
+  },
+  {
+    "numero": "101",
+    "titulo": "Seja Louvado O Teu Nome, Senhor",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nSeja louvado o teu nome, Senhor. Seja louvado o teu nome, Senhor.\nSeja louvado o teu nome, Senhor. Para sempre. Amém.\n\n**2.**\n Glorificamos teu nome, Senhor. **3.**\n Enaltecemos teu nome, Senhor. (3x)\nPara sempre. Amém.\nGlorificamos teu nome, Senhor.\nPara sempre. Amém.\nFonte: não encontrada"
+  },
+  {
+    "numero": "102",
+    "titulo": "Dai Graças Ao Senhor",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nDai graças ao Senhor, louvai seu nome\nsanto. A Deus, o Criador, alçai o vosso\n& b 46 44 . jF . j Œ n\ncanto, porque jamais cessou de nos abenço -\nar, e nunca abandonou quem nele confiar.\n\n**2.**\n O eterno e santo Deus, **3.**\n Louvor e adoração\nao trino Deus rendamos!\no nosso Pai clemente, De nosso coração\num templo seu façamos!\nconceda aos filhos seus Eterno é seu poder,\npotente, sua mão.\num coração contente. Ele é, e ele há de ser\no nosso galardão.\ngraça, paz e amor\nnos queira conservar,\ne em luta, angústia e dor\nnos venha confortar."
+  },
+  {
+    "numero": "103",
+    "titulo": "Reunimo-Nos Aqui",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nReunimonos aqui para glorificar o Rei Jesus.\nReunimonos aqui para glorificar o Rei Jesus. Reu-\nnimonos aqui para glorificar o Rei Jesus, Se -\nnhor. Adorar o Rei Jesus, Senhor!\n\n**2.**\n Levantemos nossas mãos **3.**\n Batei palmas com fervor\nA para glorificar o Rei Jesus.\npara glorificar o Rei Jesus. Batei palmas com fervor\npara glorificar o Rei Jesus.\nLevantemos nossas mãos Batei palmas com fervor\npara glorificar o Rei Jesus, Senhor.\npara glorificar o Rei Jesus. Adorar o Rei Jesus, Senhor!\nLevantemos nossas mãos\npara glorificar o Rei Jesus, Senhor.\nAdorar o Rei Jesus Senhor!\nFonte: não encontrada"
+  },
+  {
+    "numero": "104",
+    "titulo": "Em Glória Deus Reina",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nglória Deus reina, mas quer nos salvar, pois éramos\nvis em constante pecar; movido de amor o seu Filho nos\ndeu, que pelos pecados do mundo morreu.\n\n**2.**\n Ó servos de Deus, vossas vozes erguei; **3.**\n Louvai ao Senhor, o que reina nos céus,\nA vós crentes reunidos, o povo de Deus.\ncom cantos alegres, louvores rendei. Os anjos exaltam a Cristo Jesus,\nCordeiro divino, no trono da luz.\nO nome de Cristo em triunfo cantai,\nseu reino glorioso, fiéis, proclamai. **4.**\n É dele o saber, o poder e o louvor;\na tudo governa em bondade o Senhor.\nUni vossas vozes, ó crentes, cantai;\ncom hinos e salmos a Cristo exaltai!"
+  },
+  {
+    "numero": "105",
+    "titulo": "Está Aqui",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nEstá aqui, está aqui: Nós can-\ntamos porque Deus está aqui. Está aqui, está a -\nqui: Aleluia! Nosso Deus está aqui.\n\n**2.**\n ::Está em mim.:: **3.**\n Está em ti...\nNós cantamos porque Deus está em mim **4.**\n Está aqui, em mim, em ti...\n::Está em mim.::\nAleluia! Nosso Deus está em mim.\nFonte: não encontrada"
+  },
+  {
+    "numero": "106",
+    "titulo": "Damos Graças Ao Senhor",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Damos graças ao Senhor, damos graças, graças\n1. De manhã\npelo seu amor! Damos... mor! **2.**\n E à noi-\nj j j j **3.**\n Da nossa\ncedo os passarinhos, estão cantando, louvando ao Cria -\ntinha os grilos tocam, a grande orquestra em festa ao Se-\nvida também façamos um belo hino que louve ao Cria\n‰ .. j j j\ndor.\nnhor. E tu amigo por quê não cantas louvando a\ndor.\nCristo Jesus, teu Salvador? E tu, a -... ..dor?\n2ª e 3ª estrofes: autor desconhecido"
+  },
+  {
+    "numero": "107",
+    "titulo": "Há Muita Gente Desejosa De Saber",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Há muita gente desejosa de saber\naonde\né que nosso Deus está. Há muita... tá. Está a -\nli, ou está lá, mas nós sabemos que ele está neste lu -\ngar. Está a-... ...bemos que ele está neste lugar.\nFonte: não encontrada"
+  },
+  {
+    "numero": "108",
+    "titulo": "Ele É O Rei Dos Reis",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Ele é o Rei dos reis. Ele é o Senhor dos se-\n4 E m A E\nnhores. Seu nome é Cristo, Cristo, Cristo. Oh! Ele é o Rei.\nEu te louvarei #Senhor.\nEle é o... Ele é o Rei.\n12 E A 1.m E\nEu te louvarei Senhor. Graças a ti darei para sem -\npre. Eu te louva... para sempre.\nFonte: não encontrada"
+  },
+  {
+    "numero": "109",
+    "titulo": "Louvai Ao Senhor Todas As Nações",
+    "tags": [
+      "Missão",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "na #-ções. Louvaio\nLouvai ao Senhor todas as todos os\nE 1. **2.**\n A m E\npovos! Lou... vos. Louvai ao Senhor, louvai\nao Senhor! Porque a sua benignidade é\ngrande para conosco. E a verdade\ndo Senhor dura para sempre. Louvai\nao Senhor, louvai ao Senhor!\nFonte: Não encontrada\nReferência bíblica: Salmo 117"
+  },
+  {
+    "numero": "110",
+    "titulo": "Bendido Jesus!",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nBendito Jesus! Divino Pastor! Oh! Vem conce-\nder teu rico favor! As súplicas ouve, recebe nos\ncéus o culto que agora rendemos a Deus.\n\n**2.**\n Celeste Senhor! Oh! Vem ensinar **3.**\n Concedenos paz e amor no viver,\ndá forças à fé e aumenta o poder;\nnossa alma a sentir e a língua a falar, ó faze a pureza em teus filhos florir,\ne neles, Senhor, a verdade fulgir.\ncom muita ternura, com todo fervor,\no santo Evangelho, mensagem de amor."
+  },
+  {
+    "numero": "111",
+    "titulo": "Digno És, Ó Cordeiro",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nDigno és, ó Cordeiro, de todo o louvor,\ngraças nós rendemos por teu amor.\n\n**2.**\n Tua seja a glória e o domínio também, **3.**\n Teus são os poderes e os tronos também,\nhoje e para sempre. Amém. Amém.\npara todo o sempre. Amém. Amém.\n\n**4.**\n Glória nas alturas, na terra também,\nglórias, aleluia! Amém. Amém.\nReferência bíblica: Ap **5.**\n12-14"
+  },
+  {
+    "numero": "112",
+    "titulo": "Bendirei O Senhor Em Todo Tempo",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Bendirei o Senhor em todo o tempo, seu lou-\nvor em minha boca estará. No Senhor se gloria a minha\nalma, ouvirão os mansos e se alegrarão. Engrande-\ncei o Senhor comigo, exaltemos à uma o seu\nnome. Busquei ao Senhor e ele ouviume, de\ntodos meus temores me livrou. Engrandevrou.\nFonte: Não encontrada\nReferência bíblica: Sl 3**4.**\n1-4"
+  },
+  {
+    "numero": "113",
+    "titulo": "Pai De Amor",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nPai de amor, gosto tanto de ti. Pai de amor, gosto\ntanto de ti. Te amo, te quero, e prostrado te a-\ndoro. Pai de amor, gosto tanto de ti.\n\n**2.**\n Meu Jesus, Salvador meu tu és. **3.**\n : : Santo Espírito, Consolador. : :\nTu nos santificas,\nMeu Jesus, Salvador meu tu és. e em nós sempre habitas.\nSanto Espírito, Consolador.\nMorreste e vives,\nminha alma limpaste.\nMeu Jesus, Salvador meu tu és.\nFonte: não encontrada"
+  },
+  {
+    "numero": "114",
+    "titulo": "Gratidão",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Gratidão, gratidão, gratidão. Os remidos dizem\nsempre gratidão. Todo o mal já passou, pelo\nsangue de Jesus, aleluia! Gratidão, gratidão, grati-\ndão. Os remidos dizem sempre gratidão.\nFonte: não encontrada"
+  },
+  {
+    "numero": "115",
+    "titulo": "Bíblia, Meu Livro",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Bíblia meu livro, meu livro companheiro! Meu Livro compa-\nnheiro! É a palavra de Deus! 1. Ela me fala, me fala a cada\ndia, me fala a cada dia do meu Salvador!\nBíblia meu livro, meu livro companheiro!\nMeu Livro companheiro! É a palavra de Deus!\n\n**2.**\n Ela me ensina, me ensina com certeza, **3.**\n Nela eu aprendo, aprendo a cada dia,\naprendo a cada dia a andar com Jesus!\nme ensina com certeza o caminho do céu!"
+  },
+  {
+    "numero": "116",
+    "titulo": "A Tua Palavra É Semente",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nA tua Palavra é semente e tu és o semeador. O\nmeu coração é a terra que tu semeaste Senhor. A\ntua palavra, a tua Palavra, a tua Palavra Senhor. A\ntua Palavra, a tua Palavra, a tua Palavra é amor.\n\n**2.**\n Meditando eu certo dia **3.**\n Depois que a semente germina\nProduz lindos ramos em flor.\nna tua Palavra, Senhor. Depois vêm nascendo os frutos\nde mui agradável sabor.\nSenti que do alto descia\no fogo do Consolador. **4.**\n O meu coração dará frutos\ncom tua Palavra, Senhor.\nA tua palavra, a tua Palavra, Nós cremos, por isso falamos\nda tua Palavra, Senhor.\na tua Palavra Senhor.\nA tua Palavra, a tua Palavra,\na tua Palavra é amor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "117",
+    "titulo": "A Lei Do Senhor É Perfeita",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "# # c ‰ jD Œ ‰\n1. A lei do Senhor é perfeita e restaura a alma; o testemunho do Senhor é fiel\n‰ . j Œ . . j\ne dá sabedoria aos símplices. São mais desejáveis do que o ouro depurado,\nsão mais doces do que o mel e o destilar dos favos. **2.**\nOs preceitos do Senhor são retos,\ne alegram o coração. O mandamento do Senhor é puro, e ilumina os\n& Œ . J . j Œ .\nolhos. São mais desejáveis do que o ouro depurado, são mais doces do que o mel e o\n36 destilar dos favos. **3.**\nO temor do Senhor é límpido e permanece para sempre;\nos juízos do Senhor são verdadeiros e todos igualmente justos. São mais dese-\nA m A\njáveis do que o ouro depurado, são mais doces do que o mel e o destilar dos favos.\n\n**4.**\nQue as palavras dos meus lábios e o meditar do meu cora -\nFine\nção sejam agradáveis na tua presença, ó Senhor! Ó Se-\nA D.S. al Fine\nnhor! Ó Senhor! Ó Senhor! Ó Senhor! Que as pa-\nReferência bíblica: Sl 19"
+  },
+  {
+    "numero": "118",
+    "titulo": "Eu Ontem Estava",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Páscoa",
+      "Geral"
+    ],
+    "letra": "**1.**\nEu ontem estava desiludido a procurar a verdade que é ver-\ndade. Mas hoje eu sou feliz porque eu encontrei a Palavra que é ver-\ndade. Lá encontrei palavras puras, sem igual: Tu és meu\nFilho, eu hoje te gerei. Lâmpada para os meus pés é a tua Pa-\nlavra que me conduz. Lâmpada para os meus\npés é a tua Palavra que me conduz.\n\n**2.**\n Na Bíblia eu li que Cristo numa cruz morreu **3.**\n E amanhã\nE A virá com glória e poder\ne assim lavou meu negro coração. para levar você e eu.\nE A Nas Escrituras\nRessuscitou e assim mostrou o seu amor. Deus se mostrou Consolador,\nE A na Santa Bíblia se revelou.\nSubiu ao céu e um lar me preparou.\nLâmpada para os meus pés\né a tua Palavra que me conduz.\nLâmpada para os meus pés\né a tua Palavra que me conduz."
+  },
+  {
+    "numero": "119",
+    "titulo": "O Lar Que A Bíblia Não Tiver",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nO lar que a Bíblia não tiver só ermo e triste pode ser, pois\nDeus não pode ali morar, lá Satanás vai se hospedar.\n\n**2.**\n Na Bíblia deves ler, viver, **3.**\n Passagens lindas vás colher\nque vêm o teu escudo ser,\nteu aposento deve ser, o qual em alegria ou dor\nte vale contra o tentador!\nno qual costumas demorar,\ne em que te possas refugiar. **4.**\n Se a Bíblia ainda te faltar,\nó homem, vai, sim, vai comprar\no Livro que te a vida traz,\na salvação e em Deus a paz!\n\n**5.**\n Na Bíblia lê em oração,\npedindo a Deus a compreensão,\ne não a feches a não ser\npara a tua alma a Deus render!\nFonte: Cantai ao SenhorCPC 1956 - 2 edição"
+  },
+  {
+    "numero": "120",
+    "titulo": "Oh! Retenhamos Com Firmeza",
+    "tags": [
+      "Missão",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Retenhamos com firmeza o santo ensino do Senhor\ne conservemos em pureza as novas do bom Redentor.\nJamais devemos anular o que Jesus nos faz pregar.\n\n**2.**\n Nas suas Santas Escrituras **3.**\n Por isso com fidelidade\nseus crentes deverão guardar\nbusquemos nossa orientação, o Verbo eterno da verdade,\nque as almas lhes irá salvar;\ne alcançaremos as venturas concede vida em profusão\ne refrigera o coração.\nda mais completa redenção,\nque por seu sangue o bom Jesus\nobteve para nós na cruz."
+  },
+  {
+    "numero": "121",
+    "titulo": "Cristo Tem Poder",
+    "tags": [
+      "Louvor",
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "**1.**\nNa Bíblia está escrito no Novo Testamento que em Caná da Gali-\nléia Jesus foi a um casamento, transformando água em vinho, dando ao\npovo pra beber, mostrando sua graça, sua glória e seu po-\nder! Por quê? Cristo tem poder. Cristo tem poder. Cristo tem po-\nder. Aleluia! Tem poder! Cristo tem poder. Cristo tem po-\nder. Jesus Cristo é poderoso! Jesus Cristo tem poder!\n\n**2.**\n Jesus curou um cego, Cristo tem poder. Cristo tem poder.\nentrando em Jericó. Cristo tem poder. Aleluia! Tem poder!\nSalvou a samaritana Cristo tem poder. Cristo tem poder.\nlá no poço de Jacó. Jesus Cristo é poderoso! Jesus Cristo tem poder!\nNo monte das Oliveiras **3.**\n Jesus fez maravilhas\nA no deserto da Judéia.\nmultidões aconselhou. Curou em Samaria\nE e também na Galiléia.\nCinco pães e dois peixinhos E em Cafarnaum\nE milagres também fez.\nmultidões alimentou! Por quê? Curou lá no caminho\ndez leprosos de uma vez! Por quê?\nFonte: não encontrada"
+  },
+  {
+    "numero": "122",
+    "titulo": "Sou Crente, Batizado",
+    "tags": [
+      "Oração",
+      "Batismo",
+      "Geral"
+    ],
+    "letra": "**1.**\nSou crente, batizado em nome de meu Deus; aos\nsantos fui juntado, ao povo que herda os céus.\n\n**2.**\n Por graça revestido **3.**\n Por graça renascido,\nGC geroume o meu Senhor.\ndo Salvador Jesus, Sou filho seu querido\nCA em Cristo, o Redentor.\npor ele fui remido\n\n**4.**\n Inquietame o pecado?\ne tenho vida e luz. Não devo mais temer.\nDe todo perdoado,\nnão posso perecer.\n\n**5.**\n Fugindo mesmo os montes,\nmeu Deus será fiel.\nnão secarão as fontes\nda graça de Israel.\n\n**6.**\n Ó meu Jesus bendito,\ndesejo a ti servir\nde coração contrito\ne sempre a ti seguir."
+  },
+  {
+    "numero": "123",
+    "titulo": "Quem Agora Está Com Cristo",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuem agora está com Cristo, nova criatura é. ...é. As coisas\nvelhas já passaram, tudo novo se tornou. As coisas\nnou. Aleluia! Tudo novo se tornou. ...nou.\n\n**2.**\n ::Eu agora estou com Cristo, **3.**\n ::Quem ainda não tem Cristo,\nvelha criatura é.::\nnova criatura sou.::\n::As coisas velhas já passaram,\ntudo novo se tornou.::\nVem buscar, o que Cristo tem pra dar.\n::Aleluia! Tudo novo se tornou.::\nAleluia! Tudo novo tornará.\nFonte: não encontrada\nReferência bíblica: 2Coríntios **5.**\n17"
+  },
+  {
+    "numero": "124",
+    "titulo": "Amoroso, Nos Convida",
+    "tags": [
+      "Fé",
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "**1.**\nAmoroso, nos convida Cristo para a Comu -\nnhão e oferece o pão da vida para a nossa salvação.\n\n**2.**\n Teu amável chamamento **3.**\n Por tão grande benefício\ncumprenos te agradecer.\nvem a nós por teu favor. Oh! Recebe em sacrifício\nnossa vida e nosso ser.\nDános força e crescimento,\n\n**4.**\n Nesta mesa prometemos\nó Jesus, na fé, no amor.\nsempre em tua Lei viver\ne fiéis a ti seremos,\nbom Jesus, até morrer."
+  },
+  {
+    "numero": "125",
+    "titulo": "Perante Os Homens",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Perante os homens sou tão grande. Perante\nDeus sou tão pequeno. Às vezes eu sou tão travesso, que me es-\nqueço do amor que não mereço. É o amor de Deus, é o amor de\nDeus, é o amor que me faz sorrir. É o a- ...rir."
+  },
+  {
+    "numero": "126",
+    "titulo": "Andei Tão Longe Do Senhor",
+    "tags": [
+      "Consolo",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nAndei tão longe do Senhor. Assim eu quis andar. A-\nté que eu encontrei amor em seu glorioso olhar. Seu\nmaravilhoso olhar. Seu maravilhoso olhar. Transfor-\nmou meu ser, todo o meu viver. Seu maravilhoso olhar.\n\n**2.**\n Seu corpo vi na rude cruz, **3.**\n contrição, então, voltei\nà fonte deste amor.\nsofrendo ali por mim. A paz, perdão, em Cristo achei,\npertenço ao Salvador.\nE ouvi a voz do meu Jesus:\n\"Por ti morri assim\".\nSeu maravilhoso olhar. Seu maravilhoso olhar.\nTransformou meu ser, todo o meu viver.\nSeu maravilhoso olhar.\nFonte: não encontrada"
+  },
+  {
+    "numero": "126A",
+    "titulo": "Andei Tão Longe Do Senhor",
+    "tags": [
+      "Consolo",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nAndei tão longe do Se nhor. Assim eu quis andar. A-\nté que eu encontrei amor em seu glorioso olhar. Seu\nmaravilhoso olhar. Seu maravilhoso olhar. Transfor-\nmou meu ser, todo o meu viver. Seu maravilhoso olhar.\n\n**2.**\n Seu corpo vi na rude cruz, **3.**\n contrição, então, voltei\nà fonte deste amor.\nsofrendo ali por mim. A paz, perdão, em Cristo achei,\npertenço ao Salvador.\nE ouvi a voz do meu Jesus:\n\"Por ti morri assim\".\nSeu maravilhoso olhar\nTransformou meu ser, todo o meu viver\nSeu maravilhoso olhar.\nFonte: não encontrada"
+  },
+  {
+    "numero": "127",
+    "titulo": "Senhor, Quem Entrará",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nSenhor, quem entrará no santuário pra te louvar? Se-\nvar? Quem tem as mãos limpas e um coração puro\ne não tem vaidade e sabe amar.\nQuem tem as mãos... ...e sabe amar.\n\n**2.**\n Senhor, eu quero entrar\nno santuário pra te louvar.\nSenhor, eu quero entrar\nno santuário pra te louvar.\n: : Oh! Dáme mãos limpas\ne um coração puro,\nafasta a vaidade,\nensiname a amar. : :\nFonte: não encontrada\nReferência bíblica: Sl 24"
+  },
+  {
+    "numero": "128",
+    "titulo": "Jesus Me Transformou",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "### 6 A j j j\n1. Eu perdido pecador, longe do meu Jesus, abatido e\nj j j j\nsem vigor, a perecer sem luz; meu estado Cristo viu,\nj j j\ndandome sua mão e salvarme conseguiu da perdi-\nção. Cristo me amou e me livrou; o seu i-\njF # m\nFoi seu poder, o seu querer. Sim, Cristo, o\nE m7 A\nmenso amor me transformou.\nSalvador me transformou.\n\n**2.**\n Minha vida, todo o ser, quero lhe consagrar,\na seu lado vou viver, o seu amor cantar;\na mensagem transmitir aos que perdidos são,\nvenham todos já fruir a salvação.\nCristo me amou e me livrou;\no seu imenso amor me transformou.\nFoi seu poder, o seu querer.\nSim, Cristo, o Salvador me transformou."
+  },
+  {
+    "numero": "129",
+    "titulo": "Vem, Inflama",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "4 1. Meu pecado resgatado, foi na cruz por teu a-\nmor,\ne da morte, triste sorte, me li-\nvraste, tu, Senhor! Vem! Inflama, viva\nchama, em meu peito, bem sem fim! Eu te a-\ndoro, sempre imploro: Ó Jesus, habita em mim!\n\n**2.**\n Se hesitante, vacilante **3.**\n Redimida, só tem vida\nA a minha alma em teu amor;\nouço a voz do tentador, com apreço, reconheço,\nquanto devo a ti, Senhor!\ntu me guias, me auxilias\ne me tornas vencedor.\nVem! Inflama, viva chama,\nem meu peito, bem sem fim!\nEu te adoro, sempre imploro:\nÓ Jesus, habita em mim!"
+  },
+  {
+    "numero": "130",
+    "titulo": "Era Um Pecador",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nEra um pecador, andava sem Jesus, não tinha esperança,\nnem divina luz. Hoje sou remido, Cristo me salvou, com seu sangue me la-\nvou. Que amor me concedeu Jesus, gozo santo e celeste luz.\nCristo breve do céu descerá e consigo então me levará.\n\n**2.**\n O Consolador já veio em mim morar, **3.**\n Queres, pecador, gozar a salvação?\nVem a Cristo hoje receber perdão.\na Palavra santa veio iluminar. Cristo te aceita, pobre pecador,\nnos seus braços de amor.\nQuero ser guiado por tão clara luz,\nque a Cristo me conduz.\nQue amor me concedeu Jesus,\ngozo santo e celeste luz.\nCristo breve do céu descerá\ne consigo então me levará."
+  },
+  {
+    "numero": "131",
+    "titulo": "Resolução",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "## 6 j j j j j A j j j\n1. Jesus, Senhor, me chego a ti. Oh! Dáme alívio mesmo aqui, o\nteu favor estende a mim. Aceita um pecador! Eu\n## A j j\nj jA j j\nvenho como estou. Eu venho como estou. Por\n# j j j\nque Jesus por mim morreu; eu venho como estou.\n\n**2.**\n As minhas culpas grandes são; **3.**\n Eu nada posso merecer,\nA tu vêsme prestes a morrer,\nmas, tu, que não morreste em vão, Jesus, a ti me vou render.\nAceita um pecador!\nme podes conceder perdão.\nAceita um pecador! **4.**\n Sim, venho agora, Redentor;\nA só tu, Jesus, és meu Senhor.\nEu venho como estou. Oh! Vem salvarme em teu amor.\nA Aceita um pecador!\nEu venho como estou.\nPor que Jesus por mim morreu;\neu venho como estou."
+  },
+  {
+    "numero": "132",
+    "titulo": "Eu Venho Dizer",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nEu venho dizer, eu venho dizer, ao meu Salva-\ndor, que eu amo a ti, que eu amo a ti, com\nmeu coração. Eu venho dizer, eu\nvenho dizer, toda a verdade: Te amo Se -\nnhor, te quero Senhor, com meu coração.\n\n**2.**\n Eu quero chorar. Eu quero chorar Eu venho dizer. Eu venho dizer,\nde gozo e de paz. toda a verdade: Te amo Senhor,\nEu quero cantar. Eu quero cantar te quero Senhor, com meu coração.\nde felicidade.\nFonte: não encontrada"
+  },
+  {
+    "numero": "133",
+    "titulo": "Perdão Dos Meus Pecados",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nPerdão dos meus pecados, a paz de coração, a vida em ale-\ngria devo a ti, meu bom Deus. Triste, Senhor, sem ti o mundo\né, sem alegria, sem a fé e sem amor. Sozinho es-\ntou, sem força, sem vigor. Onde irei, a não ser a ti, Senhor?\n\n**2.**\n A linda natureza **3.**\n As horas de alegria,\nE bem como as aflições,\nalegra o meu cantar, a ajuda que recebo\nA E devo a ti, meu bom Deus.\no amor de um amigo\ndevo a ti, meu bom Deus.\nTriste, Senhor, sem ti o mundo é,\nsem alegria, sem a fé e sem amor.\nSozinho estou, sem força, sem vigor.\nOnde irei, a não ser a ti, Senhor?"
+  },
+  {
+    "numero": "134",
+    "titulo": "Te Confesso, Ó Deus",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "& b 4 . j w\n1. Te confesso, ó Deus, os pecados meus. São imensas as\ntransgressões, pecados e tentações. Jesus, aqui estou; te\n&b w n\npeço, ó Senhor: De mim tem compaixãobusco alívio ao coração.\n\n**2.**\n Sei que cometi **3.**\n Nesta petição\npeço o teu perdão.\nerros contra ti; Venho em ti me consolar,\nsó tu podes libertar.\npensamentos e ações,\npalavras e ingratidões.\nJesus, aqui estou;\nte peço, ó Senhor:\nDe mim tem compaixão -\nbusco alívio ao coração."
+  },
+  {
+    "numero": "135",
+    "titulo": "Conforme A Tua Infinita Graça",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "4 j . j . n\n1. Conforme a tua infinita graça,\noh! Pai, per-\n# . # j . . j . j\ndoa a minha transgressão. Fazme sentir mais uma vez a\ngraça e dáme tua paz ao coração.\n# # ## j . A E\nMais uma vez eu sinto o meu pecado, que é contra ti, ó\nPai, ó Pai de amor. Minh’alma pede tua ale-\ngria. Renova em mim o teu amor, ó meu Senhor!\n\n**2.**\n Meu coração a ti eu ofereço, Mais uma vez eu sinto o meu pecado,\nperdão imploro, meu Senhor e Rei. que é contra ti, ó Pai, ó Pai de amor.\nConforme a tua infinita graça, Minh’alma pede tua alegria.\nmisericórdia, sim, alcançarei. Renova em mim o teu amor, ó meu Senhor!\nFonte: não encontrada\nReferência bíblica: Sl 51"
+  },
+  {
+    "numero": "136",
+    "titulo": "Se Sofrimentos Te Causei, Senhor",
+    "tags": [
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe sofrimentos te causei, Senhor. Se ao meu exemplo, o fraco\ntropeçou; se em teu caminho, eu não quis andar. Perdão, Senhor.\n\n**2.**\n Se vão e fútil foi o meu falar. **3.**\n Se indiferente foi o meu viver.\nTranqüilo e calmo sem lutar por ti.\nSe ao meu irmão não demonstrei amor. Devendo estar bem firme no labor.\nPerdão, Senhor.\nSe ao sofredor não estendi a mão.\nPerdão, Senhor. **4.**\n Escuta, ó Deus, a minha oração.\nE vem livrarme de incertezas mil.\nTransforma a minha vida entregue a ti.\n: : Amém, Senhor. : :"
+  },
+  {
+    "numero": "137",
+    "titulo": "Tem Piedade, Senhor",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nTem piedade, Senhor, do pobre pecador.\nTu, que és amor sem igual, lava o meu pecado.\nVejo claro o mal que cometi, tenho consciência de ser pecador.\nPequei contra ti, contra ti somente, e\nŒ . j .. . j\nfiz o que é mal perante os teus olhos. Cria em mim, ó Deus, um\npuro coração, e renova dentro em mim, um espírito reto.\n\n**2.**\n Quando os meus lábios abri, Pequei contra ti,\no meu silêncio cessou. contra ti somente,\nA minha boca dirá e fiz o que é mal\nos teus louvores, Senhor. perante os teus olhos.\nQuero anunciar um Deus que é bom, ::Cria em mim, ó Deus,\njusto e poderosoé meu Salvador. um puro coração,\ne renova dentro em mim,\nReferência bíblica: Sl 51"
+  },
+  {
+    "numero": "138",
+    "titulo": "Estou Aqui, Meu Deus",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nEstou aqui, meu Deus, e canto os hinos meus,\nem teu louvor! Aqui eu venho orar; eu venho\nte adorar. Escuta o meu chamar, ó Criador!\n\n**2.**\n Eu peço o teu perdão; seguro a tua mão, **3.**\n Senhor, até morrer, eu ando, sem temer,\nE A ao lado teu. Glorioso fim terei;\nque me conduz. Bem sei, culpado sou, eterna luz verei,\ne sempre, ó Deus, serei feliz no céu!\nmas sei que alguém me amou,\nalguém por mim pagou, foi numa cruz."
+  },
+  {
+    "numero": "139",
+    "titulo": "Quero Ser Um Servo De Cristo",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuero ser um servo de Cristo, sim, um servo escolhido de\nDeus, para as novas levar aos perdidos, boas novas que vêm lá dos céus.\nFazeme servo fiel, ó Senhor, servo que leve a mensagem de amor!\nEisme submisso ao teu serviço: Tudo consagrote, pois, ó Senhor!\n\n**2.**\n Quero ser um servo de Cristo **3.**\n Quero ser um servo de Cristo,\nA sim, um servo de vida exemplar,\npara todos os dias fazer proclamando que crentes em Cristo\njubilosos no céu hão de entrar.\naos culpados, que vivem nas trevas,\no perdão de Jesus conhecer.\n\n**4.**\n Para ser um servo de Cristo\né preciso ter fé no Senhor;\nFazeme servo fiel, ó Senhor,\numa vida de amor consagrada,\nsob as bênçãos do bom Redentor.\nservo que leve a mensagem de amor!\nEisme submisso ao teu serviço:\nTudo consagrote, pois, ó Senhor!"
+  },
+  {
+    "numero": "140",
+    "titulo": "Se Na Família Está Jesus",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nSe na família está Jesus, é feliz o lar, é feliz o lar, é feliz o lar. Se\nna família está Jesus, é feliz o lar, é feliz o lar.\n\n**2.**\n Se com papai está Jesus, **4.**\n Se com o irmão está Jesus,\né feliz o lar, é feliz o lar, é feliz o lar.\né feliz o lar, é feliz o lar, é feliz o lar. Se com o irmão está Jesus,\né feliz o lar, é feliz o lar.\nSe com papai está Jesus,\n\n**5.**\n Se com a irmã está Jesus,\né feliz o lar, é feliz o lar. é feliz o lar, é feliz o lar, é feliz o lar.\nSe com a irmã está Jesus,\né feliz o lar, é feliz o lar.\n\n**3.**\n Se com mamãe está Jesus,\né feliz o lar, é feliz o lar, é feliz o lar. **6.**\n Se com você está Jesus,\nSe com mamãe está Jesus, é feliz o lar, é feliz o lar, é feliz o lar.\né feliz o lar, é feliz o lar. Se com você está Jesus,\né feliz o lar, é feliz o lar."
+  },
+  {
+    "numero": "140A",
+    "titulo": "Mui Felizes Nos Correm Os Dias",
+    "tags": [
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "**1.**\nMui felizes nos correm os dias, e depressa se esvai nossa dor;\nOh! Benditas as sãs alegrias quando reina no lar doce amor.\n\n**2.**\n Bem tranqüilos no pão que fruimos **4.**\n Se a ferir com cruel insistência,\nnos visitam doenças e dor,\ntemos bênçãos do nosso labor, mesmo assim, bênçãos vêm, com frequência,\nquando reina no lar o Senhor.\nem nossa alma cantamos, sorrimos\n\n**5.**\n Os pais crentes aos filhos afirmam\nquando reina no lar o Senhor. as verdades da lei do Senhor,\ne com obras o ensino confirmam,\nquando reina no lar o Senhor.\n\n**3.**\n Se nos entra na casa a pobreza,\ne a sentimos também ao redor,\n\n**6.**\n Como Eunice a Timóteo ensinava\nsuportável será, com certeza,\na vontade de nosso bom Deus,\nquando reina no lar o Senhor.\nnos anime na mesma Palavra,\neducar nossos filhos aos Céus."
+  },
+  {
+    "numero": "141",
+    "titulo": "Buscai Primeiro O Reino De Deus",
+    "tags": [
+      "Louvor",
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "**1.**\nBuscai primeiro o reino de Deus e toda a sua jus -\ntiça. Todas estas coisas vos serão acrescentadas.\nAleluia! Aleluia! Aleluia! Ale -\nluia! Aleluia! Aleluia! Aleluia!\n\n**2.**\n Nem só de pão o homem viverá, **3.**\n Pedi, pedi e darsevosá,\nA buscai e achareis.\nmas de toda a palavra Batei, batei e abrirsevosá.\nAleluia! Aleluia!\nque procede da boca de Deus. Aleluia! (5x)\nAleluia! Aleluia!\nA - - le - - lu - - ia! A - - le - - luia!\nA - - le - - lu - - ia! Aleluia! Alelu--ia!\nFonte: não encontrada"
+  },
+  {
+    "numero": "142",
+    "titulo": "Um Homem Tudo Para Si Guardou",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nUm homem tudo para si guardou. Morreu, e\nnada, então, daqui levou. Não queiras ser i -\ngual, amado irmão, na vida serve a Deus de coração!\n\n**2.**\n O Pai do céu te deu valiosos bens; **3.**\n És rico, tens poder e tens valor,\nE A tens muitos dons, tens fé e tens amor;\nagora serve a Deus com o que tens! tens tempo, tens cabeça, pés e mãos,\npois serve a Deus, e serve a teus irmãos!\nNão é migalha só que Ele quer;\nquer teu amor e todo o teu viver! **4.**\n Consagra a Deus cabeça, mão e pé;\ninveste tempo e dons com muita fé!\nAplica os bens na Igreja do Senhor,\nna empresa eterna de teu Salvador!"
+  },
+  {
+    "numero": "142A",
+    "titulo": "Um Homem Tudo Para Si Guardou",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nUm homem tudo para si guardou. Morreu, e\nnada, então, daqui levou. Não queiras ser i -\ngual, amado irmão, na vida serve a Deus de coração!\n\n**2.**\n O Pai do céu te deu valiosos bens; **3.**\n És rico, tens poder e tens valor,\ntens muitos dons, tens fé e tens amor;\nagora serve a Deus com o que tens! tens tempo, tens cabeça, pés e mãos,\npois serve a Deus, e serve a teus irmãos!\nNão é migalha só que Ele quer;\nquer teu amor e todo o teu viver! **4.**\n Consagra a Deus cabeça, mão e pé;\ninveste tempo e dons com muita fé!\nAplica os bens na Igreja do Senhor,\nna empresa eterna de teu Salvador!"
+  },
+  {
+    "numero": "143",
+    "titulo": "Faze Oração",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nFaze oração bem cedinho, ao meio dia, sim, também.\nFaze oração à noitinha, que é Deus que te sustém.\n\n**2.**\n Já de manhã Deus escuta, **3.**\n Já de manhã Deus responde\nao meio dia, sim, também.\nao meio dia, sim, também. Faze oração à noitinha,\npois Ele logo vem.\nMesmo te vê à noitinha,\nde tudo te sustém."
+  },
+  {
+    "numero": "144",
+    "titulo": "Conta As Bênçãos",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe da vida as vagas procelosas são, se com desalento julgas\ntudo vão, conta as muitas bênçãos, dizeas duma vez. Hás de ver, sur-\npreso, quanto Deus já fez. Conta as bênçãos, conta quantas são,\n## j . Œ A 7\nrecebidas da divina mão; uma a uma, dizeas de uma\nvez, hás de ver, surpreso, quanto Deus já fez.\n\n**2.**\n Tens acaso mágoas, triste é teu lidar? **3.**\n Quando vires outros com seu ouro e bens,\nlembra que tesouros prometidos tens;\nÉ a cruz pesada que tens de levar? nunca os bens da terra poderão comprar\na mansão celeste em que tu vais morar.\nConta as muitas bênçãos, não duvidarás,\ne em canção alegre os dias passarás.\n\n**4.**\n Seja teu conflito fraco ou forte cá,\nConta as bênçãos, conta quantas são, não te desanimes, Deus por cima está;\nseu divino auxílio, minorando o mal,\nrecebidas da divina mão; te dará consolo e paz celestial.\numa a uma, dizeas de uma vez,\nhás de ver, surpreso, quanto Deus já fez."
+  },
+  {
+    "numero": "145",
+    "titulo": "Vem Cear",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "3 1. Cristo já nos preparou um manjar que nos comprou e a -\ngora nos convida a cear. Com celestial maná que de\ngraça Deus te dá, vem, faminto, tua alma saci -\nar. Vem cear, o Mestre chama, vem cear! Mesmo\n14 hoje tu te podes saciar. Poucos pães multiplicou Água em\nm E 7 A\nvinho transformou. Vem faminto, a Jesus, vem cear.\n\n**2.**\n Eis discípulos a voltar, sem os peixes apanhar, **3.**\n Quem sedento se achar,\nA venha a Cristo sem tardar,\nmas Jesus os manda outra vez sair; alimento verdadeiro ele dá.\nQue dá paz ao coração\nao tornar à praia então, vêem no fogo peixe e pão, e nos traz consolação.\nA Eis que tudo preparado já está.\ne Jesus que os convida à ceia vir.\nVem cear, o Mestre chama, vem cear! **4.**\n Breve Cristo vai descer\ne a noiva receber\nMesmo hoje tu te podes saciar. seu lugar ao lado do Senhor Jesus.\nA Quem a fome suportou\nPoucos pães multiplicou e a sede já passou,\nlá no céu irá cear em santa luz.\nÁgua em vinho transformou.\nVem faminto, a Jesus, vem cear.\n3ª estrofe alterada por Ernani M. Zimmer\nReferência bíblica: Jo **6.**\n22-59"
+  },
+  {
+    "numero": "146",
+    "titulo": "Senhor, Dá-Me Mais Poder",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "1 Senhor, dáme mais poder. Senhor, dáme mais po-\nder. Senhor, eu quero sentir em mim o po -\nder que existe em ti. Se... ...ti\n\n**2.**\n Senhor, dáme mais amor. **3.**\n ::Senhor, dáme a tua paz.::\nA ::Senhor, eu quero sentir em mim\nSenhor, dáme mais amor. a paz que existe em ti.::\n::Senhor, eu quero sentir em mim\no amor que existe em ti.::\nFonte: não encontrada"
+  },
+  {
+    "numero": "147",
+    "titulo": "Conta Pra Jesus",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nConta pra Jesus onde é a tua dor,\nque ele te ajuda a carregar a cruz. Com insistência ora\nque ele vai ouvir; o que tu precisas conta pra Jesus.\n\n**2.**\n Se o inimigo te desanimar, **3.**\n Todos teus desejos contra pra Jesus,\nE ele te escuta do trono de luz.\ndizendo: Tu não podes a Jesus seguir. Ele é bondoso, não te deixará;\nA o que tu precisas conta pra Jesus.\nTu não dês ouvido, ora a teu Senhor;\no que tu precisas conta pra Jesus.\nFonte:não encontrada\n1a estrofe alterada por Ernani M. Zimmer"
+  },
+  {
+    "numero": "148",
+    "titulo": "Nós Oramos, Senhor",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "Nós oramos, Senhor: Vem enchernos com teu amor, para o\nmundo agitado esquecer, cada dia tua vida viver. Nossa\nvida vem, pois, transformar, refrigério pra alma nos dar. E a-\ngora com outros irmãos, nos unimos aqui em oração.\nFonte: não encontrada"
+  },
+  {
+    "numero": "149",
+    "titulo": "Um Dos Tais",
+    "tags": [
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nEis que surge um povo forte, revestido de poder, e não\nteme nem a morte quem a ele pertencer; e terá sublime sorte, pois com\nCristo ao céu vai. Podes tu também dizer: “Sou um dos tais?” Um dos\ntais, um dos tais. Podes tu também dizer: “Sou um dos tais?” Um dos\ntais, um dos tais. Podes tu também dizer: “Sou um dos tais?”\n\n**2.**\n No cenáculo unidos o poder buscavam então, **3.**\n Este povo destemido,\nseguidores de Jesus,\npelo amor de Deus unidos a clamar em oração; pelo mundo perseguido\nA A por levar a sua cruz;\neis que um vento é descido e o fogo do céu cai. e agora revestido\nA com poder ao mundo sai.\nPodes tu também dizer: “Sou um dos tais?” Podes tu também dizer:\nA “Sou um dos tais?”\nUm dos tais, um dos tais.\nPodes tu também dizer: “Sou um dos tais?”\nUm dos tais, um dos tais.\nPodes tu também dizer: “Sou um dos tais?”"
+  },
+  {
+    "numero": "150",
+    "titulo": "Serviu Todos Os Dias",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "6 j . j j j\nServiu todos os dias o povo ao Senhor, louvando com hinos e\npreces quem tanto o mundo amou, dando a vida do Filho que-\nFine\nrido, pra salvar o infeliz pecador. 1. E hoje quem mais o i-\ngora, Senhor, meu pe-\ngnora, em breve ouvirá sua voz. E quando chegar essa\ndido: Dáme força a cumprir meu dever, perdão a quem houver fe-\n1. **2.**\n D.C. al Fine\nhora, um a um julgará todos nós. Seja a\nrido. Faze uso deste humilde ser.\nServiu todos os dias o povo ao Senhor, **2.**\n Nas veredas me livra o tropeço,\nlouvando com hinos e preces quero andar e pregar seu amor.\nquem tanto o mundo amou, Sou feliz, tanto assim, nem mereço,\ndando a vida do Filho querido, ao saber meu irmão sofredor.\npra salvar o infeliz pecador. Mas se essa alegria é a vida\nque me ativa à vida cristã\ne me torna ferramenta viva\nna seara de hoje e amanhã."
+  },
+  {
+    "numero": "151",
+    "titulo": "Vamos Nós Trabalhar",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nVamos nós trabalhar, somos servos de Deus, com o\nMestre seguir, no caminho dos céus; com o seu bom conselho, o vi -\ngor renovar, e fazer prontamente o que Cristo mandar! No la-\nbor, com fervor, a servir a Jesus. Com esperança e fé e com\noração, até que volte o Redentor.\n\n**2.**\n Vamos nós trabalhar, os famintos fartar; **3.**\n Vamos nós trabalhar, para Cristo, o Senhor,\nA contra o reino das trevas será vencedor,\npara a fonte os sedentos depressa levar; ele então para sempre exaltado será,\npois real salvação pela graça nos dá!\nsó na cruz do Senhor nossa glória será,\npois Jesus salvação pela graça nos dá! **4.**\n Vamos nós trabalhar, ajudados por Deus,\nA que coroa real nos dará lá nos céus;\nNo labor, com fervor, a servir a Jesus. na mansão dos fiéis o descanso será,\npois Jesus salvação pela graça nos dá!\nCom esperança e fé e com oração,\naté que volte o Redentor."
+  },
+  {
+    "numero": "152",
+    "titulo": "A Minh'Alma Está Cheia De Paz",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "A minh´alma está cheia de paz! A minh´alma está cheia de\npaz! Tenho gozo e celeste prazer em dizer: A mi-\nFine\nnh´alma está cheia de paz. 1. Eu caminhando vou, eu\nD.C. al Fine\ncaminhando vou, para a cidade santa, eu caminhando vou.\nA minh´alma está cheia de paz!\nTenho gozo e celeste prazer em dizer:\nA minh´alma está cheia de paz.\n\n**2.**\n Eu vou me consagrar, eu vou me consagrar, **3.**\n Eu vou cantar no céu,\neu vou cantar no céu,\na Cristo, meu Mestre, eu vou me consagrar. um hino de vitória,\neu vou cantar no céu.\nReferência bíblica: João 1**4.**\n27"
+  },
+  {
+    "numero": "153",
+    "titulo": "Guerreiros Preparados",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nOs guerreiros se preparam para a grande luta; é Jesus, o\nj . . J . j\nCapitão, que avante os levará. A milícia dos remidos\nj A A E A ESTR.\nmarcha impoluta, certa que a vitória alcançará. Eu\nquero estar com Cristo, onde a luta se travar.\nNo lance impre-\nvisto, na frente me encontrar. Até que o possa ver na glória, me ale-\ngrando da vitória, onde Deus vai me coroar.\n\n**2.**\n Dáte pressa, não vaciles, hoje Deus te chama **3.**\n A peleja é tremenda,\nA tornase renhida,\npara vires pelejar ao lado do Senhor. mas são poucos\nA os soldados para batalhar.\nEntre na batalha onde mais o fogo inflama Ó vem libertar as pobres\nA A E A almas oprimidas\ne peleja contra o vil tentador. de quem furioso\nE as quer tragar.\nEu quero estar com Cristo, onde a luta se travar.\nNo lance imprevisto, na frente me encontrar.\nAté que o possa ver na glória, me alegrando da vitória,\nonde Deus vai me coroar.\nReferência bíblica: Mt **9.**\n37"
+  },
+  {
+    "numero": "154",
+    "titulo": "Persistência Em Oração",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nEis que, ó Pai, prostrados te rogamos nós: Dános a vi-\nŒ . Œ . j\ntória nesta luta atroz; dános fé robusta para\nresistir, é o que teus servos, vimoste pedir!\n\n**2.**\n Dános persistência como a de Jacó **3.**\n E se demorares em nos responder\nA A E firmes ficaremos sem desfalecer;\npra lutar orando, num desejo só, tu por graça tudo nos darás, Senhor,\nA DAE quando for provada nossa fé e amor!\nsuplicando graça, sem desanimar,\nA A E A **4.**\n De salvar perdidos, pobres socorrer\nté que recebamos teu favor sem par! e de darnos bênçãos tens real prazer.\nQue alcancemos sempre tua compaixão!\nDános fé mais forte, dános tua mão!"
+  },
+  {
+    "numero": "155",
+    "titulo": "Adiante Com Valor",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Adiante com valor, sem temor, porque Deus é amor. No a-\nmor, não há temor, porque o amor lança fora o te-\nmor. Por quê? Deus é amor. Por quê? Deus é amor. Por\nquê? Deus é amor. Deus é amor. Por... ... mor.\nFonte: não encontrada\nReferência bíblica: 1João **4.**\n16,18"
+  },
+  {
+    "numero": "156",
+    "titulo": "Um Pendão Real",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nUm pendão real vos entregou o Rei, a vós, soldados\nseus; corajosos, o evangelho defendei, marchando para os\ncéus. Com valor, sem temor, por Cristo prontos a sofrer, bem\nalto erguei o seu pendão. Firmes, sempre, até morrer!\n\n**2.**\n O inimigo é o diabo com seus batalhões, **3.**\n Quem tiver receio e fraco se sentir\nE A recorra ao Salvador;\nque é falso e mau senhor. nele busque forças para prosseguir,\npois Cristo é vencedor.\nEnfrentaio firmes, bravos campeões,\ncom Cristo, sem temor. **4.**\n Oh! Sejamos todos a Jesus leais,\nA e a seu real pendão!\nCom valor, sem temor, Os que mesmo até à morte são fiéis\nA E com ele reinarão.\npor Cristo prontos a sofrer,\nbem alto erguei o seu pendão.\nFirmes, sempre, até morrer!"
+  },
+  {
+    "numero": "157",
+    "titulo": "Buscai Ao Senhor E Vivei",
+    "tags": [
+      "Missão",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "# 4 r . m . E m E . r A m . 3\nBuscai ao Senhor e vivei. Buscai em primeiro lugar o Reino de\nDeus. Que todas outras coisas vos serão acrescentadas e as\n. . . Œ u̇ u .. ≈ . . . .\nA Fine\nbênçãos divinais multiplicadas! cadas! 1. Contemplai o céu e nele a\n# . r . . . . r . r\nluz. Mais forte brilha a glória de Jesus! Por seu amor imenso,\nE m A\nD.C. al Fine\nmiunos para o Pai. E quando desgarrado em vil pecado ainda cai?\nBuscai ao Senhor e vivei.\nBuscai em primeiro lugar o Reino de Deus.\nQue todas outras coisas vos serão acrescentadas\ne as bênçãos divinais multiplicadas!\n\n**2.**\n Tomai a vossa parte na missão, **3.**\n Que assim sirva sempre ao Senhor\nno espírito da graça e do amor.\npois Deus mandou pregar a todo irmão, Tornaivos instrumentos\nda sua pregação,\npor todos os caminhos, cidades e nações. no lar e nos lazeres,\nA sempre um exemplar cristão.\nQue em lugar de trevas, haja luz nos corações!"
+  },
+  {
+    "numero": "158",
+    "titulo": "Jovem, Na Tua Mocidade",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nJovem, na tua mocidade, busca a Jesus com alegria,\nanda no caminho traçado por Cristo, o Salva-\ndor. Eu vivo na alegria de viver, na alegria de can-\ntar, na alegria de falar em Jesus. Na alegria de vi -\nver, na alegria de cantar, na alegria de falar em Jesus.\n\n**2.**\n Jovem, na tua mocidade, **3.**\n Jovem, na tua mocidade,\nnão te esqueças de teu Deus.\nés de Deus um filho amado, E depois quando velho\nE louva a Deus cantando esta canção:\ntens do Pai a proteção. Eu vivo...\nPois diz com muito, muito amor:\nEu vivo na alegria de viver, na alegria de cantar,\nna alegria de falar em Jesus.\nNa alegria de viver, na alegria de cantar,\nna alegria de falar em Jesus.\nReferência bíblica: Ec 11.9"
+  },
+  {
+    "numero": "159",
+    "titulo": "Avivamento",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "Albert Milane / William Howard Doane\n1. Avivanos, Senhor! Oh! Dános teu po -\nder! Desantida de, fé e amor reveste o nosso\nser! Avivanos, Senhor! Eis nossa petição! De\nsantidade, fé e amor reveste o nosso ser!\n\n**2.**\n Despertanos, Senhor! **3.**\n Renovanos, Senhor!\nInspira mais amor.\nOh! Fazenos fruir Mais zelo, graça e abnegação,\na bem do pecador!\nas ricas bênçãos divinais, Avivanos, Senhor!\nEis nossa petição!\nprimícias do porvir! Mais zelo, graça e abnegação,\na bem do pecador!\nAvivanos, Senhor!\nEis nossa petição!\nAs ricas bênçãos divinais,\nprimícias do porvir!"
+  },
+  {
+    "numero": "160",
+    "titulo": "Juventude Luterana",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nJuventude luterana, forte em santa união,\nsegue a Jesus Cristo, o Mestre, nosso fiel pendão!\nJuventude, em toda a parte, desde a serra ao mar,\nora e trabalha pela igreja e o lar.\n\n**2.**\n Deus o Pai e Deus o Filho, **3.**\n Guianos, na luta, avante,\nA para o céu, Jesus,\nDeus Consolador, junto aos pais que agora vivem\nE A na perene luz.\npermanece ao nosso lado, Guardanos em teu caminho,\nE firmes e leais,\ncom o teu favor; para alcançarmos\nA glórias celestiais!\nabençoa a fé e as obras,\nfaze o reino vir;\ne em tua igreja\nvamos te servir."
+  },
+  {
+    "numero": "161",
+    "titulo": "Grei De Cristo Avante",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nGrei de Cristo avante: Luta sem cessar, pela cruz do\nMestre que vos quer salvar. Cristo mesmo, o Redentor,\nguia os seus fiéis, sempre na peleja seu pendão ve-\nreis. Grei de Cristo a vante, luta sem cessar,\npela cruz do Mestre que vos quer salvar.\n\n**2.**\n Reinos, tronos, glória tudo findará,\nmas de Cristo a igreja permanecerá.\nDo inferno as portas hão de desabar,\ne, segundo a sua palavra, nunca nos tragar.\nMarcha, pois, avante povo santo seu,\nalvo rutilante é o eterno céu."
+  },
+  {
+    "numero": "162",
+    "titulo": "Com Tudo Que Somos E Temos",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "# 4 j ‰ j ‰ j\nCom tudo que somos e temos a ti nos sagramos, Senhor. Cha-\nmaste à seara e viemos servirte com zelo e fervor. A\nbênção vem dar na igreja e no lar nesta obra de fé e de amor. A\nbênção vem dar na igreja e no lar nesta obra de fé e de a-\n# Fine\nmor. Com as mãos trabalhamos, com os pés te seguimos, com a\nvoz te louvamos, com os lábios servimos, e dos bens te trazemos para as\n# D.C. al Fine ..\nalmas salvar; e com tudo queremos teu amor proclamar. Com as..."
+  },
+  {
+    "numero": "163",
+    "titulo": "Estou Seguindo A Jesus Cristo",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nEstou seguindo a Jesus Cristo, deste ca-\nminho eu não desisto. Estou seguindo a Jesus\nCristo, atrás não volto, não volto não.\n\n**2.**\n Se me deixarem os pais e amigos, **3.**\n Atrás o mundo, Jesus na frente,\nele é meu Guia onipotente.\nse me cercarem muitos perigos. Atrás o mundo, Jesus na frente.\natrás não volto, não volto não.\nSe me deixarem os pais e amigos,\n\n**4.**\n Depois da luta ganho a coroa,\natrás não volto, não volto não.\na recompensa é sempre boa.\nDepois da luta ganho a coroa,\natrás não volto, não volto não."
+  },
+  {
+    "numero": "164",
+    "titulo": "Pai, Por Teu Filho Salvador",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nPai, por teu Filho Salvador, dános a consolação do teu a\nmor. Pai, santifique nosso ser e conduzenos con-\nforme o teu querer. Vivamos com ele em união, per-\nmanecendo firmes e fiéis de coração. Louvado\nseja nosso Pai de amor. mor. Louvado seja nosso Pai de amor.\n\n**2.**\n Pai, o teu Filho nos uniu, Vivamos com ele em união,\nno Calvário, sua cruz, nos redimiu. permanecendo firmes e fiéis de coração.\nPai, somos gratos pelo amor, Louvado seja nosso Pai de amor.\npela graça do perdão consolador. Louvado seja nosso Pai de amor."
+  },
+  {
+    "numero": "165",
+    "titulo": "Estamos No Mundo",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "Vicente Russo / João Wilson Faustini, 1977\n1. Estamos no mundo, mas dele não somos, aqui nós vi-\nvemos distantes do lar; a nossa morada de\npaz se reveste, a pátria celeste é o nosso lugar.\n\n**2.**\n Da graça divina a mão nos acena, **3.**\n O tempo, no entanto, a vida transforma,\nA e os dias tão breves se vão qual vapor;\ne nos enriquece de bênçãos do céu; com eles passamos, por isso nós somos\napenas mordomos dos bens do Senhor.\nos frutos da terra, os dons que nós temos,\na Deus só devemos, foi ele quem deu."
+  },
+  {
+    "numero": "166",
+    "titulo": "Quando Oramos, Meu Senhor",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuando oramos, meu Senhor, faça orarmos com ar-\n### A j . E A j . E A\n& w . w . w .\ndor, só pedir o que for bom, fortaleça o coração. Seja as-\nsim o meu viver, cumpro, pois, o meu dever.\n\n**2.**\n Veja Cristo, o Salvador, **3.**\n Quando tu assim estás,\nE A também te levantarás,\na orar com todo o ardor, pois teu Deus te ouvirá,\nE A e tão logo aliviará.\nlá no monte muito só, O teu fardo levará\nE A e de novo te erguerá.\njá prostrado sobre o pó.\nEis que anjos seus lhe vem, **4.**\n Vamos já, pois, mais orar,\nE A para o mundo melhorar,\ne conforto ele tem. nossa fé a espalhar,\npara os homens resgatar.\nDemos graças ao Senhor\nque é nosso Salvador."
+  },
+  {
+    "numero": "167",
+    "titulo": "Amarás",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "Amarás o Senhor teu Deus, de todo o cora-\nção, de todo o coração, alma e entendimento. Ama -\nrás, sim, amarás teu irmão também. Ama de coração,\ncomo a ti mesmo. Esta é a lei do Santo Deus. Lei preciosa\nque nos deu. Lei que fala de amor. Amando a Deus de todo o\ncoração poderemos, só então, amar, amar, amar nosso irmão!\nReferência bíblica: Mt 2**2.**\n34-40"
+  },
+  {
+    "numero": "168",
+    "titulo": "Abençoa, Senhor, A Nossa Vida",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nAbençoa, Senhor, a nossa vida, abençoa com teu poder. Pois a\nti, Jesus, a consagramos, que ela seja do teu querer. Pois a.. ..rer.\n\n**2.**\n Abençoa, Senhor, nosso trabalho, **3.**\n Abençoa, Senhor, tua Palavra,\nabençoa com teu poder.\nabençoa com teu amor. : : Que germine e produza muitos frutos\ne nos faça na fé crescer. : :\n: : Pois a ti, Jesus, o oferecemos,\n\n**4.**\n Abençoa, Senhor, nosso encontro,\nque ele sirva pra teu louvor. : : abençoa com teu agir.\n: : Que ao sair daqui tenhamos todos\nmais vontade de te servir. : :\nFonte: não encontrada"
+  },
+  {
+    "numero": "169",
+    "titulo": "Convém Que Jesus Cresça",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nConvém que Jesus cresça. Convém que Jesus cresça. Con-\nvém que Jesus cresça mais e mais. E que diminua eu, e que\ndiminua eu, e que diminua eu mais e mais. E que... mais.\n\n**2.**\n Convém que Jesus cresça (3x) **3.**\n Convém que Jesus cresça (3x)\nmais e mais.\nmais e mais. ::E assim teremos paz (3x)\nmais e mais.::\n::E que perca Satanás\nE que perca Satanás **4.**\n Convém que Jesus cresça (3x)\nmais e mais.\nE que perca Satanás ::E que diminua eu, e que perca Satanás,\nE e assim teremos paz mais e mais.::\nmais e mais.::\nFonte: não encontrada\nReferência bíblica: João **3.**\n30"
+  },
+  {
+    "numero": "170",
+    "titulo": "A Jesus Seguir Eu Quero",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nA Jesus seguir eu quero, aonde for o seu querer. E aonde quer que vá meu\nMestre, seguirei sem mais temer. Ó Jesus, seguirte quero; tu mor-\nJ j Œ\nreste foi por mim! E se todos te negarem, seguirei até o fim.\n\n**2.**\n Se encontrar dificuldades, **3.**\n Se tu queres que atravesse\nvales, rios ou Jordão.\ntentações de Satanás. Tu também atravessaste,\nos meus pés te seguirão.\nProvação também tiveste,\npela mão me seguirás.\nÓ Jesus, seguirte quero;\ntu morreste foi por mim!\nE se todos te negarem,\nseguirei até o fim."
+  },
+  {
+    "numero": "171",
+    "titulo": "Sou Cordeiro De Jesus",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Henriette Marie Luise v. Hayn, 1778\n1. Sou cordeiro de Jesus. e alegria em mim reluz,\npois o meu Pastor querido temme sempre concedido\nsua graça e seu favor e me chama com amor.\n\n**2.**\n Seu cajado me conduz **3.**\n Não devia me alegrar\nA e ao meu Salvador amar?\nmansamente em sua luz. Ao findar a breve lida,\nE acharei eterna vida\nGuiame por verde prado, nos teus braços, bom Pastor.\nA E Canto alegre o teu louvor.\nsem temor ando ao seu lado;\nse com sede eu estiver,\nágua fresca irei beber.\nReferência bíblica: Sl 23"
+  },
+  {
+    "numero": "172",
+    "titulo": "Senhor, Eu Quero Amar-Te",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nSenhor, eu quero amarte sempre de todo o meu cora -\nção. Senhor, eu quero amarte sempre de todo o\nmeu coração. Oh! Toma em mim morada, em\nti eu posso vencer. Senhor, eu quero viver na\ntua presença com todo o meu ser. Se- ...ser.\n\n**2.**\n Senhor, eu quero honrarte sempre **3.**\n : : Senhor, eu quero servirte sempre\nde todo o meu coração. : :\nde todo o meu coração. Que eu cumpra tua vontade,\nregido por teu amor.\nSenhor, eu quero honrarte sempre : : Senhor, eu quero viver na tua presença\nA com todo o louvor. : :\nde todo o meu coração.\nMeu corpo, alma e mente\na ti desejo render.\n: : Senhor, eu quero viver na tua presença\ncom todo o meu ser. : :\nFonte: não encontrada\nReferência bíblica: Mt 2**2.**\n 37"
+  },
+  {
+    "numero": "173",
+    "titulo": "Ó Jesus Bendito",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nÓ Jesus bendito, quero te servir;\npelos teus caminhos fazeme seguir.\n\n**2.**\n Sem a tua gra--ça **3.**\n Ó divino Mestre,\nnosso Salvador,\nnão podemos ter vem ao nosso encontro,\nmostra o teu favor.\nforça suficiente\npara o mal vencer. **4.**\n Protetor bondoso,\nvem nos conduzir;\ntua paz celeste\nfaze em nós luzir."
+  },
+  {
+    "numero": "174",
+    "titulo": "Leigos, Com Jesus Marchai!",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nLeigos, com Jesus marchai! Desfraldai o seu pendão! Sem de-\nmora proclamai o evangelho do perdão. Vossa voz sem medo er-\nguei para os homens convocar ao serviço deste Rei, que nos\n20 veio aqui salvar. Leigos, vamos batalhar pela causa de Je-\nsus! Na congregação, no lar nosso lema seja a cruz!\n\n**2.**\n Leigos, sempre fiéis andai nas pegadas do Senhor! **3.**\n Sempre unidos no dever,\nA só a Deus com fé servi\nVossa vida consagrai ao seu reino com fervor. onde Cristo vos puser,\ne no seu temor segui.\nFé e amor fortalecei na Palavra, que vos traz, Leigos, não será em vão\na obra santa que fazeis;\nem Jesus, o vosso Rei, vida, salvação e paz. vosso eterno galardão\njunto a Deus recebereis.\nLeigos, vamos batalhar pela causa de Jesus!\nNa congregação, no lar nosso lema seja a cruz!"
+  },
+  {
+    "numero": "175",
+    "titulo": "Com Preces Nos Lábios",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nCom preces nos lábios a ti nós chegamos, as nossas ve-\n# # . E . j A\nredas cobriste de amor. Mil graças ren demos, jamais te dei-\nxamos, ó fonte da vida, socorro na dor.\n\n**2.**\n Ó tu, Pai eterno, do trono celeste **3.**\n Confiamos em ti,\nA E A pois, em negras tormentas,\nprospera os caminhos do povo de Deus. em ventos agrestes,\nsocorres os teus.\nDá forças divinas a quem elegeste, Nos grandes perigos,\nsó tu nos alentas,\ne glória e vitória na luta dos teus. Senhor, nosso Deus,\nó Senhor, nosso Deus."
+  },
+  {
+    "numero": "176",
+    "titulo": "Para Altos Montes",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nPara altos montes ergo na aflição os olhos meus:\nDe onde virá socorro e salvação? Dos altos céus! Tenho so-\ncorro certo em meu Senhor, do céu e terra, o grande Criador!\n\n**2.**\n Eis que o teu pé jamais vacilará **3.**\n Sendo o Senhor, qual astro a refulgir,\nte guardará,\nao caminhar, e como sombra, ao lado a te seguir,\nele andará.\npois o Senhor não te abandonará: De dia o sol jamais te ferirá,\nnem lua à noite te molestará.\nIrá velar.\nNunca dormita o guarda de Israel; **4.**\n De todo o mal tua alma guardará\nem teu dormir.\nvigi--a sempre o terno Pai fiel. A tua entrada Deus protegerá\ne o teu sair.\nGuarda seguro é nosso Protetor,\nque nos conserva em seu eterno amor!\nReferência bíblica: Sl 121"
+  },
+  {
+    "numero": "177",
+    "titulo": "Firme Nas Promessas",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nFirme nas promessas de meu Salvador, sempre dou louvores ao meu\nCriador. Fico, pelos séculos do seu amor, firme nas promessas de Je-\nsus. Firme, firme, firme nas promessas de Jesus, meu Mestre.\nFirme, firme, sim, firme nas promessas de Jesus.\n\n**2.**\n Firme nas promessas não irei falhar, **3.**\n Firme nas promessas sempre vejo assim\nA purificação no sangue para mim.\nvindo a tempestade a me consternar. Plena liberdade gozarei, sem fim.\nFirme nas promessas de Jesus.\nPelo Verbo eterno hei de trabalhar,\nfirme nas promessas de Jesus. **4.**\n Firme nas promessas do Senhor Jesus,\nem amor ligado com a sua cruz.\nFirme, firme, Cada dia mais alegrome na luz.\nE A Firme nas promessas de Jesus.\nfirme nas promessas de Jesus, meu Mestre.\nFirme, firme,\nsim, firme nas promessas de Jesus."
+  },
+  {
+    "numero": "178",
+    "titulo": "Tudo Entregarei",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nTudo, ó Cristo, a ti entrego, tudo, sim, por ti darei! Resoluto,\nmas submisso, sempre, sempre, seguirei! Tudo entregarei!\n. Œ . j . J . j\nTudo entregarei! Sim, por ti, Jesus bendito, tudo deixarei!\n\n**2.**\n Tudo, ó Cristo, a ti entrego, **3.**\n Tudo, ó Cristo, a ti entrego,\nquero ser somente teu!\nó eu sinto teu amor Tão submisso à tua vontade,\ncomo os anjos lá no céu!\ntransformar a minha vida\ne meu coração, Senhor! **4.**\n Tudo, ó Cristo, a ti entrego,\nó que gozo, meu Senhor!\nTudo entregarei! Tudo entregarei! Paz perfeita, paz completa!\nGlória, glória ao Salvador!\nSim, por ti, Jesus bendito,\ntudo deixarei!"
+  },
+  {
+    "numero": "179",
+    "titulo": "Sê Fiel",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nSê fiel, meu amigo, na sorte ou na dor. Sê fiel a Jesus, teu Se-\nnhor. Não desvies teu passo, não caias da fé, não vaciles, mantémte de\npé. Fica firme no caminho; não te esqueças de Jesus. Pois só\nele pode darte salvação por sua cruz.\n\n**2.**\n Se o mundo quiser tua alma tentar, **3.**\n Ao findar esta vida, não tenhas temor;\nestarás com o teu Salvador;\na Jesus é que deves buscar. a coroa da vida tu vais receber\ne cantar a Jesus teu louvor.\nSe o diabo, tentando, quiser te levar,\ndeves ler a Palavra e orar.\nFica firme no caminho;\nnão te esqueças de Jesus.\nPois só ele pode darte\nsalvação por sua cruz."
+  },
+  {
+    "numero": "180",
+    "titulo": "Bendita Hora",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "## 6 j j j j j\n1. Bendita a hora de oração, pois traznos paz ao cora ção, e\nj j j j j\nsobrepuja toda a dor, trazendo auxílio do Senhor. tempos de per-\n## j j j . j jG\nturbação, na dor maior, na tentação, procurarei com mais fervor a\n## j j j .. j\ncomunhão com o Senhor. Pro... ...o Senhor.\n\n**2.**\n Bendita a hora de oração, **3.**\n Bendita a hora de oração,\nA pois liganos em comunhão,\nque vem da fé no coração, e traznos fé e mais amor,\nenchendo o mundo de dulçor.\nque eleva ao céu o seu odor, Desejo a vida aqui findar\nA com fé, amor, constante orar;\nem doce cheiro a meu Senhor. : : depois da morte, do pavor,\nentão será, sim, só louvor. : :\nE finda a hora da aflição,\nos dias maus, a tentação,\n: : então darei melhor louvor\na meu Jesus, a meu Senhor. : :\n2ª estrofe alterada por Ernani M. Zimmer"
+  },
+  {
+    "numero": "181",
+    "titulo": "A Graça De Jesus Jamais Me Faltará",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "A graça de Jesus jamais me faltará, jámais me faltará, ja -\nmais me faltará. Eu canto noite e dia, dia e noite sem parar, com\nmuita alegria, sem nunca me cansar. A graça de Jesus ja -\nmais me faltará, jamais me faltará no coração.\nFonte: não encontrada"
+  },
+  {
+    "numero": "182",
+    "titulo": "Confiar Em Cristo",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nQue delícia é crer em Cristo, em seu nome confiar;\n# . j j jD\naceitar os seus ensinos e as promessas desfrutar!\nCristo! Cristo! Já confio em teu nome, em teu poder.\n# . jG 7 j . j j\nCristo! Cristo! Bem amado, faze minha fé crescer!\n\n**2.**\n Oh! Que gozo é crer em Cristo, **3.**\n Bem feliz eu sou em Cristo,\nA sempre dele quero ser;\nter certeza do perdão! quero agora mui submisso\nsempre a ele obedecer.\nReceber de Cristo mesmo\nvida, paz e salvação.\nCristo! Cristo! Já confio\nem teu nome, em teu poder.\nCristo! Cristo! Bem amado,\nfaze minha fé crescer!"
+  },
+  {
+    "numero": "183",
+    "titulo": "Jesus É Melhor",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nJesus é melhor, sim, que ouro e bens, Jesus é melhor do que\ntudo que tens. Melhor que riqueza e posições.\nMelhor muito mais do que milhões. Pode ser um\nrei com poder nas mãos, mas do mal escravo sim. Mil\nvezes prefiro o meu Jesus e servilo até o fim.\n\n**2.**\n Jesus é melhor que qualquer valor, **3.**\n Jesus é mais puro que a linda flor.\nJesus é melhor, ele sim, satisfaz.\namigo leal no prazer e na dor. Jesus é melhor, sim, ele é amor,\ncaminho, luz, verdade e paz.\nMelhor do que tudo ele é pra mim,\nmelhor que qualquer bom amigo enfim.\nPode ser um rei com poder nas mãos,\nmas do mal escravo sim.\nmil vezes prefiro o meu Jesus\ne servilo até o fim.\nFonte: disco LP do Conjunto \"Novo Alvorecer\"\nRisonha Juventudesem data\nReferência bíblica: João **8.**\n12; 1**4.**\n6,27; 1**5.**\n13"
+  },
+  {
+    "numero": "184",
+    "titulo": "Como É Bom Poder Andar Com Deus",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nComo é bom poder andar com Deus. Como é\nbom poder andar com Deus. Os meus passos guiará e ao\ncéu me levará. Como é bom poder andar com Deus.\n\n**2.**\n Como é bom poder andar com Deus.\nComo é bom poder andar com Deus.\nPor caminhos a correr, muitas lutas a vencer.\nComo é bom poder andar com Deus.\n\n**3.**\n ::Como é bom poder andar com Deus.::\nSustentado pelo amor, na alegria ou na dor.\nComo é bom poder andar com Deus.\nFonte: não encontrada\nReferência bíblica: Salmo 128"
+  },
+  {
+    "numero": "185",
+    "titulo": "Para Os Montes Olharei",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nPara os montes olharei, de onde vem a salvação? Meu so-\nj . A ESTR.\ncorro vem de Deus, o Senhor da criação. O Se-\nnhor é quem te guarda, guardará\nde todo o mal. Tua en-\nj . A j . A\ntrada e saída, desde agora até o final.\n\n**2.**\n O Senhor é quem te guarda, **3.**\n O Senhor é quem te guarda,\nA não te deixará cair.\nsempre à tua destra está. Como a Israel guardava,\nnão dormiu nem vai dormir.\nNem de dia, nem de noite,\nmal algum te ofenderá.\nO Senhor é quem te guarda,\nguardará de todo o mal.\nTua entrada e saída,\ndesde agora até o final.\nFonte: não encontrada\nReferência bíblica: Salmo 121"
+  },
+  {
+    "numero": "186",
+    "titulo": "Para Onde For, Irei",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe eu tiver Jesus ao lado e por e le auxiliado, se por\n& b . . J J .\nele for mandado a qualquer lugar, irei. Segui-\nrei a meu bom Mestre. Seguirei a meu bom Mestre. Segui-\n& b . . J J . Œ\nrei a meu bom Mestre. Onde quer que for, irei.\n\n**2.**\n Seja meu caminho duro, **3.**\n Males poderão cercarme,\nou perigos assustarme,\nespinhoso ou inseguro, mas se Cristo segurarme,\naonde me mandar, irei.\nem seus braços bem seguro,\naonde me mandar, irei. **4.**\n Quando terminar a vida,\nfinda minha triste lida,\nSeguirei a meu bom Mestre. tenho a glória prometida,\neu pra meu Senhor, irei.\nSeguirei a meu bom Mestre.\nOnde quer que for, irei."
+  },
+  {
+    "numero": "187",
+    "titulo": "Eu Tenho Um Amigo Que Me Ama",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nEu tenho um amigo que me ama, me ama, me\nama. Eu tenho um amigo que me ama, seu\nnome é Jesus! Jesus! Jesus! Seu nome é Je-\nsus! Jesus! Jesus! Seu nome é Jesus!\n\n**2.**\n Eu tenho um amigo que me salva, **3.**\n Eu tenho um amigo que me guia...\nme salva, me salva. **4.**\n Eu tenho um amigo que me guarda...\nEu tenho um amigo que me salva, **5.**\n Eu tenho um amigo que liberta...\nseu nome é Jesus!\nJesus! Jesus! Seu nome é Jesus!"
+  },
+  {
+    "numero": "188",
+    "titulo": "Este Mundo Não Compreende",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nEste mundo não compreende o amor de Deus, o amor de Deus.\nQue seu Filho Jesus Cristo numa cruz morreu, numa cruz morreu.\nPara salvarnos seu sangue ali verteu. **2.**\n Eu, Senhor teu Deus te\ntomo pela tua mão, pela tua mão. Eu te digo: Não, não\ntemas que eu te ajudo, que eu te ajudo. Eu, o Senhor, teu Deus, sem -\n# # ## # m j j j\npre te ajudarei. Eu sou o teu Deus, eu sou o Senhor. Não\ntemas, eu te ajudo e te tomo pela mão. Não mão."
+  },
+  {
+    "numero": "189",
+    "titulo": "Satisfação É Ter A Cristo",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nSatisfação é ter a Cristo, não há melhor pra-\nzer já visto. Sou de Jesus e agora eu sinto:\nSatisfação sem fim! : : fim! Sim, paz re -\nal! Sim, gozo na aflição. Achei o segredo: É\n# # E 7j j\nCristo no coração! Satisfação sem fim!\n\n**2.**\n Satisfação é nova vida, **3.**\n Satisfação é não ter medo,\npois, meu Jesus virá bem cedo,\neu com Jesus em alegria, logo, em glória, eu hei de vêlo:\n: : Satisfação sem fim! : :\nsempre cantando a melodia:\n: : Satisfação sem fim! : :\nSim, paz real! Sim, gozo na aflição\nAchei o segredo: é Cristo no coração!\nSatisfação sem fim!"
+  },
+  {
+    "numero": "190",
+    "titulo": "Não Vou Ficar Sozinho",
+    "tags": [
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "j . n # . n # j j . n # . n # . j\n1. Não vou ficar sozinho, agora sou feliz com\nCristo no meu coração. Ele é meu grande amigo, não\nj j j\ntemo o perigo com Cristo no meu coração.\nAh! Eu sou feliz! Agora vou cantar!\nPois contente estou com meu Salvador. Feliz agora então eu vive-\nrei. rei. Feliz agora então eu viverei.\n\n**2.**\n Jesus há muito tempo, morreu em uma cruz,\nmorreu só para me salvar.\nSeu sangue derramou, lavando os meus pecados\ne desta forma agora salvo estou.\nAh! Eu sou feliz! Agora vou cantar!\n::Pois contente estou com meu Salvador.\nFeliz agora então eu viverei.::\nFonte: Disco do Conjunto “Novo Alvorecer”\nRisonha Juventudesem data"
+  },
+  {
+    "numero": "191",
+    "titulo": "Pra Viver Nesta Vida",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nPra viver nesta vidacom Jesus é melhor;\npra vencer neste mundocom Jesus é melhor;\nquando vem a tormentacom Jesus é melhor. Carre-\ngando a cruz na bonança ou na dor, com Jesus é melhor. Com Je-\nsus é melhor. Com Jesus é melhor. Carre-\ngando a cruz na bonança ou na dor, com Jesus é melhor.\n\n**2.**\n Para amar de verdade -- com Jesus é melhor;\nquando a Deus suplicares -- com Jesus é melhor;\nquando vem a tormenta -- com Jesus é melhor.\nCarregando a cruz na bonança ou na dor, com Jesus é melhor.\nCom Jesus é melhor. Com Jesus é melhor.\nCarregando a cruz na bonança ou na dor, com Jesus é melhor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "192",
+    "titulo": "Eu Só Confio No Senhor",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nEu só confio no Senhor que não vai falhar. Eu só con-\nfio no Senhor, sigo a cantar. Se o sol chegar a escurecer\n& w Œ w\ne o céu toldar: Eu só confio no Senhor que não vai falhar.\nPosso confiar, posso confiar, que um lar no\ncéu Cristo vai me dar. Se o sol chegar a escurecer\ne o céu toldar: Eu só confio no Senhor que não vai falhar.\n\n**2.**\n Confiando no meu Senhor eu não temo o mal.\nConfiando no meu Senhor, tenho paz real.\nSe o mal me vier, tanto faz: Nele confiarei!\nPois a Jesus me entreguei, ele é meu Rei.\nAgora sou feliz! Agora sou feliz!\nComo sou feliz! Como sou feliz!\nSe o mal me vier, tanto faz, nele confiarei!\nPois a Jesus me entreguei, ele é meu Rei.\nFonte: não encontrada"
+  },
+  {
+    "numero": "193",
+    "titulo": "Deus É Nosso Amparo",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Deus é nosso amparo, nossa fortaleza, nosso pronto au-\nxílio na tribulação. Deus é nosso am- ...xílio na tribula-\nção Ainda que os montes se mudem para o mar, ainda que a terra\ntrema podemos confiar. Ainda que os...\n...ar. Céus e terra irão passar, mas a palavra não passa -\nrá. Céus e terra irão passar, mas a palavra não passa -\nrá. Não, não, não passará. Não, não, não passará.\nFonte: não encontrada"
+  },
+  {
+    "numero": "194",
+    "titulo": "Vou Dizer Por Que Não Temo",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "**1.**\nVou dizer por que não temo, por que não tenho temor; eu não\ntemo mesmo nada, pois eu tenho o Senhor. Eu não\ntemo se a estrada é escura e não tem luz. Eu não\ntemo mesmo nada, pois eu creio em Jesus\n\n**2.**\n Eu não temo mesmo a morte, **3.**\n Eu não temo esta vida,\npois espero a que há de vir;\npois já dela me livrou. nem se a estrada for comprida,\nCristo vai me conduzir.\nTem mudado minha sorte\nmeu Jesus que me salvou.\nEu não temo se a estrada\nÉ escura e não tem luz.\nEu não temo mesmo nada,\nPois eu creio em Jesus.\nFonte: não encontrada\nReferência bíblicas: Salmo 27"
+  },
+  {
+    "numero": "195",
+    "titulo": "Pai Nosso, Que Estás No Céu",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nPai nosso, que estás no céu, ensina a gente a ser irmão, num\nmundo que passa fome, mas investe na destruição. **2.**\n Pai\nnosso, que estás no céu, ensina a gente a repartir. O\nmundo perdeu o rumo, esqueceu o jeito de sorrir. O\nmundo perdeu o rumo, esqueceu o jeito de sorrir."
+  },
+  {
+    "numero": "196",
+    "titulo": "Em Nada Ponho A Minha Fé",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "**1.**\nnada ponho a minha fé, senão na graça de Jesus; no\nsacrifício remidor, no sangue do bom Redentor. A minha fé e o\nmeu amor estão firma dos no Senhor. Estão firmados no Senhor.\n\n**2.**\n Se lhe não posso a face ver, **3.**\n Seu juramento é mui leal,\nA E abrigame no temporal;\nna sua graça vou viver; ao vir cercarme a tentação,\né Cristo a minha salvação.\nem cada transe, sem falhar,\nsempre hei de nele confiar. **4.**\n Assim que o seu clarim soar,\nA irei com ele me encontrar;\nA minha fé e o meu amor e gozarei da redenção\nE com todos que no céu estão.\nEstão firmados no Senhor\nEstão firmados no Senhor."
+  },
+  {
+    "numero": "197",
+    "titulo": "Atribulado Coração",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nAtribulado coração, em Cristo alívio encontrarás; con-\nj j . ESTR.\nsolo, paz e seu perdão, sim, dele tu receberás. Ó\nvem sem demora ao Salvador! Por que vaci-\nlar e ter temor? Oh! Vem! Vem já! Descanso te dará.\n\n**2.**\n Dilacerado pela dor **3.**\n Se, para vir ao Salvador,\nA tu tens fraquezas a vencer.\ndas tuas culpas, do pecar, Oh! Vem, pois ele em seu amor,\ne em graça te dará poder!\nvem sem demora ao Salvador,\ne vida nova hás de gozar.\n\n**4.**\n A Cristo, sem demora, vem,\nÓ vem sem demora ao Salvador! pois ele almeja te valer;\nA e sempre quer buscar teu bem;\nPorque vacilar e ter temor? confia nele em teu viver!\nOh! Vem! Vem já!\nDescanso te dará."
+  },
+  {
+    "numero": "198",
+    "titulo": "Cantai",
+    "tags": [
+      "Consolo",
+      "Missão",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nO meu coração sofredor descanso seguro encontrou, se-\nguindo os conselhos de amor do Pai que do mal me chamou. Can-\ntai, cantai no templo de nosso Senhor! Can-\ntai, cantai, ao mundo mostrai seu amor!\n\n**2.**\n No livro bendito encontrei **3.**\n Os males do mundo olvidei,\npor isso me pus a cantar;\npalavras de amor e de luz; com Deus para sempre estarei,\nirei com Jesus ao seu lar.\ne canto celeste escutei\ndos anjos, saudando Jesus.\nCantai, cantai\nno templo de nosso Senhor!\nCantai, cantai\nAo mundo mostrai seu amor!"
+  },
+  {
+    "numero": "199",
+    "titulo": "Na Rocha Firme O Sábio Construiu",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nNa rocha firme o sábio construiu, a sua casa ele construiu. Na\nrocha firme o sábio construiu, e a chuva já caiu. A\n. j . j . j\nchuva caiu e a água subiu. A chuva caiu e a água subiu. A\nchuva caiu e a água subiu, mas a casa na rocha ficou.\n\n**2.**\n Na frouxa areia o néscio construiu,\na sua casa ele construiu.\nNa frouxa areia o néscio construiu,\ne a chuva já caiu.\nA chuva caiu e a água subiu.\nA chuva caiu e a água subiu,\ne a casa na areia tombou.\nReferência bíblica: Mateus **7.**\n24-27"
+  },
+  {
+    "numero": "200",
+    "titulo": "Eu Sou Pobre E Necessitado",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Eu sou pobre e necessitado po-\nrém o Senhor cuida de mim. cuida de\nmim. Tu és o meu amparo e o\nmeu libertador; não te detenhas,\nó Deus meu! Tu... ...ó Deus meu!\nFonte: não encontrada\nReferência bíblica: Salmo 40.17"
+  },
+  {
+    "numero": "201",
+    "titulo": "Crê, Minha Alma Entristecida",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "**1.**\nCrê, minha alma entristecida, que por Cristo, o Salvador,\nfoste toda redimida; já desfezse o teu pavor.\n\n**2.**\n Expurgoute do pecado **3.**\n Pela fé e só por graça\ntens perfeita salvação;\npor seu sangue o Redentor; não receies a desgraça\nda perpétua escuridão.\no ferrolho foi quebrado\npelo teu Libertador. **4.**\n Teu pesar em alegria\nveio Cristo transformar;\ne das trevas para o dia\ndeves desde já passar."
+  },
+  {
+    "numero": "202",
+    "titulo": "Bem Fiel",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Bem fiel, bom Jesus, me faz fiel. Bem fi-\nel, bom Jesus, me faz fiel. Por caminhos a correr muitas\nlutas a vencer. Dá poder para ser bem fiel.\nFonte: não encontrada"
+  },
+  {
+    "numero": "203",
+    "titulo": "Crer E Observar",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nJesus confiar, sua lei observar. Oh! Que gozo, que\nbênção, que paz! Satisfeitos guardar, tudo quanto ordenar, ale-\ngria perene nos traz. Crer e observar tudo quanto orde-\nnar; o fiel obedece ao que Cristo mandar.\n\n**2.**\n O inimigo falaz e a calúnia mordaz **3.**\n Que delícia de amor,\ncomunhão com o Senhor\nCristo pode desprestigiar; tem o crente zeloso e leal;\no seu rosto mirar,\nnem tristeza, nem dor, nem a intriga maior e do medo livrar,\nseu consolo constante e real.\npoderão ao fiel abalar.\nCrer e observar **4.**\n Resolutos, Senhor,\ne com fé, zelo e ardor,\ntudo quanto ordenar os teus passos queremos seguir;\nteus preceitos guardar,\no fiel obedece o teu nome exaltar,\nsempre a tua vontade cumprir.\nao que Cristo mandar."
+  },
+  {
+    "numero": "204",
+    "titulo": "A Minha Fé, Senhor",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "Trad. Manoel da Silveira Porto Filho, 1961\n1. A minha fé, Senhor, ponho em teu grande amor\ne em teu poder. Ouve ao que vem clamar, e humilde\nsuplicar: Teu sempre, e sem cessar, desejo ser.\n\n**2.**\n Meu coração sustém, **3.**\n Quando eu, Senhor, andar\nA e triste vaguear\ne guia em todo o bem na treva e dor,\nE A ajudame, ó Jesus,\nmeu caminhar. e muda a sombra em luz,\ntornando leve a cruz\nDáme, ó Jesus, Senhor, por teu favor.\npor ti maior amor;\n\n**4.**\n E quando, para mim,\nsó para o teu louvor a vida já ao fim\nA eu vir chegar,\nme vem guardar! ó santo Salvador,\nnas tuas mãos de amor,\nsem susto e sem temor,\neu quero estar."
+  },
+  {
+    "numero": "205",
+    "titulo": "Oh! Guia Nesta Vida",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Guia nesta vida, Senhor, meu Deus, a-\nté findar a lida, os passos meus. So -\nzinho eu não desejo um passo dar: Cons -\ntante em teu cortejo eu quero andar.\n\n**2.**\n O teu amor me cobre o coração **3.**\n Se acaso não compreendo teu proceder,\nA GA de ti não me desprendo, do teu poder.\ne tranqüiliza o pobre na inquietação. Conduze, tu, meus passos à eterna luz;\nA E A EA acolheme em teus braços, Senhor Jesus.\nSe tua eterna graça me consolar,\ncontente na desgraça hei de exultar."
+  },
+  {
+    "numero": "206",
+    "titulo": "Davi Falou, Eu Também Posso Falar",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Davi falou, eu também posso falar: O Senhor é o meu Pas-\ntor e nada me faltará. Davi fator e nada me falta-\nrá. Não faltará, não faltará, o Senhor é o meu Pas-\ntor e nada me faltará. Não faltator e nada me faltará.\nFonte: não encontrada\nReferência bíblica: Salmo 23"
+  },
+  {
+    "numero": "207",
+    "titulo": "Em Jesus Amigo Temos",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nJesus amigo temos, que sofreu a nossa dor\n& b . jC 7\ne nos manda que levemos os cuidados ao Senhor.\nj . Cw7\nFalta ao coração dorido, gozo, paz, consolação?\n& b . jC 7\nLeva, ó coração ferido, tudo a Deus em oração.\n\n**2.**\n Andas fraco e carregado **3.**\n Cristo é verdadeiro amigo;\ndisto provas nos mostrou,\nde cuidados e temor? quando, para ter consigo\nos culpados, se humanou.\nVai ao Salvador amado, Veio, com seu sangue puro,\ndos pecados nos lavar;\nvai com fé teu mal expor. paz na terra e, no futuro,\nvida eterna vai nos dar.\nBusca o teu melhor amigo,\nfala a Cristo em oração;\nnele encontras terno abrigo\ne repouso na aflição."
+  },
+  {
+    "numero": "208",
+    "titulo": "Muitos Homens Fazem",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nMuitos homens fazem castelos sobre a areia, de\nCristo não se lembram, nem buscam seu auxílio.\nmESTR.\nCristo é a pedra, a pedra angular,\nmas muitos homens não o querem aceitar.\n\n**2.**\n Estes seus castelos **3.**\n Creia neste Cristo,\ncaminho verdadeiro.\nnas águas não subsistem, É ele quem nos guia\nà salvação eterna.\npois Cristo é o fundamento\nda vida verdadeira.\nE7Am\nCristo é a pedra, a pedra angular\nMas muitos homens não o querem aceitar."
+  },
+  {
+    "numero": "209",
+    "titulo": "Oh! Vem Guiar, Jesus",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nOh! Vem guiar, Jesus, teu filho em tua luz. Oh!\nVem guiar, Senhor, teu filho com amor. Por\nti Senhor, eu clamo: Estende a tua mão! Ó\nCristo, eu te amo, amo e dou meu coração.\n\n**2.**\n Oh! Vem me abençoar, **3.**\n Oh! Santo, Santo Deus,\nlevanto os olhos meus,\nna vida me guiar. e louvarei também,\nA agora e sempre. Amém.\nOh! Vem me pertencer\nem todo o meu viver.\nPor ti, Senhor, eu clamo:\nEstende a tua mão!\nÓ Cristo, eu te amo,\namo e dou meu coração"
+  },
+  {
+    "numero": "210",
+    "titulo": "Seja Deus Gracioso",
+    "tags": [
+      "Missão",
+      "Geral"
+    ],
+    "letra": "& 4 . j . j . . j . j .\nSeja Deus gracioso, e nos abençoe,\nGFine\ne resplandeçasobre nós o seu rosto.\n1. Para que conheçam na terra o teu caminho e em todas as nações a\n12 D.C. al Fine\ntua salvação. Louvemte, os povos, ó Deus.\nSeja Deus gracioso e nos abençoe\ne resplandeça sobre nós o seu rosto.\n\n**2.**\n Alegremse e exultem **3.**\n A terra deu seu fruto\ne Deus nos abençoa\nna terra todas as gentes, e todos os confins\nda terra o temerão.\npois tua justiça Louvemte, os povos, ó Deus.\nse manifestará,\nguiando na terra as nações.\nReferência bíblica: Sl 67"
+  },
+  {
+    "numero": "211",
+    "titulo": "Refúgio E Fortaleza",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nRefú gio e fortaleza Deus sempre é. So -\ncorro bem presente nas tribulações. E mesmo se os\nmontes vierem a estremecer, em Jesus eu quero sempre,\nsempre crer. Deus conosco está, sim está. Filho de Da -\nj j Œ ..\nvi. O Senhor dos Exércitos nosso refúgio é.\n\n**2.**\n Refúgio e fortaleza Deus sempre é.\nExiste uma cidade do Deus de Jacó,\njamais será abalada, jamais sucumbirá.\nVida eterna e salvação jorrará!\n::Deus conosco está, sim está. Filho de Davi\nO Senhor dos exércitos nosso refúgio é.::\nReferência bíblica: Sl 46"
+  },
+  {
+    "numero": "212",
+    "titulo": "Eu Sei Que Deus É Sabedor",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nEu sei que Deus é sabedor de\nque sou grande pecador, mas com poder e\ncompaixão livroume da destruição.\n\n**2.**\n Eu sei que Deus é sabedor **3.**\n Eu sei que Deus é sabedor\ndo meu sofrer, da minha dor,\ndas minhas faltas, meu temor, mas sei também que o meu penar\nem gozo pode transformar.\nmas pronto está a me valer,\nde todo o mal me proteger."
+  },
+  {
+    "numero": "213",
+    "titulo": "Conosco Fica, Ó Deus, A Noite Vem",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "A NOITE VEM Henry Francis Lyte, 1847\n1. Conosco fica, ó Deus, a noite vem, as trevas\ncrescem. Eis, Senhor, convém que nos socorra a\ntua proteção! Oh! Vem fazer conos co habitação.\n\n**2.**\n Depressa vem o nosso fim mortal, **3.**\n Vem revelarte a nós, Jesus Senhor,\nE A divino Mestre, Rei e bom Pastor.\ndesaparece o gozo terreal. Ó Guia forte, amparo em tentação,\nvem, vem fazer conosco habitação.\nMudança vem em tudo e corrupção.\n\n**4.**\n Presente estás nas trevas ou na luz,\nConosco faze eterna habitação.\nnão há perigo andando com Jesus.\nMedo e pavor jamais existirão\nonde meu Deus fizer habitação.\n\n**5.**\n Ó morte, os teus poderes vão findar!\nCristo os santos vão ressuscitar.\nNo reino além não há perturbação,\nsenão com Deus ditosa habitação."
+  },
+  {
+    "numero": "214",
+    "titulo": "Ó Deus, Eterno Protetor",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nÓ Deus, eterno Protetor, ajudador fiel, és\nnosso amparo em toda a dor, socorro de Israel!\n\n**2.**\n Sob tua forte proteção **3.**\n És desde o início, eterno Deus,\nteus anos não têm fim.\nandaram sempre os fiéis, Criaste tudo: Terra e céus,\ne deste a vida a mim.\nguiados só por tua mão,\npotente Rei dos reis. **4.**\n Mil anos são aos olhos teus\nqual noite que findou,\ne a vida humana, grande Deus,\nqual sombra que passou.\n\n**5.**\n Ó Deus, eterno Protetor,\najudador fiel,\nsê nosso amparo em toda a dor,\nsocorro de Israel!"
+  },
+  {
+    "numero": "215",
+    "titulo": "Fé No Senhor Montes Há De Mover",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nFé no Senhor montes há de mover, se confi -\narmos no seu grão poder. Os patriarcas, profetas tam-\nbém, creram em Deus isto sempre convém. Fé em Deus Pai,\nfé em Jesus; fé no Espírito Santo de luz. Todos que\ncreram o mal vencerão, os pecadores a Cristo virão.\n\n**2.**\n Fé quando o coração fraco está; **3.**\n Fé quando há doença em casa também,\nE quando um querido se passa pro além;\nfé quando ninguém conforto nos dá; fé quando a vida aqui se acabar,\nA pois o que crê lá no céu vai morar.\nfé no Senhor quando em perseguição,\nfé que dá gozo na vil tentação.\nFé em Deus Pai, fé em Jesus;\nFé no Espírito Santo de luz.\nTodos que creram o mal vencerão\nOs pecadores a Cristo virão.\nFonte: não encontrada"
+  },
+  {
+    "numero": "216",
+    "titulo": "O Meu Pastor É O Bom Jesus",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nO meu Pastor é o bom Jesus, ja -\nmais me deixará. Às águas frescas\nme conduz e me protegerá.\n\n**2.**\n Jesus minha alma quer nutrir **3.**\n Se pelas trevas transitar,\nnão temerei o mal:\ncom seu imenso amor, Com seu cajado a me guiar,\nprossigo até o final.\ne meu caminho dirigir\n\n**4.**\n A salvação receberei\nconforme o seu dispor.\ndo meu fiel Pastor,\ne eternamente habitarei\nna casa do Senhor.\nReferência bíblica: Sl 23"
+  },
+  {
+    "numero": "217",
+    "titulo": "Sou Feliz",
+    "tags": [
+      "Consolo",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nSe paz a mais doce me deres gozar, se\ndor a mais forte sofrer. Oh! Se ja o que for, tu me\nfazes saber que feliz com Jesus sempre sou! Sou fe -\nliz com Jesus! Sou feliz com Jesus, meu Senhor!\n\n**2.**\n Embora me assalte o cruel Satanás **3.**\n Meu triste pecado, por meu Salvador,\nfoi pago de um modo cabal;\ne ataque com vis tentações. valeume o Senhor, ó mercê sem igual!\nSou feliz! Graças dou a Jesus!\nOh! Certo eu estou, apesar de aflições,\nque feliz eu serei com Jesus! **4.**\n A vinda eu anseio do meu Salvador;\nem breve virá me levar\nSou feliz com Jesus ao céu, onde vou para sempre morar\ncom remidos na luz do Senhor!\nSou feliz com Jesus, meu Senhor!"
+  },
+  {
+    "numero": "217A",
+    "titulo": "Solta O Cabo Da Nau",
+    "tags": [
+      "Fé",
+      "Geral"
+    ],
+    "letra": "Erik Janson e F. da Silva\n1. Oh! Por que duvidar sobre as ondas do mar, quando\n& # w j j\nCristo o caminho abriu? Quando forçado és, contra as\nondas lutar, seu amor a ti quer revelar. Solta o\nj j j j\ncabo da nau, toma o remo nas mãos e navega com\nfé em Jesus. E então tu verás que bonança se faz\npois com ele seguro estarás. Soltao... ...rás.\n\n**2.**\n Trevas vem te assustar, tempestades no mar.\nDa montanha o mestre te vê.\nE nas tribulações ele vem socorrer\nsuas mãos bem te podem suster.\nSolta o cabo da nau, toma o remo nas mãos e navega com fé em Jesus\nE então tu verás que bonança se faz pois com ele seguro estarás."
+  },
+  {
+    "numero": "218",
+    "titulo": "Além Do Céu Azul",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nAlém do céu azul foi Jesus preparar um lar pra dar a\nquem a vitória alcançar. Anelo conseguir a\nvida do porvir com fé no meu Senhor Jesus.\n\n**2.**\n Bem sei que eu de mim nada tenho pra dar,\nmas sei que meu Jesus já me veio salvar.\nAgora quero eu ter fé no coração,\naté seu rosto ver além."
+  },
+  {
+    "numero": "219",
+    "titulo": "Sei Que Jesus Voltará",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nSei que Jesus voltará, quando será eu não sei. Estou\nA m m\ncerto, porém, que quando isto acontecer, eu irei, sim, irei.\nSei que este dia será maravilhoso porque, todos que vigilantes, rece-\nberam a Jesus vão subir, se encontrar. Que bom será se eu pu-\nder olhar em volta e ver você também ali. Me alegrarei e bendi-\nrei aquele que me deu eterna salvação.\n\n**2.**\n Enquanto Cristo não vem, quero viver mais e mais,\ncomo quem diaadia espera o Salvador, que virá, sim, virá.\nVocê, amigo, também, pode esperálo assim.\nÉ preciso, entretanto, confiar de coração, e então, vem cantar.\nQue bom será se eu puder olhar em volta e ver você também ali.\nMe alegrarei e bendirei Aquele que me deu eterna salvação.\nFonte: não encontrada"
+  },
+  {
+    "numero": "220",
+    "titulo": "Chegou O Tempo De Pensar",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nChegou o tempo de pensar nas coisas que são lá do céu, dei-\nxando este mundo mau com todos os pecados seus. Bus-\ncai as coisas lá de cima que já se aproxima o reino de Deus. Bus-\ncai as bênçãos do Senhor; confiai em nosso Salvador. Os si-\nnais estão se declarando que vai se passando o que Jesus falou. Vem a\nCristo, ele te reveste com os dons celestes do Consolador. Vem a.. dor.\n\n**2.**\n Como foi nos dias de Noé, que o dilúvio tudo acabou.\nTambém nos dias de Sodoma Deus com fogo tudo devorou.\nNo entanto, não houve agonia como neste dia que vem o Senhor.\nBuscai as bênçãos do Senhor, confiai em nosso Salvador.\nOs sinais estão se declarando que vai se passando o que Jesus falou.\n::Vem a Cristo ele te reveste com os dons celestes do Consolador.::\nFonte: não encontrada"
+  },
+  {
+    "numero": "221",
+    "titulo": "Tenho Saudade De Jesus, Meu Mestre",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nTenho saudade de Jesus, meu Mestre. Tenho sau-\ndade de Jesus, meu Rei. Mas, ao findar o meu labor ter-\nrestre. Me encontrarei com ele, sim, eu sei. Saudade, tenho sau-\ndade de ti Jesus meu Salvador e Rei. Quero sentir tua pre-\nsença, pois sei que só assim feliz serei.\n\n**2.**\n Tenho vontade de viver com Cristo, **3.**\n Não queres tu também viver para Cristo,\nA E e nele sempre, sempre confiar?\nde nos seus braços sempre me abrigar. Sua presença te dará conforto,\nA e seu amor te levará ao lar.\nSim, quero a ele sempre ser submisso,\ne confiar no seu amor sem par.\nSaudade, tenho saudade\nde ti Jesus, meu Salvador e Rei.\nQuero sentir tua presença\nPois sei que só assim feliz serei.\nFonte: não encontrada"
+  },
+  {
+    "numero": "222",
+    "titulo": "Segurança",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nQue segurança: Sou de Jesus. Eu já desfruto o brilho da\nluz. Sou, por Jesus, herdeiro de Deus, ele me\nleva à glória dos céus. Canta, minha alma! Canta ao Se-\nnhor! Rendelhe sempre ardente louvor! Canta, mi-\nnha alma! Canta ao Senhor! Rendelhe sempre ardente louvor!\n\n**2.**\n Ao seu amor eu me submeti, **3.**\n Sempre vivendo em seu grande amor\nA E A sinto alegria em meu Salvador.\nno coração a paz eu senti! Com esperança vivo na luz.\nOh! Que bondade e amor de Jesus!\nAnjos descendo, trazem dos céus\necos do imenso amor do bom Deus.\nCanta minha alma, canta ao Senhor!\nRendelhe sempre ardente louvor!\nCanta minha alma, canta ao Senhor!\nRendelhe sempre ardente louvor!\nReferência bíblica: Rm **8.**\n16,17"
+  },
+  {
+    "numero": "223",
+    "titulo": "Rio Cristalino",
+    "tags": [
+      "Fé",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nHá um rio cristalino, on de os santos viverão;\ncorre do divino trono, é a alegria do cristão.\nAlegria nós teremos em Jesus, o bom Senhor.\nPara sempre viveremos com o nosso Redentor.\n\n**2.**\n Lá na margem desse rio **3.**\n Pela fé nós alcançamos\na justiça e retidão\nos remidos andarão, de Jesus, que deu a vida\npela nossa redenção.\nsempre a Cristo ali servindo,\ncom sincera devoção. **4.**\n Nós veremos breve o rio,\nfinda a peregrinação,\nAlegria nós teremos e louvores sempiternos\nnossos lábios cantarão.\nem Jesus, o bom Senhor\nPara sempre viveremos\ncom o nosso Redentor.\nReferência bíblica: Ap 2**2.**\n1-5"
+  },
+  {
+    "numero": "224",
+    "titulo": "Quando Lá Do Céu Descendo",
+    "tags": [
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuando lá do céu descendo, para os seus Jesus voltar. E o cla-\nrim de Deus a todos proclamar que chegou o grande dia da vi-\ntória do meu Rei; e por sua imensa graça lá estarei. Quando en-\nfim chegar o dia da vitória do meu Rei. Quando en-\nfim chegar o dia, pela graça de Jesus eu lá estarei.\n\n**2.**\n Nesse dia, quando os mortos **3.**\n Pelo mundo rejeitado\nfoi Jesus meu Salvador;\nhão de a voz de Cristo ouvir desprezaram, insultaram meu Senhor,\nmas faustoso vem o dia\ne dos seus sepulcros hão de ressurgir, da vitória do meu Rei;\ne por sua imensa graça lá estarei.\nos remidos reunidos logo aclamarão seu Rei;\ne por sua imensa graça lá estarei. **4.**\n mim mesmo nada tenho\nem que possa confiar,\nQuando enfim chegar o dia mas Jesus morreu na cruz pra me salvar;\ntão somente nele espero,\nda vitória do meu Rei sim, e sempre esperarei;\ne por sua imensa graça lá estarei.\nQuando enfim chegar o dia\npela graça de Jesus eu lá estarei"
+  },
+  {
+    "numero": "225",
+    "titulo": "Glória Para Sempre",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "# # ## 6 E j j j jj\nj j j . # . j\nGló ria pra sempre ao Cordeiro de Deus. A Je -\nj j j j j j j j j\nsus, o Senhor,\nao Leão de Judá, à raiz de Da-\n# # ## jjj jj\nvi. Que venceu e o Livro abrirá. Os céus, a\nj . j j\nterra e o mar e tudo o que neles há o\nj . j j\nadorarão e confessarão: Jesus Cristo é o Se-\n& w w w .\n# # # # # mj j\nnhor. Ele é o Senhor. Ele é o Senhor Ressurreto dentre os\n# # # # Aj j\nmortos. Ele é o Senhor. Todo joelho se dobrará, toda\nlíngua confessará que Jesus Cristo é o Senhor."
+  },
+  {
+    "numero": "226",
+    "titulo": "Junto Ao Trono",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nJunto ao trono de Deus preparado tens, cristão, um lugar dado a\nti. Há prazeres, há gozo exaltado, há delícias profusas a-\nli. Sim, ali, sim, ali, de seus anjos fiéis rodeado, e cer-\ncado de glória e de luz, junto a Deus já te espera Jesus.\n\n**2.**\n Não nos podem da terra os encantos **3.**\n Conservemos em nossa lembrança,\nE A as riquezas do lindo país.\ndar idéia do gozo dali. E guardemos conosco a esperança,\nA de uma vida melhor, mais feliz.\nSe no mundo os prazeres são tantos, Pois dali, pois dali,\nE E uma voz verdadeira não cansa,\nsão prazeres que cessam aqui. de chamarnos ao reino da luz:\nA É a voz divinal de Jesus.\nMas ali, mas ali,\nas venturas eternas concorrem,\nna existência perpétua da luz,\npra tornarte feliz com Jesus."
+  },
+  {
+    "numero": "227",
+    "titulo": "Terra Feliz",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nEu avisto uma terra feliz, onde irei para sempre mo-\nrar; há mansões nesse lindo país, que Jesus foi ao céu prepa-\nrar. Vou morar, vou morar, nessa terra celeste porvir. Vou mo-\nrar, vou morar, nessa terra celeste porvir.\n\n**2.**\n Cantarei nesse lindo país **3.**\n Deixarei este mundo afinal\npara ir a Jesus adorar;\nbelos hinos ao meu Salvador; nessa linda cidade real\nmil venturas Jesus vai me dar.\npois ali viverei bem feliz, : : Vou louvar, vou louvar,\nnessa terra celeste porvir. : :\nsem angústias, tristezas, nem dor.\nVou cantar, vou cantar,\nnessa terra celeste porvir.\nVou cantar, vou cantar,\nnessa terra celeste porvir."
+  },
+  {
+    "numero": "228",
+    "titulo": "Da Linda Pátria Estou Bem Longe",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nDa linda pátria estou bem longe, cansado estou.\nEu tenho de Jesus saudade. Oh! Quando é que eu vou?\nPassarinhos, belas flores, querem me encantar.\nSão vãos terrestres esplendores, de longe enxergo o lar.\n\n**2.**\n Jesus me deu a sua promessa, **3.**\n Qual filho de seu lar saudoso,\neu quero ir.\nme vem buscar. Qual passarinho para o ninho,\naos braços teus fugir.\nMeu coração está com pressa, É fiel, sua vinda é certa,\nquando eu não sei.\neu quero já voar. Mas ele manda estar alerta,\ncom ele subirei.\nMeus pecados foram muitos,\nmui culpado sou.\nPorém, seu sangue põeme limpo,\neu para a pátria vou."
+  },
+  {
+    "numero": "229",
+    "titulo": "Já Refulge A Glória Eterna",
+    "tags": [
+      "Missão",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nJá reful ge a glória eterna de Jesus, o Rei Senhor; sua\ngraça, sempre terna, nos ampara com amor. Os si-\nnais de sua vinda mais se mostram cada vez. Vencendo vem Je -\nŒ . j . j\nsus! Glória, glória!Aleluia! Glória, glória! Aleluia!\nGlória, glória! Aleluia Vencendo vem Jesus!\n\n**2.**\n O clarim que chama o crente **3.**\n Eis que em glória refulgente\nsobre as nuvens descerá,\nà batalha já soou. e às nações, Jesus potente,\ncom justiça julgará.\nO Senhor, tomando a frente, E os remidos triunfantes,\nA em fulgor hão de cantar:\nmultidões já conquistou. Vencido tem Jesus!\nGlória, glória! Aleluia! (3x)\nO maligno em retirada Vencido tem Jesus.\naos seus pés o fez tombar.\nVencendo vem Jesus!\nGlória, glória! Aleluia! Glória, glória! Aleluia!\nGlória, glória! Aleluia! Vencendo vem Jesus.\nReferência bíblica: Mt 2**4.**\n3-51"
+  },
+  {
+    "numero": "230",
+    "titulo": "Caminhando Eu Vou",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nCaminhando eu vou para Canaã. Caminhando eu\nvou para Canaã. Caminhando eu vou para Cana-\nã. Glória a Deus! Caminhando eu vou para Canaã.\n\n**2.**\n Eu tenho um Rei em Canaã. **3.**\n Jesus me espera em Canaã. (3x)\nEu tenho um Rei em Canaã. **4.**\n Nós todos vamos para Canaã. (3x)\nEu tenho um Rei em Canaã.\nGlória a Deus!\nEu tenho um Rei em Canaã.\nFonte: não encontrada"
+  },
+  {
+    "numero": "231",
+    "titulo": "Há Um Lar Mui Feliz Lá No Céu",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "LÁ NO CÉU DeWitt Clinton Huntington\n1. Há um lar mui feliz lá no céu, onde não há tristeza nem\ndor. Onde os salvos irão habitar, na presença do seu Salva-\ndor. Lá no céu, lá no céu; há um lar mui feliz lá no\ncéu. Lá no céu, lá no céu; há um lar mui feliz lá no céu.\n\n**2.**\n Tenho amigos fiéis lá no céu, **3.**\n Eu também vou viver lá no céu\ne hei de ver quem me deu salvação.\nque desfrutam o gozo da luz. Não demora o momento de eu ir\ne morar lá naquela mansão.\nJá venceram os males daqui : : Lá no céu, lá no céu;\neu também vou viver lá no céu. : :\ne já cantam louvor a Jesus.\nLá no céu, lá no céu;\n\n**4.**\n Nesse lar tão feliz lá no céu,\ntenho amigos fiéis lá no céu. nunca o mal poderá penetrar.\nSó há glória, pureza e prazer,\nLá no céu, lá no céu; onde os salvos por Cristo hão de entrar.\n: : Lá no céu, lá no céu;\ntenho amigos fiéis lá no céu. nesse lar tão feliz lá no céu. : :\nReferência bíblica: Ap **7.**\n13-17"
+  },
+  {
+    "numero": "232",
+    "titulo": "Quem É Este Povo",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nQuem é este povo, que povo é este? Este é o\npovo que vai morar no céu. Quem é este... ..povo que vai morar no\ncéu. Vai morar. Vai morar. Vai morar. Vai morar. Vai mo -\nrar. Vai morar lá no céu. Vai mo- ..rar. Vai morar lá no céu.\n\n**2.**\n : : Este é o povo que foi comprado, **3.**\n : : Como é gostoso sentir o gozo,\ncom este povo que vai morar no céu. : :\nfoi resgatado com o sangue de Jesus. : :\n::Vai morar. Vai morar. Vai morar.\nVai morar. Vai morar. Vai morar lá no céu. ::\nFonte: não encontrada\nReferência bíblica: Ap **7.**\n9,13-17"
+  },
+  {
+    "numero": "233",
+    "titulo": "Jesus Vem Me Buscar, Ao Céu Me Levará",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nJesus vem me buscar, ao céu me levará. O Cor-\ndeiro prometido voltará. Jesus... deiro prometido volta-\nrá. Ó glória, aleluia! Maranata, vem Jesus! Sou li-\nberto pelo sangue desta cruz. Vem ó Consolador, sua\nglória e resplendor, sou liberto pelo poder do Senhor.\n\n**2.**\n ::Ele manda atento estar, **3.**\n ::O gozo vou sentir,\ncom os anjos a cantar.\nvigiar e sempre orar, Com Cristo para sempre vou morar.::\npara o toque da trombeta escutar.::\nÓ glória, aleluia! Maranata, vem Jesus!\nSou liberto pelo sangue desta cruz.\nVem ó Consolador, sua glória e resplendor,\nsou liberto pelo poder do Senhor.\nFonte: não encontrada"
+  },
+  {
+    "numero": "234",
+    "titulo": "Verei Meu Redentor",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nFinda a lida terreal, quando já do rio além, nesta\nvida tão gloriosa me encontrar. Sei que lá meu Redentor, final-\nmente eu hei de ver e com hinos de louvor hei de o saudar. Hei de\nver, meu Redentor; redimido, junto dele eu hei de estar. Hei de\nver, meu Salvador; os sinais dos cravos hei de contemplar.\n\n**2.**\n Oh! Que enlevo divinal: **3.**\n Nessa pátria de esplendor\nhei de amigos encontrar,\nO seu rosto a contemplar, meus irmãos em Cristo lá hei de rever.\nMas primeiro que os irmãos,\ndesde a aurora desse dia perenal. quando ali no céu chegar,\nmeu Jesus é quem eu mais anseio ver.\nComo então meu coração\nhaverá de o exaltar, **4.**\n Pelas portas de Sião\ncom as vestes a brilhar,\npela graça e compaixão celestial! onde a noite e o pranto nunca chegarão.\nLá no lindo céu de luz,\nHei de ver, meu Redentor; há de Cristo me guiar,\ne mui perto, sim, eu hei de vêlo então.\nredimido, junto dele eu hei de estar.\nHei de ver, meu Salvador;\nos sinais dos cravos hei de contemplar."
+  },
+  {
+    "numero": "235",
+    "titulo": "Alerta Povo É Chegada A Nossa Hora",
+    "tags": [
+      "Louvor",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nAlerta povo é chegada a nossa hora da vitória de Jesus vir nos bus-\ncar. Ele vem com poder e grande glória, descendo ao\nmundo para nos arrebatar. um abrir e fechar de\nolhos, nós estaremos na mansão celestial. E goza -\nremos do banquete do Senhor, dos redimidos que no céu têm seu lugar.\n\n**2.**\n Ali não há mais pranto nem dores, **3.**\n Na cidade onde os crentes vão morar\nestá o rio claro como um cristal.\nas minhas lágrimas Jesus já enxugou. Do outro lado está a árvore da vida,\ndando seu fruto para nos alimentar.\nE só se ouve glória a Deus e aleluia\ndepois da festa do banquete do Senhor.\num abrir e fechar de olhos,\nnós estaremos na mansão celestial.\nE gozaremos do banquete do Senhor,\ndos redimidos que no céu têm seu lugar.\nFonte: não encontrada\nApocalipse **7.**\n17; 2**2.**\n1-5"
+  },
+  {
+    "numero": "236",
+    "titulo": "Deus Cuidará De Ti",
+    "tags": [
+      "Fé",
+      "Oração",
+      "Geral"
+    ],
+    "letra": "**1.**\nAflito e triste coração, Deus cuidará de ti;\npor ti opera a sua mão que cuidará de ti.\nDeus cuidará de ti, em cada dia proverá.\nSim, cuidará de ti, Deus cuidará de ti.\n\n**2.**\n Na dor cruel, na provação, **3.**\n A tua fé Deus quer provar,\nA mas cuidará de ti.\nDeus cuidará de ti; O teu amor quer aumentar,\ne cuidará de ti.\nsocorro dá e salvação,\npois cuidará de ti. **4.**\n Nos seus tesouros tudo tens,\nA Deus cuidará de ti.\nDeus cuidará de ti, Terrestres e celestes bens,\nA e cuidará de ti.\nem cada di---a proverá.\nSim, cuidará de ti, **5.**\n O que é mister te pode dar\nA A quem cuidará de ti.\nDeus cuidará de ti. Nos braços seus te sustentar,\npois cuidará de ti."
+  },
+  {
+    "numero": "237",
+    "titulo": "O Nosso Lar",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": ". j j . j j\n1. Querido lar, ali no céu, além do\nj j j n\nmundo, além do véu. Viver ali será pra-\n## . j . 4 j j 12\nJ J . # n j . . Œ\nzer, ó como já o almejo ver! Querido\n# # 12 j j j j j j\nw J w j w\nlar! Oh! Doce lar! Onde eu pra sempre irei morar. Um pouco\n& J # J # n j w ‰ ‰ ‰ ‰\nmais e eu partirei, no eterno lar descansarei.\n\n**2.**\n Querido lar, alegre lar! **3.**\n Só vai gozar no lar de luz\nquem for remido por Jesus.\nAli ninguém vai mais chorar; Eu sei que Cristo, meu Senhor,\nme espera ali no lar de amor.\ntristeza e dor e tentação\nnaquele lar não entrarão.\nQuerido lar! Oh! Doce lar!\nOnde eu pra sempre irei morar.\nUm pouco mais e eu partirei,\nno eterno lar descansarei.\nDisco do Conjunto “Novo Alvorecer”\nRisonha Juventudesem data"
+  },
+  {
+    "numero": "238",
+    "titulo": "Não Me Importa Se O Sol Não Brilhar",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "Não me importa se o sol não brilhar, Jesus é meu, sim, sempre meu!\nNão me importa se escurecer: Cristo comigo está! Nunca me desam-\npara. Sim, seguro estou. Nas horas dificeis.\n& 98 j j j j j j j j j\nSim, cantando eu vou. Sempre alegre, alegre, pois não me im-\nj j j j j j j j j 7j j j\nporta se o sol não brilhar: Cristo comigo está!\nFonte: não encontrada\nReferência bíblica: Mt 2**8.**\n20"
+  },
+  {
+    "numero": "239",
+    "titulo": "Rocha Eterna",
+    "tags": [
+      "Consolo",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "### 3 j . j w\n1. Rocha eterna, meu Senhor, és refúgio prote -\n### A j E **7.**\n A\ntor. Água e sangue o lado teu na infamante cruz ver -\n& w . w Ó\nteu. Vem, ó Cristo, me lavar do pecado e me salvar.\n\n**2.**\n Eu de mim não cumprirei **3.**\n Nada trago, ó meu Jesus;\nA só recorro à tua cruz.\nnunca, ó Deus, a tua Lei; Nu, me venho em ti vestir,\nA só a graça te pedir.\npor mais zelo que tiver, Corro, imundo, ao manancial;\nA lava, ó livrame do mal!\npor mais pranto que verter,\nnada poderei pagar; **4.**\n És amparo no viver,\nA és consolo no morrer,\ntu, só tu, me vens salvar. esperança no porvir:\nTu vieste me remir.\nRocha eterna, a me salvar,\nhei de em ti me refugiar!"
+  },
+  {
+    "numero": "240",
+    "titulo": "Caminhando Alegres",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nCaminhando alegres, vamos para os céus, entoando\nhinos em louvor a Deus! Dores e tristezas -\n# E m A m\ntudo passará, pois a luz divina tudo desfa-\nJ J w\nrá! Caminhando alegres, vamos para os céus,\nentoando hinos em louvor a Deus!\n\n**2.**\n Amparemos todos por amor a Deus; **3.**\n Caminhemos firmes, sempre até o final:\nA Vitorioso é o Guia, derrotado é o mal!\nnão nos afastemos dos caminhos seus. Cristo é a segurança, nossa proteção,\ndele obtemos graça, paz e salvação.\nQuando vem a ceifa, muito Deus dará\ne por sua graça nos receberá.\n\n**4.**\n Pai, a ti cantamos, com prazer, louvor,\ne a teu Filho amado, e ao Consolador;\nCaminhando alegres, vamos para os céus,\nnosso Deus triúno vamos celebrar,\ncaminhando alegres, hoje e sem cessar!\nentoando hinos em louvor a Deus!"
+  },
+  {
+    "numero": "241",
+    "titulo": "Céu Pra Mim",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nNão sei quando Cristo Jesus há de vir, e nem qual o dia em que eu\nhei de partir. Mas eu sei que, notando o seu rosto luzir, se -\nrá grande glória pra mim! Será grande glória pra mim! Se -\nrá grande glória pra mim! Mas eu sei, quando a sua pre -\nsença luzir, será grande glória pra mim!\n\n**2.**\n O canto dos anjos ainda não sei, **3.**\n A vida eterna Jesus vai me dar,\nentão, para sempre estarei em seu lar.\nnem que sinfonias eu lá ouvirei. Aleluias eternas eu hei de cantar.\nSerá grande glória pra mim!\nMas eu sei que o falar de Jesus, o meu Rei, Será grande glória pra mim!\nSerá grande glória pra mim!\nserá sinfonia pra mim! Aleluias eternas eu hei de cantar.\nSerá grande glória pra mim!\nSerá sinfonia pra mim! Será sinfonia pra mim!\nMas eu sei que o falar de Jesus, o meu Rei,\nserá sinfonia pra mim!"
+  },
+  {
+    "numero": "242",
+    "titulo": "Vinde, Amigos",
+    "tags": [
+      "Louvor",
+      "Quaresma",
+      "Advento",
+      "Geral"
+    ],
+    "letra": "**1.**\nVinde, amigos, vinde a Jesus, ele ganhounos bênçãos na cruz!\nTodos que crerem ele conduz. Oh! Vinde ao Salvador.\nQue alegria, sem pecado ou mal, reunirnos todos, afinal,\njuntos na pátria celestial, perto do Salvador!\n\n**2.**\n Já, sem demora, a todos convém, **3.**\n Que ama a todos Cristo vos diz,\nE A quer recebervos nesse país.\nir caminhando à glória do além. Quer concedervos vida feliz.\nOh! Vinde ao Salvador!\nCristo vos chama, quer vosso bem.\nOh! Vinde ao Salvador! **4.**\n Eis a chamada: “Vinde hoje a mim!”\nOutro não há que vos ame assim.\nQue alegria, sem pecado ou mal, Seu é o amor que nunca tem fim.\nA Oh! Vinde ao Salvador!\nreunirnos todos, afinal,\njuntos na pátria celestial,\nperto do Salvador!"
+  },
+  {
+    "numero": "243",
+    "titulo": "Junto A Ti",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nMinha possessão eterna, és o meu maior amor. Bem mai-\nor que o bem da vida, és, meu Deus, meu Salvador. Junto a\nti, junto a ti, Junto a ti, junto a ti. Quero an-\ndar contigo sempre na jornada minha aqui.\n\n**2.**\n Pelo vale tão sombrio **3.**\n Quando, pelas santas portas,\nda feliz Jerusalém,\ne também terrível mar, eu puder entrar na glória,\ngozarei o eterno bem.\nqueira tua mão divina\nsempre, sempre me guiar.\nJunto a ti, junto a ti,\nJunto a ti, junto a ti.\nQuero andar contigo sempre\nna jornada minha aqui.\nDisco do Conjunto \"Novo Alvorecer\"\nLouvor Jovemsem data"
+  },
+  {
+    "numero": "244",
+    "titulo": "Era Peregrino Não Tinha Prazer Em Meu Coração",
+    "tags": [
+      "Oração",
+      "Quaresma",
+      "Geral"
+    ],
+    "letra": "**1.**\nEra peregrino não tinha prazer em meu coração,\nno entanto, um dia encontrei um Homem que me deu a mão.\nEste Homem disse: Se estás cansado, venha hoje a mim;\n# CmG\neu sou o caminho, ninguém vai ao céu se não for por mim.\n\n**2.**\n Esta cruz pesada que em nossos ombros já calejou,\nquando eu sinto dores eu me lembro então o que Jesus passou.\nComparando vejo que neste caminho sou muito feliz,\npois estou bem certo da morada eterna do lindo país.\n\n**3.**\n A Jesus saudando os seus pés santos eu quero beijar,\nvendo as cicatrizes que ele suportou para me salvar.\nA jornada finda minha cruz pesada Jesus vai trocar\ne uma coroa resplandecente ele vai me dar.\nFonte: não encontrada"
+  },
+  {
+    "numero": "245",
+    "titulo": "Vem, Ajuda-Nos Ó Cristo",
+    "tags": [
+      "Oração",
+      "Geral"
+    ],
+    "letra": "& b 4 . J w\nVem, ajudanos ó Cristo, a guardar bem a lição.\nVem, escreve o teu ensino, firme em cada coração.\n& b . # j . w\nFica em nossa companhia, fazenos vir sempre aqui.\nÓ dirige os nossos passos, cada vez mais junto a ti."
+  },
+  {
+    "numero": "246",
+    "titulo": "Com Tua Mão",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "**1.**\nCom tua mão segura bem a minha, pois eu tão\nfrágil sou, ó Salvador, que não me atrevo a dar nenhum só\npasso, sem teu amparo, meu Jesus, Senhor!\n\n**2.**\n Com tua mão segura bem a minha **3.**\n Com tua mão segura bem a minha\ne pelo mundo alegre seguirei.\ne mais e mais unido a ti, Jesus. Mesmo onde as sombras caem mais escuras,\nteu rosto vendo, nada temerei.\nOh! Faze com que nunca me desvie\nde ti, Senhor, a minha vida e luz."
+  },
+  {
+    "numero": "247",
+    "titulo": "Finda-Se Este Dia",
+    "tags": [
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nFindase este dia que meu Pai me deu, sombras vesper-\ntinas cobrem já o céu. Ó Jesus bendito,\nse comigo estás, eu não temo a noite, vou dormir em paz.\n\n**2.**\n Com pecados hoje eu te entristeci, **3.**\n Guarda o que viaja no violento mar,\ne ao que sofre dores queiras confortar.\nmas perdão te peço por amor de ti; Ao tentado estende tua mão, Senhor;\nmanda ao triste e aflito o Consolador.\nsou teu frágil filho, livrame do mal;\nem ti mesmo eu tenha proteção real. **4.**\n Pelos pais e amigos, pela santa Lei,\npelo amor divino graças te darei.\nÓ Jesus, aceita minha petição,\ndá, enquanto durmo, tua proteção."
+  },
+  {
+    "numero": "248",
+    "titulo": "Deus Vos Guarde Pelo Seu Poder",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "& c . Œ . Œ\n1. Deus vos guarde pelo seu poder protegidos, abençoados,\ndesfrutando os seus cuidados; Deus vos guarde pelo seu poder. Pelo\nseu poder e no seu amor, estaremos todos com Jesuspelo\nseu poder e no seu amor. Oh! Que Deus nos guarde em sua luz.\n\n**2.**\n Deus vos guarde para o seu louvor **3.**\n Deus vos guarde sempre em seu amor,\nno trabalho glorioso,\nconsolados e contentes, para o dia venturoso;\nDeus vos guarde sempre em seu amor.\nachegados sempre aos crentes;\nDeus vos guarde para o seu louvor.\nPelo seu poder e no seu amor,\nestaremos todos com Jesus.\nPelo seu poder e no seu amor\noh! Que Deus nos guarde em sua luz."
+  },
+  {
+    "numero": "249",
+    "titulo": "Vou, Cansado, Repousar",
+    "tags": [
+      "Fé",
+      "Consolo",
+      "Geral"
+    ],
+    "letra": "**1.**\nVou, cansado, repousar, quero os olhos meus fechar;\nguarda, ó Pai, com teu olhar, o meu leito e nosso lar.\n\n**2.**\n Queiras perdoarme, ó Deus, **3.**\n Sintam todos os cristãos,\nmeus bons pais e meus irmãos,\ntodos os pecados meus; sim, os homens em geral,\ntua graça paternal.\npois o sangue de Jesus\nao perdão e à paz conduz.\n\n**4.**\n Vem os tristes alegrar\ne os enfermos confortar.\nFortalece a fé, ó Deus,\nfazenos entrar nos céus!"
+  },
+  {
+    "numero": "250",
+    "titulo": "Comigo Fica, Ó Deus",
+    "tags": [
+      "Consolo",
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "**1.**\nComigo fica, ó Deus, teu verbo aqui me guie, com\n&b c J c\nsegurança aos céus, e de erros me desvie. Tem\nŒ n Œ\ncompaixão de mim, concedeme bom fim, nos\ncéus bendita paz, que tão feliz me faz.\n\n**2.**\n Oh! Vem me confortar\nao desabar o mundo,\ne, quando enfim passar,\na terra com estrondo,\ntransportame, ó Jesus,\nà glória e eterna luz,\nonde eu te exaltarei,\nó meu bendito Rei."
+  },
+  {
+    "numero": "251",
+    "titulo": "Em Breve Havemos",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "breve, em breve havemos de ver o Salvador e, em\ncasa, louvaremos a Cris to, o Redentor."
+  },
+  {
+    "numero": "252",
+    "titulo": "A Deus, Supremo Benfeitor",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "A Deus, supremo Benfeitor, rendamos juntos\no louvor. A Deus o Filho, a Deus o Pai\nw Œ Œ\ne ao Santo Espírito exaltai!"
+  },
+  {
+    "numero": "253",
+    "titulo": "Ao Trino Deus Onipotente",
+    "tags": [
+      "Louvor",
+      "Geral"
+    ],
+    "letra": "Ao trino Deus onipotente, Pai, Filho, nosso Reden-\n& b 32 Œ c 32\ntor, rendamos glória eternamente, bem como o\n3 Œ c n 3\nsanto Ensinador. No seu temor convém vi-\nver e sempre aqui comparecer."
+  },
+  {
+    "numero": "254",
+    "titulo": "Queiras, Deus, Abençoar",
+    "tags": [
+      "Santa Ceia",
+      "Geral"
+    ],
+    "letra": "Queiras, Deus, abençoar a saida como a en-\ntrada. Dános pão ebemestar, tua/ajuda na jornada.\nVem, por morte venturosa, darnos vida gloriosa."
+  },
+  {
+    "numero": "255",
+    "titulo": "A Graça Do Bom Salvador",
+    "tags": [
+      "Geral"
+    ],
+    "letra": "A graça do bom Salvador, o amor do Pai e Ensinador, me\n# # # A # m Œ\nguarde e guie em meu andar até meu lar nos céus provar.\nReferência bíblica: Jo 1**4.**\n1-3"
   }
 ]

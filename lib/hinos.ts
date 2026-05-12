@@ -1,7 +1,7 @@
 import dados from "@/data/hinos.json";
 
 export type Hino = {
-  numero: number;
+  numero: string;
   titulo: string;
   tags: string[];
   letra: string;
