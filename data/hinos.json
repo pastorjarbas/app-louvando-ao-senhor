@@ -1,0 +1,23 @@
+[
+  {
+    "numero": 1,
+    "titulo": "Castelo Forte",
+    "tags": [
+      "Reforma",
+      "Confissão",
+      "Fé",
+      "Consolo"
+    ],
+    "letra": "Castelo forte é nosso Deus,\nespada e bom escudo.\n\nCom seu poder defende os seus\nem todo transe agudo."
+  },
+  {
+    "numero": 2,
+    "titulo": "Santo, Santo, Santo",
+    "tags": [
+      "Trindade",
+      "Louvor",
+      "Adoração"
+    ],
+    "letra": "Santo, santo, santo,\nDeus onipotente!\n\nCedo de manhã cantaremos\nteu louvor."
+  }
+]
