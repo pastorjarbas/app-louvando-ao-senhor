@@ -48,7 +48,7 @@ export default function HomePage() {
 
       <section className="px-4 py-6">
         <div className="mx-auto max-w-3xl rounded-2xl bg-white p-6 shadow-md">
-          <div className="mb-6">
+          <div className="mb-4">
             <input
               type="text"
               value={busca}
@@ -58,32 +58,37 @@ export default function HomePage() {
             />
           </div>
 
+          <div className="mb-6 flex justify-end">
+            <Link
+              href="/indice"
+              className="rounded-xl bg-blue-900 px-4 py-2 text-sm font-semibold text-white transition hover:bg-blue-800"
+            >
+              Índice numérico
+            </Link>
+          </div>
+
           <div className="space-y-3">
             {hinosFiltrados.length > 0 ? (
               hinosFiltrados.map((hino) => (
                 <Link
                   key={hino.numero}
                   href={`/hinos/${encodeURIComponent(hino.numero)}`}
-                  className="block rounded-xl border border-gray-200 p-4 transition hover:bg-gray-50"
+                  className="block rounded-lg border border-gray-200 px-4 py-3 transition hover:bg-gray-50"
                 >
-                  <p className="text-sm text-gray-500">
-                    Hino {hino.numero}
+                  <p className="text-sm leading-relaxed text-gray-800">
+                    <span className="font-bold">{hino.numero}</span>
+                    {" - "}
+                    <span className="font-medium">{hino.titulo}</span>
+
+                    {hino.tags?.length > 0 && (
+                      <>
+                        {", "}
+                        <span className="text-gray-500">
+                          {hino.tags.map((tag) => `#${tag}`).join(", ")}
+                        </span>
+                      </>
+                    )}
                   </p>
-
-                  <h2 className="text-xl font-semibold text-gray-900">
-                    {hino.titulo}
-                  </h2>
-
-                  <div className="mt-3 flex flex-wrap gap-2">
-                    {hino.tags.map((tag) => (
-                      <span
-                        key={tag}
-                        className="rounded-full bg-blue-50 px-3 py-1 text-xs font-medium text-blue-800"
-                      >
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
                 </Link>
               ))
             ) : (
@@ -102,20 +107,14 @@ export default function HomePage() {
             <span>Início</span>
           </Link>
 
-          <Link
-            href="/"
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
+          <Link href="/" className="flex flex-col items-center text-sm text-gray-700">
             <span>🔎</span>
             <span>Buscar</span>
           </Link>
 
-          <Link
-            href="/"
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>📖</span>
-            <span>Hinos</span>
+          <Link href="/indice" className="flex flex-col items-center text-sm text-gray-700">
+            <span>#️⃣</span>
+            <span>Índice</span>
           </Link>
 
           <Link

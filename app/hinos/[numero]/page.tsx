@@ -143,6 +143,14 @@ function alternarFavorito() {
             <span>Início</span>
           </Link>
 
+<Link
+  href="/indice"
+  className="flex flex-col items-center text-sm text-gray-700"
+>
+  <span>#️⃣</span>
+  <span>Números</span>
+</Link>
+
           <button
             onClick={diminuirFonte}
             className="flex flex-col items-center text-sm text-gray-700"
