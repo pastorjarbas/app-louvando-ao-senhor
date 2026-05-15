@@ -51,17 +51,17 @@ export default function Page() {
     localStorage.setItem("hinosFavoritos", JSON.stringify(novosFavoritos));
   }
 
-function alternarFavorito() {
-  if (!hino) return;
+  function alternarFavorito() {
+    if (!hino) return;
 
-  const numeroHino = String(hino.numero);
+    const numeroHino = String(hino.numero);
 
-  if (estaFavorito) {
-    salvarFavoritos(favoritos.filter((item) => item !== numeroHino));
-  } else {
-    salvarFavoritos([...favoritos, numeroHino]);
+    if (estaFavorito) {
+      salvarFavoritos(favoritos.filter((item) => item !== numeroHino));
+    } else {
+      salvarFavoritos([...favoritos, numeroHino]);
+    }
   }
-}
 
   function diminuirFonte() {
     setTamanhoFonte((atual) => Math.max(16, atual - 2));
@@ -133,49 +133,59 @@ function alternarFavorito() {
         </div>
       </section>
 
-      <footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 bg-white shadow-lg">
-        <div className="mx-auto flex max-w-3xl justify-around py-3">
-          <Link
-            href="/"
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>🏠</span>
-            <span>Início</span>
-          </Link>
+<footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 bg-white shadow-lg">
+  <div className="mx-auto flex max-w-3xl justify-around py-3">
+    <Link
+      href="/"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>🏠</span>
+      <span>Início</span>
+    </Link>
 
-<Link
-  href="/indice"
-  className="flex flex-col items-center text-sm text-gray-700"
->
-  <span>#️⃣</span>
-  <span>Números</span>
-</Link>
+    <Link
+      href="/indice"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>#️⃣</span>
+      <span>Números</span>
+    </Link>
 
-          <button
-            onClick={diminuirFonte}
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>A-</span>
-            <span>Menor</span>
-          </button>
+    <a
+      href="https://pastorjarbas.com"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>🌐</span>
+      <span>Site</span>
+    </a>
 
-          <button
-            onClick={aumentarFonte}
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>A+</span>
-            <span>Maior</span>
-          </button>
+    <button
+      onClick={diminuirFonte}
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>A-</span>
+      <span>Menor</span>
+    </button>
 
-          <button
-            onClick={alternarFavorito}
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>{estaFavorito ? "★" : "☆"}</span>
-            <span>Favorito</span>
-          </button>
-        </div>
-      </footer>
+    <button
+      onClick={aumentarFonte}
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>A+</span>
+      <span>Maior</span>
+    </button>
+
+    <button
+      onClick={alternarFavorito}
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>{estaFavorito ? "★" : "☆"}</span>
+      <span>Favorito</span>
+    </button>
+  </div>
+</footer>
     </main>
   );
 }

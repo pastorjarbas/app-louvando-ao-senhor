@@ -100,32 +100,51 @@ export default function HomePage() {
         </div>
       </section>
 
-      <footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 bg-white shadow-lg">
-        <div className="mx-auto flex max-w-3xl justify-around py-3">
-          <Link href="/" className="flex flex-col items-center text-sm text-gray-700">
-            <span>🏠</span>
-            <span>Início</span>
-          </Link>
+<footer className="fixed bottom-0 left-0 right-0 border-t border-gray-200 bg-white shadow-lg">
+  <div className="mx-auto flex max-w-3xl justify-around py-3">
+    <Link
+      href="/"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>🏠</span>
+      <span>Início</span>
+    </Link>
 
-          <Link href="/" className="flex flex-col items-center text-sm text-gray-700">
-            <span>🔎</span>
-            <span>Buscar</span>
-          </Link>
+    <Link
+      href="/"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>🔎</span>
+      <span>Buscar</span>
+    </Link>
 
-          <Link href="/indice" className="flex flex-col items-center text-sm text-gray-700">
-            <span>#️⃣</span>
-            <span>Índice</span>
-          </Link>
+    <Link
+      href="/indice"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>#️⃣</span>
+      <span>Índice</span>
+    </Link>
 
-          <Link
-            href="/favoritos"
-            className="flex flex-col items-center text-sm text-gray-700"
-          >
-            <span>⭐</span>
-            <span>Favoritos</span>
-          </Link>
-        </div>
-      </footer>
+    <a
+      href="https://pastorjarbas.com"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>🌐</span>
+      <span>Site</span>
+    </a>
+
+    <Link
+      href="/favoritos"
+      className="flex flex-col items-center text-xs text-gray-700"
+    >
+      <span>⭐</span>
+      <span>Favoritos</span>
+    </Link>
+  </div>
+</footer>
     </main>
   );
 }
